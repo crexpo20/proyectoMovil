@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: a1db3adc489751f46a4befddb8e0bc24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 486679744273015248
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_0
+  - first:
+      213: 6641394465350614783
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_1
+  - first:
+      213: -2243861069725603877
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_2
+  - first:
+      213: -4326313642520822699
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_3
+  - first:
+      213: 9063631412169980734
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_4
+  - first:
+      213: 4956876192461980674
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_5
+  - first:
+      213: -8445596532477135308
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_6
+  - first:
+      213: -8502660798526794026
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_7
+  - first:
+      213: 6543979683271024912
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_8
+  - first:
+      213: -2657731808849245309
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_9
+  - first:
+      213: -7472965930944888625
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_10
+  - first:
+      213: -1825236104906845868
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_11
+  - first:
+      213: -2977383095480718684
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_12
+  - first:
+      213: -1928897418862150976
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_13
+  - first:
+      213: 1312533224966100277
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_14
+  - first:
+      213: -7826560793184456191
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_15
+  - first:
+      213: -6510044841802523946
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_16
+  - first:
+      213: 7117284174984490969
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_17
+  - first:
+      213: 4632981099886555878
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_18
+  - first:
+      213: -597275235865643434
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_19
+  - first:
+      213: 5126255135761320989
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_20
+  - first:
+      213: -6558569934110765413
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_21
+  - first:
+      213: -8653667073893396201
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_22
+  - first:
+      213: -2299485523507071202
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 100
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d165cc16a801c600800000000000000
+      internalID: 486679744273015248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 479
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef7702419fa2c50800000000000000
+      internalID: 6641394465350614783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 479
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd76dadde343cd0e0800000000000000
+      internalID: -2243861069725603877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 323
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cbe96f9a8d5f3c0800000000000000
+      internalID: -4326313642520822699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 480
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bb6798fbc78cd70800000000000000
+      internalID: 9063631412169980734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 480
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204894762ac5ac440800000000000000
+      internalID: 4956876192461980674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 481
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436fd6d43b63bca80800000000000000
+      internalID: -8445596532477135308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6db228d0b700a80800000000000000
+      internalID: -8502660798526794026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 319
+        width: 103
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0112eb6b9d2e0da50800000000000000
+      internalID: 6543979683271024912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 320
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc8494007dd1bd0800000000000000
+      internalID: -2657731808849245309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 319
+        width: 103
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc00f6b4411ba4890800000000000000
+      internalID: -7472965930944888625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 320
+        width: 114
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4515fcfde657ba6e0800000000000000
+      internalID: -1825236104906845868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa6e9979d53ea6d0800000000000000
+      internalID: -2977383095480718684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 157
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cabd8c640e2b35e0800000000000000
+      internalID: -1928897418862150976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 157
+        width: 96
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5359006930e073210800000000000000
+      internalID: 1312533224966100277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 157
+        width: 95
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102bd3dec68726390800000000000000
+      internalID: -7826560793184456191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_16
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 159
+        width: 93
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da1f7445bca7a5a0800000000000000
+      internalID: -6510044841802523946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_17
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 160
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfa5778f3ca5c260800000000000000
+      internalID: 7117284174984490969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e236d583c7ab4040800000000000000
+      internalID: 4632981099886555878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6563715665d06b7f0800000000000000
+      internalID: -597275235865643434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 102
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c431bc2ed142740800000000000000
+      internalID: 5126255135761320989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_21
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3
+        width: 102
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e45cac4674bf4a0800000000000000
+      internalID: -6558569934110765413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_22
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711171835aff7e780800000000000000
+      internalID: -8653667073893396201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_23
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17353d79169610e0800000000000000
+      internalID: -2299485523507071202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_0: 486679744273015248
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_1: 6641394465350614783
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_10: -7472965930944888625
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_11: -1825236104906845868
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_12: -2977383095480718684
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_13: -1928897418862150976
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_14: 1312533224966100277
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_15: -7826560793184456191
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_16: -6510044841802523946
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_17: 7117284174984490969
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_18: 4632981099886555878
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_19: -597275235865643434
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_2: -2243861069725603877
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_20: 5126255135761320989
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_21: -6558569934110765413
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_22: -8653667073893396201
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_23: -2299485523507071202
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_3: -4326313642520822699
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_4: 9063631412169980734
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_5: 4956876192461980674
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_6: -8445596532477135308
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_7: -8502660798526794026
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_8: 6543979683271024912
+      PC _ Computer - Spelunky - Enemies and NPCs - Anubis_Anubis II_9: -2657731808849245309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

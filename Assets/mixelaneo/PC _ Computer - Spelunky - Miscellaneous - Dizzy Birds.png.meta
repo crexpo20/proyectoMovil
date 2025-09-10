@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 9fac040b2eb8f6d439e1b503bd8781d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -117992827540287928
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_0
+  - first:
+      213: -1629668347665633460
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_1
+  - first:
+      213: -8003532532120165418
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_2
+  - first:
+      213: 5905781059749113832
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_3
+  - first:
+      213: 1421013850869647965
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_4
+  - first:
+      213: -7956738388405899892
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_5
+  - first:
+      213: 2668506720379271284
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_6
+  - first:
+      213: 3177304481960367639
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_7
+  - first:
+      213: -8301182663231682918
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_8
+  - first:
+      213: 6000982804424414094
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_9
+  - first:
+      213: -4035347887297350692
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_10
+  - first:
+      213: 2721248266922525188
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_11
+  - first:
+      213: -7246051451803067714
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_12
+  - first:
+      213: -3888804108679240645
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_13
+  - first:
+      213: -7371992185799415410
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_14
+  - first:
+      213: -8039332966695784261
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_15
+  - first:
+      213: -8389213476789858837
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_16
+  - first:
+      213: -1054172497223670640
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_17
+  - first:
+      213: -1092116175639902440
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_18
+  - first:
+      213: 682952425505446566
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_19
+  - first:
+      213: 5349015311859154321
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_20
+  - first:
+      213: 2758485860452446184
+    second: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eca64062ecc5ef0800000000000000
+      internalID: -117992827540287928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f21bba5414269e0800000000000000
+      internalID: -1629668347665633460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3e1ba019dbde090800000000000000
+      internalID: -8003532532120165418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef639b659c85f150800000000000000
+      internalID: 5905781059749113832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5acef9819478b310800000000000000
+      internalID: 1421013850869647965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 16
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2a54a79cf39190800000000000000
+      internalID: -7956738388405899892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478f2fc49b0780520800000000000000
+      internalID: 2668506720379271284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716118e979d081c20800000000000000
+      internalID: 3177304481960367639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 7
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c17e69564ccc80800000000000000
+      internalID: -8301182663231682918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 16
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83d1f8e016c74350800000000000000
+      internalID: 6000982804424414094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 7
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b4880a709ff7c0800000000000000
+      internalID: -4035347887297350692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 13
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402809781e0d3c520800000000000000
+      internalID: 2721248266922525188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba1317889ad07b90800000000000000
+      internalID: -7246051451803067714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_13
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 13
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3428155441380ac0800000000000000
+      internalID: -3888804108679240645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 7
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89687e5a2c61b990800000000000000
+      internalID: -7371992185799415410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_15
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 11
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0b201d24d8e6090800000000000000
+      internalID: -8039332966695784261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 7
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed45037ac6839b80800000000000000
+      internalID: -8389213476789858837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942ff2f2b3de51f0800000000000000
+      internalID: -1054172497223670640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_18
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 8
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178681ef1608d0f0800000000000000
+      internalID: -1092116175639902440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_19
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 10
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5eb0dc955a7900800000000000000
+      internalID: 682952425505446566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_20
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 7
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d7d79f5158b3a40800000000000000
+      internalID: 5349015311859154321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_21
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 5
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efa436664c184620800000000000000
+      internalID: 2758485860452446184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_0: -117992827540287928
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_1: -1629668347665633460
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_10: -4035347887297350692
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_11: 2721248266922525188
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_12: -7246051451803067714
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_13: -3888804108679240645
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_14: -7371992185799415410
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_15: -8039332966695784261
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_16: -8389213476789858837
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_17: -1054172497223670640
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_18: -1092116175639902440
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_19: 682952425505446566
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_2: -8003532532120165418
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_20: 5349015311859154321
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_21: 2758485860452446184
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_3: 5905781059749113832
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_4: 1421013850869647965
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_5: -7956738388405899892
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_6: 2668506720379271284
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_7: 3177304481960367639
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_8: -8301182663231682918
+      PC _ Computer - Spelunky - Miscellaneous - Dizzy Birds_9: 6000982804424414094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

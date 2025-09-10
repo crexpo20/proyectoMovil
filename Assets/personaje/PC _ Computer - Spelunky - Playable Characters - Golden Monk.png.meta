@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: c691ccb875025f04f9bd539b0699c51f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8709317864079169769
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_0
+  - first:
+      213: -1423297276141540057
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_1
+  - first:
+      213: 2372816225897867735
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_2
+  - first:
+      213: 3795803061826884455
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_3
+  - first:
+      213: 5032500578602824136
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_4
+  - first:
+      213: -995770783873877588
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_5
+  - first:
+      213: -490508208694881171
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_6
+  - first:
+      213: -4514554196564155823
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_7
+  - first:
+      213: 1082612468156677170
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_8
+  - first:
+      213: -3782115892962745665
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_9
+  - first:
+      213: 4991952492632282289
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_10
+  - first:
+      213: -9177593517584044821
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_11
+  - first:
+      213: 7702528222765199286
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_12
+  - first:
+      213: 7422840346420679306
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_13
+  - first:
+      213: -3605663257319703387
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_14
+  - first:
+      213: -1200353604706970784
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_15
+  - first:
+      213: 4880425455188364304
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_16
+  - first:
+      213: -4516018518998167790
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_17
+  - first:
+      213: -3035987609297742144
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_18
+  - first:
+      213: 6368077753268017977
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_19
+  - first:
+      213: -2636490458789328451
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_20
+  - first:
+      213: 3717839224512032123
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_21
+  - first:
+      213: 1688689380597930388
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_22
+  - first:
+      213: 4003475731627837733
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_23
+  - first:
+      213: 4706323475125378308
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_24
+  - first:
+      213: 5724667586491305847
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_25
+  - first:
+      213: -4091299206178016862
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_26
+  - first:
+      213: 3364624528587199696
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_27
+  - first:
+      213: -2974256276331252226
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_28
+  - first:
+      213: 755187206796943404
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_29
+  - first:
+      213: -1807611979764294975
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_30
+  - first:
+      213: -4037374021698196554
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_31
+  - first:
+      213: -7392897087593888714
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_32
+  - first:
+      213: 6819034720416441223
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_33
+  - first:
+      213: 3142271499896300576
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_34
+  - first:
+      213: 3349328596867497806
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_35
+  - first:
+      213: -2370355169482105559
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_36
+  - first:
+      213: -7806242017466739367
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_37
+  - first:
+      213: 3191200765044428291
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_38
+  - first:
+      213: -8368663596960675321
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_39
+  - first:
+      213: -7256374589209905329
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_40
+  - first:
+      213: 137643057437745360
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_41
+  - first:
+      213: -7486597844547677999
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_42
+  - first:
+      213: -7591130964670526436
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_43
+  - first:
+      213: -8988604861686662709
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_44
+  - first:
+      213: 8199981793402644625
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_45
+  - first:
+      213: 2509487604958330189
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_46
+  - first:
+      213: 5931476526574677078
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_47
+  - first:
+      213: -1802148449593911060
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_48
+  - first:
+      213: 4129735220896265914
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_49
+  - first:
+      213: -7375967960823354653
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_50
+  - first:
+      213: 3586894539510487098
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_51
+  - first:
+      213: -7654898857123657373
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_52
+  - first:
+      213: -3327892893817693621
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_53
+  - first:
+      213: 8227847564826964215
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_54
+  - first:
+      213: -2547897096373622404
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_55
+  - first:
+      213: 79625357695741136
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_56
+  - first:
+      213: 976006688906611875
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_57
+  - first:
+      213: -616063478776376293
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_58
+  - first:
+      213: 8210140020092678030
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_59
+  - first:
+      213: -192175558373723704
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_60
+  - first:
+      213: 6070746680285477740
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_61
+  - first:
+      213: -129294021587346442
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_62
+  - first:
+      213: -7652015485336868510
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_63
+  - first:
+      213: 960630462706594949
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_64
+  - first:
+      213: -1293580288384257771
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_65
+  - first:
+      213: -8590712982904363355
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_66
+  - first:
+      213: 3702585601874187104
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_67
+  - first:
+      213: -4353869192336240191
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_68
+  - first:
+      213: 5111203248341628013
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_69
+  - first:
+      213: 5745590569673115998
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_70
+  - first:
+      213: -7747630611588492191
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_71
+  - first:
+      213: -93192882688606309
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_72
+  - first:
+      213: -8125571457207122961
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_73
+  - first:
+      213: 1172764088105389185
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_74
+  - first:
+      213: -8690675931365741408
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_75
+  - first:
+      213: 3788188442252616745
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_76
+  - first:
+      213: -3185835133487868122
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_77
+  - first:
+      213: 553480503996165978
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_78
+  - first:
+      213: 3729159564723710917
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_79
+  - first:
+      213: 3630057999757178270
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_80
+  - first:
+      213: -7879513142971764480
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_81
+  - first:
+      213: 5552364017798738210
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_82
+  - first:
+      213: 1525218529999442326
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_83
+  - first:
+      213: 2676396589907928965
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_84
+  - first:
+      213: 8782166610452565622
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_85
+  - first:
+      213: -580689920272408688
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_86
+  - first:
+      213: 1441703638225255775
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_87
+  - first:
+      213: -7359098683292248754
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_88
+  - first:
+      213: -8144398927053256251
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_89
+  - first:
+      213: 4615471119933060169
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_90
+  - first:
+      213: -8269975055931707073
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_91
+  - first:
+      213: -9183484847404464438
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_92
+  - first:
+      213: -2397267513877663854
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_93
+  - first:
+      213: 2799231935260614828
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_94
+  - first:
+      213: 120854038021533795
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_95
+  - first:
+      213: -1217146180205088266
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_96
+  - first:
+      213: -1157979902656765307
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_97
+  - first:
+      213: 5894717628169092116
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_98
+  - first:
+      213: 6522294659223118519
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_99
+  - first:
+      213: -8884859150522127873
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_100
+  - first:
+      213: 5165985551312244368
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_101
+  - first:
+      213: 1875377096751066943
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_102
+  - first:
+      213: 4790620179795815865
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_103
+  - first:
+      213: 2499664542203828272
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_104
+  - first:
+      213: -3354729081506862450
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_105
+  - first:
+      213: 7605440415527755984
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_106
+  - first:
+      213: -3774782607324100531
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_107
+  - first:
+      213: 8486764709901213948
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_108
+  - first:
+      213: 1798877620047326700
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_109
+  - first:
+      213: 143195394950093303
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_110
+  - first:
+      213: -2966896337718878808
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_111
+  - first:
+      213: 2983959790006889617
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_112
+  - first:
+      213: 4285876409517942943
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_113
+  - first:
+      213: -5786846629808488477
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_114
+  - first:
+      213: 8594739323269432614
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_115
+  - first:
+      213: -4858418082621051420
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_116
+  - first:
+      213: -5678667427358892955
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_117
+  - first:
+      213: 1673162444692689599
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_118
+  - first:
+      213: -4504030095548221219
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_119
+  - first:
+      213: 6307792360123594761
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_120
+  - first:
+      213: 6929858353151445222
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_121
+  - first:
+      213: -7381624683553536377
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_122
+  - first:
+      213: 3218968633907390169
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_123
+  - first:
+      213: 191014295471660188
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_124
+  - first:
+      213: -7208343231718492884
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_125
+  - first:
+      213: -5626896042032303625
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_126
+  - first:
+      213: 3545178508361917126
+    second: PC _ Computer - Spelunky - Playable Characters - Golden Monk_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 948
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717e89beb89422780800000000000000
+      internalID: -8709317864079169769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 949
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d6dc51bae6f3ce0800000000000000
+      internalID: -1423297276141540057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 948
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ece529cfede020800000000000000
+      internalID: 2372816225897867735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 948
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763188116c66da430800000000000000
+      internalID: 3795803061826884455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 949
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1b197ec9807d540800000000000000
+      internalID: 5032500578602824136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 948
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93c757fbf4e22f0800000000000000
+      internalID: -995770783873877588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 949
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64145d026d5139f0800000000000000
+      internalID: -490508208694881171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 948
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1526b8a90e41951c0800000000000000
+      internalID: -4514554196564155823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 948
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c33e9cd46360f00800000000000000
+      internalID: 1082612468156677170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 949
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a89442a9338bc0800000000000000
+      internalID: -3782115892962745665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 867
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b419f2f75af64540800000000000000
+      internalID: 4991952492632282289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 868
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beca97b1253a2a080800000000000000
+      internalID: -9177593517584044821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 868
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf275edb90e4ea60800000000000000
+      internalID: 7702528222765199286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 868
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8297d897f9330760800000000000000
+      internalID: 7422840346420679306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 867
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acf7cffe5c16fdc0800000000000000
+      internalID: -3605663257319703387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 868
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063d49a91cc775fe0800000000000000
+      internalID: -1200353604706970784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 868
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cc6490811cab340800000000000000
+      internalID: 4880425455188364304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_17
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 868
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f47087511e351c0800000000000000
+      internalID: -4516018518998167790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 868
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6125dca510ed5d0800000000000000
+      internalID: -3035987609297742144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 868
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b9b912af4ff5850800000000000000
+      internalID: 6368077753268017977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 868
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c72e75ed496bd0800000000000000
+      internalID: -2636490458789328451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_21
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 868
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dad05a31b689330800000000000000
+      internalID: 3717839224512032123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 787
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499938a6b0e6f6710800000000000000
+      internalID: 1688689380597930388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 788
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529039277f33f8730800000000000000
+      internalID: 4003475731627837733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 796
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d1ee4f348305140800000000000000
+      internalID: 4706323475125378308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 795
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fc10ed6da127f40800000000000000
+      internalID: 5724667586491305847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 787
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1fbe17c09c837c0800000000000000
+      internalID: -4091299206178016862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 787
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d49105ae2c81be20800000000000000
+      internalID: 3364624528587199696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 789
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5bc4acca159b6d0800000000000000
+      internalID: -2974256276331252226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 788
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c202d0073c6fa7a00800000000000000
+      internalID: 755187206796943404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_30
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 788
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca98664b721ae6e0800000000000000
+      internalID: -1807611979764294975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_31
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 785
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe94bd7bd58f7c0800000000000000
+      internalID: -4037374021698196554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_32
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 789
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63442f0a447276990800000000000000
+      internalID: -7392897087593888714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 707
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7832a7d03f312ae50800000000000000
+      internalID: 6819034720416441223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 707
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024272bd7479b9b20800000000000000
+      internalID: 3142271499896300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 707
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f38540d943b7e20800000000000000
+      internalID: 3349328596867497806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 708
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d1283388eca1fd0800000000000000
+      internalID: -2370355169482105559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 708
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9559a2e8e38aaa390800000000000000
+      internalID: -7806242017466739367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 707
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e8d67203c694c20800000000000000
+      internalID: 3191200765044428291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 708
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a8a623cc88cdb80800000000000000
+      internalID: -8368663596960675321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 708
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f8fcc1cd2c4b90800000000000000
+      internalID: -7256374589209905329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_41
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 700
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d02068a1a109e100800000000000000
+      internalID: 137643057437745360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_42
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 703
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0d7831de24a1890800000000000000
+      internalID: -7486597844547677999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_43
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 703
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c485f6b92e6a690800000000000000
+      internalID: -7591130964670526436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_44
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 709
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc931d0808f024380800000000000000
+      internalID: -8988604861686662709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 627
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986f68eeff2cc170800000000000000
+      internalID: 8199981793402644625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 627
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d79cd4ead73d220800000000000000
+      internalID: 2509487604958330189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 627
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c2d008976d05250800000000000000
+      internalID: 5931476526574677078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 627
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce81f65888b7df6e0800000000000000
+      internalID: -1802148449593911060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 627
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f0f99d44cf4930800000000000000
+      internalID: 4129735220896265914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_50
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 627
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea267c183c43a990800000000000000
+      internalID: -7375967960823354653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_51
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 628
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a389f4a549537c130800000000000000
+      internalID: 3586894539510487098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_52
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 627
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369c99dfb0654c590800000000000000
+      internalID: -7654898857123657373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_53
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 628
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a13758b03f0d1d0800000000000000
+      internalID: -3327892893817693621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_54
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 628
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0f29764cf2f2270800000000000000
+      internalID: 8227847564826964215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_55
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 628
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79a666171d04acd0800000000000000
+      internalID: -2547897096373622404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 548
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc619847d2ea1100800000000000000
+      internalID: 79625357695741136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_57
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 548
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac0fa699e87b8d00800000000000000
+      internalID: 976006688906611875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 547
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145174b78d4377f0800000000000000
+      internalID: -616063478776376293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_59
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 548
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fa7dd59d640f170800000000000000
+      internalID: 8210140020092678030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_60
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 548
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13f9c0951455df0800000000000000
+      internalID: -192175558373723704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_61
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 547
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b3cc701ff9f3450800000000000000
+      internalID: 6070746680285477740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_62
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 547
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb54bbb5c7a43ef0800000000000000
+      internalID: -129294021587346442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_63
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 547
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26925bc45749ec590800000000000000
+      internalID: -7652015485336868510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_64
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 548
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584bb02f058d45d00800000000000000
+      internalID: 960630462706594949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_65
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 547
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511b866d4974c0ee0800000000000000
+      internalID: -1293580288384257771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_66
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 547
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a626aebe08a7c880800000000000000
+      internalID: -8590712982904363355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_67
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 547
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063df2edcf9326330800000000000000
+      internalID: 3702585601874187104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 468
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c118409903f393c0800000000000000
+      internalID: -4353869192336240191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 467
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64b9382644aee640800000000000000
+      internalID: 5111203248341628013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 467
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5943328e207cbf40800000000000000
+      internalID: 5745590569673115998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 469
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645359e103ea7490800000000000000
+      internalID: -7747630611588492191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_72
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 468
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f30c32199e4bef0800000000000000
+      internalID: -93192882688606309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_73
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 468
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3cd109fcb2c3f80800000000000000
+      internalID: -8125571457207122961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_74
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 465
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c4bdc79be764010800000000000000
+      internalID: 1172764088105389185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_75
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 466
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac68ec1944846780800000000000000
+      internalID: -8690675931365741408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_76
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 466
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92425ba4159529430800000000000000
+      internalID: 3788188442252616745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_77
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 466
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271f7b43d3a9c3d0800000000000000
+      internalID: -3185835133487868122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_78
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 466
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fabcef59b5ea700800000000000000
+      internalID: 553480503996165978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_79
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 466
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb6b1ebdd2a0c330800000000000000
+      internalID: 3729159564723710917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 393
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e957795948e806230800000000000000
+      internalID: 3630057999757178270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_81
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 392
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001752e3b8856a290800000000000000
+      internalID: -7879513142971764480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 388
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221fd8018a5fd0d40800000000000000
+      internalID: 5552364017798738210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 386
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d57d0c2aaa2510800000000000000
+      internalID: 1525218529999442326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 392
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5876783b488742520800000000000000
+      internalID: 2676396589907928965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_85
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 393
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e4256900680e970800000000000000
+      internalID: 8782166610452565622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_86
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 392
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f53891899f0f7f0800000000000000
+      internalID: -580689920272408688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_87
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 387
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dfdcb02d5f10410800000000000000
+      internalID: 1441703638225255775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_88
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 387
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45125bdcba3fd990800000000000000
+      internalID: -7359098683292248754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_89
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 392
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c90be3a35849fe80800000000000000
+      internalID: -8144398927053256251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 308
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9443fae97827d0040800000000000000
+      internalID: 4615471119933060169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 308
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3179d9b0852b3d80800000000000000
+      internalID: -8269975055931707073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 308
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6464eff25bd8080800000000000000
+      internalID: -9183484847404464438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_93
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 308
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fecbbb5e13bbed0800000000000000
+      internalID: -2397267513877663854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_94
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 308
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca063293d9ed8d620800000000000000
+      internalID: 2799231935260614828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_95
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 308
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360f1f57b1c5da100800000000000000
+      internalID: 120854038021533795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_96
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 308
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f6217ff3db1fe0800000000000000
+      internalID: -1217146180205088266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_97
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 309
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822a1de9670eefe0800000000000000
+      internalID: -1157979902656765307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 226
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c7046837e3ec150800000000000000
+      internalID: 5894717628169092116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2eb6b9f68d38a50800000000000000
+      internalID: 6522294659223118519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_100
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9efb53da3a2b480800000000000000
+      internalID: -8884859150522127873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_101
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 225
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e44c40d7441b740800000000000000
+      internalID: 5165985551312244368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_102
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 225
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f20c7888da60a10800000000000000
+      internalID: 1875377096751066943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_103
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 225
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd2c86fba3bb7240800000000000000
+      internalID: 4790620179795815865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_104
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 222
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038d2b748a790b220800000000000000
+      internalID: 2499664542203828272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 223
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a6c1bacab9171d0800000000000000
+      internalID: -3354729081506862450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_106
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 225
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06ee733c3fb8960800000000000000
+      internalID: 7605440415527755984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_107
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 225
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48cf12e7374d9bc0800000000000000
+      internalID: -3774782607324100531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_108
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 222
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0abf1f98b07c570800000000000000
+      internalID: 8486764709901213948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_109
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 223
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced22512aa5e6f810800000000000000
+      internalID: 1798877620047326700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_110
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9d879f37bbcf100800000000000000
+      internalID: 143195394950093303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_111
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 143
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8addbd8008773d6d0800000000000000
+      internalID: -2966896337718878808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_112
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 142
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ce86b8e97296920800000000000000
+      internalID: 2983959790006889617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_113
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f982b8c03ed7a7b30800000000000000
+      internalID: 4285876409517942943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_114
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 143
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef399476adf0bfa0800000000000000
+      internalID: -5786846629808488477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_115
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 143
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6254e8ca0e5a64770800000000000000
+      internalID: 8594739323269432614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_116
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 142
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda90fae7e639cb0800000000000000
+      internalID: -4858418082621051420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_117
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 140
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c11bacf025131b0800000000000000
+      internalID: -5678667427358892955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 142
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb29e6fe064483710800000000000000
+      internalID: 1673162444692689599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_119
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 142
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8fd21dd787e71c0800000000000000
+      internalID: -4504030095548221219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_120
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 86
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908f61e3bb7c98750800000000000000
+      internalID: 6307792360123594761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e88d5bc47dcb2060800000000000000
+      internalID: 6929858353151445222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_122
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 78
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864987b5733f8990800000000000000
+      internalID: -7381624683553536377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_123
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6ac2feae21cac20800000000000000
+      internalID: 3218968633907390169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_124
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 69
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c1c9c5d7e96a200800000000000000
+      internalID: 191014295471660188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_125
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 69
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f35ea502d6fb90800000000000000
+      internalID: -7208343231718492884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_126
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 76
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1fc92ccdf39e1b0800000000000000
+      internalID: -5626896042032303625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_127
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 66
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e248f111033130800000000000000
+      internalID: 3545178508361917126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_0: -8709317864079169769
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_1: -1423297276141540057
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_10: 4991952492632282289
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_100: -8884859150522127873
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_101: 5165985551312244368
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_102: 1875377096751066943
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_103: 4790620179795815865
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_104: 2499664542203828272
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_105: -3354729081506862450
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_106: 7605440415527755984
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_107: -3774782607324100531
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_108: 8486764709901213948
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_109: 1798877620047326700
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_11: -9177593517584044821
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_110: 143195394950093303
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_111: -2966896337718878808
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_112: 2983959790006889617
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_113: 4285876409517942943
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_114: -5786846629808488477
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_115: 8594739323269432614
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_116: -4858418082621051420
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_117: -5678667427358892955
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_118: 1673162444692689599
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_119: -4504030095548221219
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_12: 7702528222765199286
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_120: 6307792360123594761
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_121: 6929858353151445222
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_122: -7381624683553536377
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_123: 3218968633907390169
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_124: 191014295471660188
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_125: -7208343231718492884
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_126: -5626896042032303625
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_127: 3545178508361917126
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_13: 7422840346420679306
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_14: -3605663257319703387
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_15: -1200353604706970784
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_16: 4880425455188364304
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_17: -4516018518998167790
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_18: -3035987609297742144
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_19: 6368077753268017977
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_2: 2372816225897867735
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_20: -2636490458789328451
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_21: 3717839224512032123
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_22: 1688689380597930388
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_23: 4003475731627837733
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_24: 4706323475125378308
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_25: 5724667586491305847
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_26: -4091299206178016862
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_27: 3364624528587199696
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_28: -2974256276331252226
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_29: 755187206796943404
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_3: 3795803061826884455
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_30: -1807611979764294975
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_31: -4037374021698196554
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_32: -7392897087593888714
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_33: 6819034720416441223
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_34: 3142271499896300576
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_35: 3349328596867497806
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_36: -2370355169482105559
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_37: -7806242017466739367
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_38: 3191200765044428291
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_39: -8368663596960675321
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_4: 5032500578602824136
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_40: -7256374589209905329
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_41: 137643057437745360
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_42: -7486597844547677999
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_43: -7591130964670526436
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_44: -8988604861686662709
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_45: 8199981793402644625
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_46: 2509487604958330189
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_47: 5931476526574677078
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_48: -1802148449593911060
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_49: 4129735220896265914
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_5: -995770783873877588
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_50: -7375967960823354653
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_51: 3586894539510487098
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_52: -7654898857123657373
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_53: -3327892893817693621
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_54: 8227847564826964215
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_55: -2547897096373622404
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_56: 79625357695741136
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_57: 976006688906611875
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_58: -616063478776376293
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_59: 8210140020092678030
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_6: -490508208694881171
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_60: -192175558373723704
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_61: 6070746680285477740
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_62: -129294021587346442
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_63: -7652015485336868510
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_64: 960630462706594949
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_65: -1293580288384257771
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_66: -8590712982904363355
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_67: 3702585601874187104
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_68: -4353869192336240191
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_69: 5111203248341628013
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_7: -4514554196564155823
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_70: 5745590569673115998
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_71: -7747630611588492191
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_72: -93192882688606309
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_73: -8125571457207122961
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_74: 1172764088105389185
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_75: -8690675931365741408
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_76: 3788188442252616745
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_77: -3185835133487868122
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_78: 553480503996165978
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_79: 3729159564723710917
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_8: 1082612468156677170
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_80: 3630057999757178270
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_81: -7879513142971764480
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_82: 5552364017798738210
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_83: 1525218529999442326
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_84: 2676396589907928965
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_85: 8782166610452565622
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_86: -580689920272408688
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_87: 1441703638225255775
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_88: -7359098683292248754
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_89: -8144398927053256251
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_9: -3782115892962745665
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_90: 4615471119933060169
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_91: -8269975055931707073
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_92: -9183484847404464438
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_93: -2397267513877663854
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_94: 2799231935260614828
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_95: 120854038021533795
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_96: -1217146180205088266
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_97: -1157979902656765307
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_98: 5894717628169092116
+      PC _ Computer - Spelunky - Playable Characters - Golden Monk_99: 6522294659223118519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
