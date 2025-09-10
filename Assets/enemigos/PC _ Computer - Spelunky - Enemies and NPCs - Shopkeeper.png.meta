@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4090ba8e2ba77ce4299f0877f7fc91b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7289839192130833804
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_0
+  - first:
+      213: 7769136895756318074
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_1
+  - first:
+      213: 6235721437088179393
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_2
+  - first:
+      213: -5356097684825556804
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_3
+  - first:
+      213: -1258664049526313212
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_4
+  - first:
+      213: -6790735256622236959
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_5
+  - first:
+      213: -5019046172385668219
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_6
+  - first:
+      213: 5904169369101759515
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_7
+  - first:
+      213: -5267078558090314525
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_8
+  - first:
+      213: -6715510939481824374
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_9
+  - first:
+      213: -2863624751068318153
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_10
+  - first:
+      213: 3726251531443043861
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_11
+  - first:
+      213: 6274230422168217833
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_12
+  - first:
+      213: -3606962777130643355
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_13
+  - first:
+      213: 3979418919398467060
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_14
+  - first:
+      213: -4174847998594636562
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_15
+  - first:
+      213: -6231440935332058172
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_16
+  - first:
+      213: 8005061671337282714
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_17
+  - first:
+      213: -4065181062108287908
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 99
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4723253c0e945da90800000000000000
+      internalID: -7289839192130833804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 99
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75bfe218d481db60800000000000000
+      internalID: 7769136895756318074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 99
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4ede7db9bb98650800000000000000
+      internalID: 6235721437088179393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 98
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb83ea198815ba5b0800000000000000
+      internalID: -5356097684825556804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 99
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fed6437b3588ee0800000000000000
+      internalID: -1258664049526313212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 99
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea7f41534672c1a0800000000000000
+      internalID: -6790735256622236959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 99
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5831ba72914c85ab0800000000000000
+      internalID: -5019046172385668219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 98
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b147d0372c2dfe150800000000000000
+      internalID: 5904169369101759515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 99
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec33f425f397e6b0800000000000000
+      internalID: -5267078558090314525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 18
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83afee7166bdc2a0800000000000000
+      internalID: -6715510939481824374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367e86067c5248d0800000000000000
+      internalID: -2863624751068318153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 22
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51efa6b760e46b330800000000000000
+      internalID: 3726251531443043861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 22
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82940a35b821750800000000000000
+      internalID: 6274230422168217833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 19
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5605217f67e71fdc0800000000000000
+      internalID: -3606962777130643355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 18
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5e63f5c6cb93730800000000000000
+      internalID: 3979418919398467060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 18
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee424845dd5ff06c0800000000000000
+      internalID: -4174847998594636562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 19
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb64b22c797589a0800000000000000
+      internalID: -6231440935332058172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 19
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c472d6d21b71f60800000000000000
+      internalID: 8005061671337282714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_18
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 19
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ce36dbc539597c0800000000000000
+      internalID: -4065181062108287908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_0: -7289839192130833804
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_1: 7769136895756318074
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_10: -2863624751068318153
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_11: 3726251531443043861
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_12: 6274230422168217833
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_13: -3606962777130643355
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_14: 3979418919398467060
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_15: -4174847998594636562
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_16: -6231440935332058172
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_17: 8005061671337282714
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_18: -4065181062108287908
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_2: 6235721437088179393
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_3: -5356097684825556804
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_4: -1258664049526313212
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_5: -6790735256622236959
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_6: -5019046172385668219
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_7: 5904169369101759515
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_8: -5267078558090314525
+      PC _ Computer - Spelunky - Enemies and NPCs - Shopkeeper_9: -6715510939481824374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 29e4acf986a7760409e39bf3a567efdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5567254612082977117
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_0
+  - first:
+      213: -2671466365900179748
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_1
+  - first:
+      213: -6143812859360500085
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_2
+  - first:
+      213: -4754135564364084793
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_3
+  - first:
+      213: 6936953446005751245
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_4
+  - first:
+      213: -8016015358055777252
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_5
+  - first:
+      213: 2587648530378626833
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_6
+  - first:
+      213: -3571592824572349463
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_7
+  - first:
+      213: 8041264957423955056
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_8
+  - first:
+      213: 4749224048562542564
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_9
+  - first:
+      213: 2883448668566281347
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_10
+  - first:
+      213: -2844431818286206378
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_11
+  - first:
+      213: -5158114426596992087
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_12
+  - first:
+      213: 2830794586835404713
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_13
+  - first:
+      213: -5924230217917580562
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_14
+  - first:
+      213: -6019046974070663329
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_15
+  - first:
+      213: 7183267772203551798
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_16
+  - first:
+      213: 8958041952442769486
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_17
+  - first:
+      213: 5551368835690051079
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_18
+  - first:
+      213: -891489695883149810
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_19
+  - first:
+      213: 2992824777640633136
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_20
+  - first:
+      213: 2480073604508458867
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_21
+  - first:
+      213: -4926572787671266367
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_22
+  - first:
+      213: -5512913322247517823
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_23
+  - first:
+      213: -1003679972446141514
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_24
+  - first:
+      213: -2024142036275124948
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_25
+  - first:
+      213: 2222894425812000462
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_26
+  - first:
+      213: -5744572935981677921
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_27
+  - first:
+      213: 6546716232285324946
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_28
+  - first:
+      213: -1774421542665380373
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_29
+  - first:
+      213: -5031624284187429170
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_30
+  - first:
+      213: -3645557130180209607
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_31
+  - first:
+      213: -1826233615965669472
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_32
+  - first:
+      213: -2663351835434419475
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_33
+  - first:
+      213: -7810615377983638199
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_34
+  - first:
+      213: -4882644171231384678
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_35
+  - first:
+      213: -3869531561355823865
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_36
+  - first:
+      213: 1067017621245973642
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_37
+  - first:
+      213: 8468156914472980224
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_38
+  - first:
+      213: 598191902198325711
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_39
+  - first:
+      213: 6725518163930401023
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_40
+  - first:
+      213: 7635147404618166767
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 279
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a693a84d632db2b0800000000000000
+      internalID: -5567254612082977117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 280
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6bd178e7b0dead0800000000000000
+      internalID: -2671466365900179748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 280
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86275771caccbaa0800000000000000
+      internalID: -6143812859360500085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 280
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9070884eae50eb0800000000000000
+      internalID: -4754135564364084793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 280
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd3894d762054060800000000000000
+      internalID: 6936953446005751245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 280
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c7205a08461c090800000000000000
+      internalID: -8016015358055777252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 280
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11797c0e0ac29e320800000000000000
+      internalID: 2587648530378626833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 280
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f709cf372f6ec0800000000000000
+      internalID: -3571592824572349463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 280
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c2d04dfdf489f60800000000000000
+      internalID: 8041264957423955056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 279
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e710551c12a8e140800000000000000
+      internalID: 4749224048562542564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 280
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c57f17941140820800000000000000
+      internalID: 2883448668566281347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 200
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6527b3be45c8688d0800000000000000
+      internalID: -2844431818286206378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5ed30242ba68b0800000000000000
+      internalID: -5158114426596992087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 199
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74c64bda0094720800000000000000
+      internalID: 2830794586835404713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 200
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea33653108e8cda0800000000000000
+      internalID: -5924230217917580562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 200
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57d028daac087ca0800000000000000
+      internalID: -6019046974070663329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 199
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c44b0faf710b360800000000000000
+      internalID: 7183267772203551798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 200
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40e56aa1bb515c70800000000000000
+      internalID: 8958041952442769486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 110
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ba7c2b8c6a0d40800000000000000
+      internalID: 5551368835690051079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 110
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eb6fb48dac0a3f0800000000000000
+      internalID: -891489695883149810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 110
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033e1425746a88920800000000000000
+      internalID: 2992824777640633136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 110
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f9c85adcdfa6220800000000000000
+      internalID: 2480073604508458867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 110
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb8fb6d62c41abb0800000000000000
+      internalID: -4926572787671266367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 110
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1890be5ca823e73b0800000000000000
+      internalID: -5512913322247517823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_24
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 110
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b38c2ef1663212f0800000000000000
+      internalID: -1003679972446141514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_25
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 110
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a2e8da8dc8e3e0800000000000000
+      internalID: -2024142036275124948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_26
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 110
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece58bfe3be49de10800000000000000
+      internalID: 2222894425812000462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_27
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 110
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f924d7cc95d2740b0800000000000000
+      internalID: -5744572935981677921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 110
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29686ae2abb9ada50800000000000000
+      internalID: 6546716232285324946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_29
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 111
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed11ab120dff57e0800000000000000
+      internalID: -1774421542665380373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 30
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec677c94f541c2ab0800000000000000
+      internalID: -5031624284187429170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 25
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9345737ea11686dc0800000000000000
+      internalID: -3645557130180209607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 27
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a73d7bb33ae7a6e0800000000000000
+      internalID: -1826233615965669472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 29
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deafb01ed9fd90bd0800000000000000
+      internalID: -2663351835434419475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 29
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945f41632be1b9390800000000000000
+      internalID: -7810615377983638199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 29
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2f11eefc5d3cb0800000000000000
+      internalID: -4882644171231384678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 29
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705393eeb89ac4ac0800000000000000
+      internalID: -3869531561355823865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_37
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 30
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84d27b8fdecece00800000000000000
+      internalID: 1067017621245973642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 25
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f0e65f8dfe48570800000000000000
+      internalID: 8468156914472980224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_39
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 27
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1eb0e9d543d4800800000000000000
+      internalID: 598191902198325711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 29
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff842830327d55d50800000000000000
+      internalID: 6725518163930401023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Snakes_41
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 29
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1f20c9c1e75f960800000000000000
+      internalID: 7635147404618166767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_0: -5567254612082977117
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_1: -2671466365900179748
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_10: 2883448668566281347
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_11: -2844431818286206378
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_12: -5158114426596992087
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_13: 2830794586835404713
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_14: -5924230217917580562
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_15: -6019046974070663329
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_16: 7183267772203551798
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_17: 8958041952442769486
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_18: 5551368835690051079
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_19: -891489695883149810
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_2: -6143812859360500085
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_20: 2992824777640633136
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_21: 2480073604508458867
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_22: -4926572787671266367
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_23: -5512913322247517823
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_24: -1003679972446141514
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_25: -2024142036275124948
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_26: 2222894425812000462
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_27: -5744572935981677921
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_28: 6546716232285324946
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_29: -1774421542665380373
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_3: -4754135564364084793
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_30: -5031624284187429170
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_31: -3645557130180209607
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_32: -1826233615965669472
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_33: -2663351835434419475
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_34: -7810615377983638199
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_35: -4882644171231384678
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_36: -3869531561355823865
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_37: 1067017621245973642
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_38: 8468156914472980224
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_39: 598191902198325711
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_4: 6936953446005751245
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_40: 6725518163930401023
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_41: 7635147404618166767
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_5: -8016015358055777252
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_6: 2587648530378626833
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_7: -3571592824572349463
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_8: 8041264957423955056
+      PC _ Computer - Spelunky - Enemies and NPCs - Snakes_9: 4749224048562542564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

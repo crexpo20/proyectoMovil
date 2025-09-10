@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 3c31a9d86a10ebb45a7c80b2c9ad167d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8036348888806111448
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_0
+  - first:
+      213: -517995896156567794
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_1
+  - first:
+      213: 1164789056791438740
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_2
+  - first:
+      213: 3264455493536231483
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_3
+  - first:
+      213: -2506326668049455038
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_4
+  - first:
+      213: 2759120886585601327
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_5
+  - first:
+      213: -5266589233642259104
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_6
+  - first:
+      213: 6710854518561391714
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_7
+  - first:
+      213: -238257885022860142
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_8
+  - first:
+      213: 5578935682534601615
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_9
+  - first:
+      213: 456516571799866108
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_10
+  - first:
+      213: 7896684837629123783
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_11
+  - first:
+      213: 4280749427603909829
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_12
+  - first:
+      213: 7684755346568702513
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_13
+  - first:
+      213: 698199324863332161
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_14
+  - first:
+      213: 7458415633521349191
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_15
+  - first:
+      213: 4692406864032376422
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_16
+  - first:
+      213: 4548180791817785994
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_17
+  - first:
+      213: 4574172944418669530
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_18
+  - first:
+      213: -7517711314603791971
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_19
+  - first:
+      213: -2398652618394869608
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_20
+  - first:
+      213: 1304065994126360199
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_21
+  - first:
+      213: -7611845547684224493
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_22
+  - first:
+      213: -4420126744533727919
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_23
+  - first:
+      213: 5245833674874510558
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 173
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b4686cb8d68f60800000000000000
+      internalID: 8036348888806111448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 173
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074a761a75bfc8f0800000000000000
+      internalID: -517995896156567794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 172
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e050d9792a2010800000000000000
+      internalID: 1164789056791438740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 173
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30bc4db9fcad4d20800000000000000
+      internalID: 3264455493536231483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 172
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248e2dbac2db73dd0800000000000000
+      internalID: -2506326668049455038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 173
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dab41f3dd5a4620800000000000000
+      internalID: 2759120886585601327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 173
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d3bdedef059e6b0800000000000000
+      internalID: -5266589233642259104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 150
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644d2601aeb12d50800000000000000
+      internalID: 6710854518561391714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 172
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cc64647b981bcf0800000000000000
+      internalID: -238257885022860142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 108
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f93ed17c5c6d40800000000000000
+      internalID: 5578935682534601615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfac530476fd55600800000000000000
+      internalID: 456516571799866108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 95
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccd81a7509a69d60800000000000000
+      internalID: 7896684837629123783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 95
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cca9cc8ce6486b30800000000000000
+      internalID: 4280749427603909829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 87
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ae20aa54cb5aa60800000000000000
+      internalID: 7684755346568702513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 87
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f75e4369080b900800000000000000
+      internalID: 698199324863332161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 19
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429247908d918760800000000000000
+      internalID: 7458415633521349191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66621407e27ce1140800000000000000
+      internalID: 4692406864032376422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 19
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82dd8635526e1f30800000000000000
+      internalID: 4548180791817785994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 19
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30745de0aba7f30800000000000000
+      internalID: 4574172944418669530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 19
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d992b11d369bba790800000000000000
+      internalID: -7517711314603791971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 19
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906305f62646bed0800000000000000
+      internalID: -2398652618394869608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 19
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e7197cc19f81210800000000000000
+      internalID: 1304065994126360199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 19
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a42dbdca4d5690800000000000000
+      internalID: -7611845547684224493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_23
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 19
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1550dd9052e88a2c0800000000000000
+      internalID: -4420126744533727919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Caveman_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 19
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc5da50fe1fcc840800000000000000
+      internalID: 5245833674874510558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_0: 8036348888806111448
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_1: -517995896156567794
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_10: 456516571799866108
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_11: 7896684837629123783
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_12: 4280749427603909829
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_13: 7684755346568702513
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_14: 698199324863332161
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_15: 7458415633521349191
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_16: 4692406864032376422
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_17: 4548180791817785994
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_18: 4574172944418669530
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_19: -7517711314603791971
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_2: 1164789056791438740
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_20: -2398652618394869608
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_21: 1304065994126360199
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_22: -7611845547684224493
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_23: -4420126744533727919
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_24: 5245833674874510558
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_3: 3264455493536231483
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_4: -2506326668049455038
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_5: 2759120886585601327
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_6: -5266589233642259104
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_7: 6710854518561391714
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_8: -238257885022860142
+      PC _ Computer - Spelunky - Enemies and NPCs - Caveman_9: 5578935682534601615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

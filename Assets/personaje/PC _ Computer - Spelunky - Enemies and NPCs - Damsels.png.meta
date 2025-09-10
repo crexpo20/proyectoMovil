@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: 903cb3dfdc31e4b4097b393e36f5991e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6671907884317449581
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_0
+  - first:
+      213: 5828529835519529941
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_1
+  - first:
+      213: 3973072836192156833
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_2
+  - first:
+      213: 2775577810525759663
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_3
+  - first:
+      213: 1543307247833659691
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_4
+  - first:
+      213: -6386527700692715325
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_5
+  - first:
+      213: -399618865525696674
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_6
+  - first:
+      213: -2899193573317066815
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_7
+  - first:
+      213: 195204644534188688
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_8
+  - first:
+      213: -8780948142088204197
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_9
+  - first:
+      213: 663582807021950560
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_10
+  - first:
+      213: 7854107587551717749
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_11
+  - first:
+      213: 2976038895400071931
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_12
+  - first:
+      213: -817082267690046454
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_13
+  - first:
+      213: -3127031906820977874
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_14
+  - first:
+      213: -238215980182638022
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_15
+  - first:
+      213: -6749143384715840940
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_16
+  - first:
+      213: 1190076855855348513
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_17
+  - first:
+      213: 7361939846221361549
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_18
+  - first:
+      213: -8395582934263978283
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_19
+  - first:
+      213: 7115877679598858858
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_20
+  - first:
+      213: -6671555854704017058
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_21
+  - first:
+      213: 2539483145927210921
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_22
+  - first:
+      213: -4435921443292510616
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_23
+  - first:
+      213: 7283733424050403037
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_24
+  - first:
+      213: 5470898352101233064
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_25
+  - first:
+      213: -5463288297953210907
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_26
+  - first:
+      213: 2207529006638466795
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_27
+  - first:
+      213: 166940134166092784
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_28
+  - first:
+      213: 3063683846353924130
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_29
+  - first:
+      213: -8767326956322764799
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_30
+  - first:
+      213: 9153916626706597476
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_31
+  - first:
+      213: 3369031479922394561
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_32
+  - first:
+      213: -3884351906114975698
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_33
+  - first:
+      213: 2606642074185149202
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_34
+  - first:
+      213: 8762213842164516653
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_35
+  - first:
+      213: 8288824581281842840
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_36
+  - first:
+      213: 4494040809167601570
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_37
+  - first:
+      213: 4964201676012493159
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_38
+  - first:
+      213: -6554402682776344837
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_39
+  - first:
+      213: 1291342657769839636
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_40
+  - first:
+      213: -4678922982127890193
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_41
+  - first:
+      213: 8212081134684404410
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_42
+  - first:
+      213: -7714363820474805944
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_43
+  - first:
+      213: -3095826673086167596
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_44
+  - first:
+      213: -358028151020810660
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_45
+  - first:
+      213: 7995096675603409120
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_46
+  - first:
+      213: 15403668346322276
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_47
+  - first:
+      213: -7730093236306165472
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_48
+  - first:
+      213: 7998604471939798262
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_49
+  - first:
+      213: 9132877559604194729
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_50
+  - first:
+      213: -246465805084915074
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_51
+  - first:
+      213: -4123621534721715254
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_52
+  - first:
+      213: -67744278656889456
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_53
+  - first:
+      213: -7417756397457307286
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_54
+  - first:
+      213: 490402628369349486
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_55
+  - first:
+      213: -3038532228338662237
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_56
+  - first:
+      213: -2850724876638924349
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_57
+  - first:
+      213: 2826383858999592928
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_58
+  - first:
+      213: 4917509058235158461
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_59
+  - first:
+      213: -7010826397457018529
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_60
+  - first:
+      213: -5268027004088636715
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_61
+  - first:
+      213: 5279348511737952808
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_62
+  - first:
+      213: 5796168477318525064
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_63
+  - first:
+      213: -4570551011348074489
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_64
+  - first:
+      213: -8853508157330953534
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_65
+  - first:
+      213: -173333804232805555
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_66
+  - first:
+      213: -3222802907507508501
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_67
+  - first:
+      213: 8089283340817875447
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_68
+  - first:
+      213: 3421321279403567994
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_69
+  - first:
+      213: -6779939329780262660
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_70
+  - first:
+      213: 1085181712027151564
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_71
+  - first:
+      213: 8746088511185323382
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_72
+  - first:
+      213: -8545400986962978345
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_73
+  - first:
+      213: -4758666208169402653
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_74
+  - first:
+      213: -6600874521991252607
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_75
+  - first:
+      213: 8524479672711246745
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_76
+  - first:
+      213: 8742097158452852328
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_77
+  - first:
+      213: 3458263880397403455
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_78
+  - first:
+      213: 40376991452984684
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_79
+  - first:
+      213: 5483528994522766035
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_80
+  - first:
+      213: 1624435167415562985
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_81
+  - first:
+      213: 2518083200834264376
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_82
+  - first:
+      213: -4030122008908157461
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_83
+  - first:
+      213: -8560436158070151110
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_84
+  - first:
+      213: -8905281313968316242
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_85
+  - first:
+      213: 7087658655336770010
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_86
+  - first:
+      213: 2787772575578139555
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_87
+  - first:
+      213: 5344024646368019714
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_88
+  - first:
+      213: -2542856118765340192
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_89
+  - first:
+      213: 4288062414232505551
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_90
+  - first:
+      213: 7366223139316811500
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_91
+  - first:
+      213: -1810100941307605533
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_92
+  - first:
+      213: 5118196061238291604
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_93
+  - first:
+      213: 8417199890542690199
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_94
+  - first:
+      213: 7354774866137010070
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_95
+  - first:
+      213: 1168631474366190908
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_96
+  - first:
+      213: -6142719648279624220
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_97
+  - first:
+      213: -3373870328801141328
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_98
+  - first:
+      213: 7504629703357141509
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_99
+  - first:
+      213: 5707900261967373813
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_100
+  - first:
+      213: 1841993634537649350
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_101
+  - first:
+      213: 8106538883786717828
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_102
+  - first:
+      213: -9040420788063580566
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_103
+  - first:
+      213: 3000297481189992915
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_104
+  - first:
+      213: 2360001578500735306
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_105
+  - first:
+      213: 4034733894570493837
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_106
+  - first:
+      213: 4153756272725222641
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_107
+  - first:
+      213: 6800108947726371283
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_108
+  - first:
+      213: -5417936675955910466
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_109
+  - first:
+      213: 6936418956487417234
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_110
+  - first:
+      213: -4776796660934418085
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_111
+  - first:
+      213: 9152327396080845275
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_112
+  - first:
+      213: -7137740299515156917
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_113
+  - first:
+      213: 4091733893043305019
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_114
+  - first:
+      213: 5306979727524687353
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_115
+  - first:
+      213: -5655778030892429054
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_116
+  - first:
+      213: 3469081693343126666
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_117
+  - first:
+      213: -6840929623848596526
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_118
+  - first:
+      213: -4438148027751664798
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_119
+  - first:
+      213: -3923666971320287816
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_120
+  - first:
+      213: -6746488731363470872
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_121
+  - first:
+      213: -2825706971557760042
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_122
+  - first:
+      213: 8562216050633468090
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_123
+  - first:
+      213: -3169863627469533384
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_124
+  - first:
+      213: 582069487002463843
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_125
+  - first:
+      213: -3667828805580347577
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_126
+  - first:
+      213: -562809552117980250
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_127
+  - first:
+      213: -786428825007772931
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_128
+  - first:
+      213: 4994283734236598133
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_129
+  - first:
+      213: 2738012614571937711
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_130
+  - first:
+      213: 8256855505464611264
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_131
+  - first:
+      213: 170660635293831461
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_132
+  - first:
+      213: -6351593689207081189
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_133
+  - first:
+      213: 39824061682683201
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_134
+  - first:
+      213: 9017474070148650211
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_135
+  - first:
+      213: -8549144091148472227
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_136
+  - first:
+      213: 5143465882553951708
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_137
+  - first:
+      213: 203408961041607054
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_138
+  - first:
+      213: 15892949982119121
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_139
+  - first:
+      213: 222400559340370840
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_140
+  - first:
+      213: -1468418141437750880
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_141
+  - first:
+      213: -8839677065839433474
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_142
+  - first:
+      213: -2329338143786758535
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_143
+  - first:
+      213: 3939283645802687532
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_144
+  - first:
+      213: -2459181673852518684
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_145
+  - first:
+      213: 2543782426644161216
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_146
+  - first:
+      213: 7118164767082650580
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_147
+  - first:
+      213: 2065307643577858426
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_148
+  - first:
+      213: 7071147587670442027
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_149
+  - first:
+      213: -7177626495478210224
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_150
+  - first:
+      213: -7405860091480851535
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_151
+  - first:
+      213: -5013533226471872117
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_152
+  - first:
+      213: -8818026473379520252
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_153
+  - first:
+      213: 5341956139394499576
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_154
+  - first:
+      213: 4416659250589757088
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_155
+  - first:
+      213: -2384123509550200063
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_156
+  - first:
+      213: -7569860325572064319
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_157
+  - first:
+      213: -8773563164448195303
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_158
+  - first:
+      213: -6038603763728005356
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_159
+  - first:
+      213: -8663720158199079626
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1293
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d9eda1fd0679c50800000000000000
+      internalID: 6671907884317449581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1293
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d358e8210913e050800000000000000
+      internalID: 5828529835519529941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1293
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acbcfbb1b0332730800000000000000
+      internalID: 3973072836192156833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1292
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa828d22055d48620800000000000000
+      internalID: 2775577810525759663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1293
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29396ed3cdea6510800000000000000
+      internalID: 1543307247833659691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1293
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b40cb4ee7e57a0800000000000000
+      internalID: -6386527700692715325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1293
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57dbc252c4447af0800000000000000
+      internalID: -399618865525696674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_7
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1293
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf375f3ecef3c7d0800000000000000
+      internalID: -2899193573317066815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1292
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a77f7079185b200800000000000000
+      internalID: 195204644534188688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1213
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d4bf203ec32680800000000000000
+      internalID: -8780948142088204197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1214
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06699931c05853900800000000000000
+      internalID: 663582807021950560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1214
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57968bfec356ffc60800000000000000
+      internalID: 7854107587551717749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1212
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2311e8b930d4920800000000000000
+      internalID: 2976038895400071931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1209
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c6012b10429a4f0800000000000000
+      internalID: -817082267690046454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1214
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8f986c0d8a94d0800000000000000
+      internalID: -3127031906820977874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1214
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32746104dfa1bcf0800000000000000
+      internalID: -238215980182638022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_16
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1214
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b5df99d93652a0800000000000000
+      internalID: -6749143384715840940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_17
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1214
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bfba85890048010800000000000000
+      internalID: 1190076855855348513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1214
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8171dfe84dda2660800000000000000
+      internalID: 7361939846221361549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1214
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62dd09dc5ec7b80800000000000000
+      internalID: -8395582934263978283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_20
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1213
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62fe9d4c0da0c260800000000000000
+      internalID: 7115877679598858858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1133
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51803d2c4fd963a0800000000000000
+      internalID: -6671555854704017058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1133
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7351a677e0e3320800000000000000
+      internalID: 2539483145927210921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1133
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866030923f07072c0800000000000000
+      internalID: -4435921443292510616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1133
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f92355f4051560800000000000000
+      internalID: 7283733424050403037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1056
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1934fa0198ceb40800000000000000
+      internalID: 5470898352101233064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1056
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed43fe1d308e24b0800000000000000
+      internalID: -5463288297953210907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1056
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68e008fe7b2ae10800000000000000
+      internalID: 2207529006638466795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1056
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbd9b3ea27115200800000000000000
+      internalID: 166940134166092784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1056
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203706e934648a20800000000000000
+      internalID: 3063683846353924130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_30
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1056
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108cca2a592345680800000000000000
+      internalID: -8767326956322764799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1056
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46683662cae390f70800000000000000
+      internalID: 9153916626706597476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1056
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c502e5f74431ce20800000000000000
+      internalID: 3369031479922394561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1057
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28c7658582081ac0800000000000000
+      internalID: -3884351906114975698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_34
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1057
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ba468e727ac2420800000000000000
+      internalID: 2606642074185149202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_35
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1057
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270a34b013a99970800000000000000
+      internalID: 8762213842164516653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_36
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1057
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89684d46a02d70370800000000000000
+      internalID: 8288824581281842840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 968
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af3b843e4a0e5e30800000000000000
+      internalID: 4494040809167601570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 968
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699f147f1364e440800000000000000
+      internalID: 4964201676012493159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 968
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6af3a9c751a05a0800000000000000
+      internalID: -6554402682776344837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 975
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c1eaf2e45cbe110800000000000000
+      internalID: 1291342657769839636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_41
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 975
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe01bd67650211fb0800000000000000
+      internalID: -4678922982127890193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 888
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafc83584c27f170800000000000000
+      internalID: 8212081134684404410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 888
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841597c4af211f490800000000000000
+      internalID: -7714363820474805944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 888
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d505801b0a6905d0800000000000000
+      internalID: -3095826673086167596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 888
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e80d62b47080bf0800000000000000
+      internalID: -358028151020810660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 888
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e86f3e011a44fe60800000000000000
+      internalID: 7995096675603409120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 888
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d35040e89b63000800000000000000
+      internalID: 15403668346322276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 888
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214259482139b490800000000000000
+      internalID: -7730093236306165472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_49
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 889
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f492d88360c00f60800000000000000
+      internalID: 7998604471939798262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_50
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 888
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad285d90cf7ebe70800000000000000
+      internalID: 9132877559604194729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_51
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 889
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a02a6f7a0649cf0800000000000000
+      internalID: -246465805084915074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_52
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 881
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3d2c2ef04f5c6c0800000000000000
+      internalID: -4123621534721715254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_53
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 889
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d471fffe25f0ff0800000000000000
+      internalID: -67744278656889456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 809
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a690d238bd5de0990800000000000000
+      internalID: -7417756397457307286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 809
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b7fdc97924ec600800000000000000
+      internalID: 490402628369349486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 808
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44c438907f4d5d0800000000000000
+      internalID: -3038532228338662237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 730
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1519714d03078d0800000000000000
+      internalID: -2850724876638924349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 730
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7819a1525593720800000000000000
+      internalID: 2826383858999592928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 730
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf4fd33f608e3440800000000000000
+      internalID: 4917509058235158461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 730
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5194a5598a84be90800000000000000
+      internalID: -7010826397457018529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 730
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daa12ad95534e6b0800000000000000
+      internalID: -5268027004088636715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 656
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ab0af0083044940800000000000000
+      internalID: 5279348511737952808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 656
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88033ec4580207050800000000000000
+      internalID: 5796168477318525064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 656
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700bbcc22142290c0800000000000000
+      internalID: -4570551011348074489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 656
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cae3422d35022580800000000000000
+      internalID: -8853508157330953534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 656
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f22bc2d1389df0800000000000000
+      internalID: -173333804232805555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_67
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 656
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea3beca4dd4643d0800000000000000
+      internalID: -3222802907507508501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_68
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 656
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f14fe0f658e24070800000000000000
+      internalID: 8089283340817875447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_69
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 656
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ba551a399fa7f20800000000000000
+      internalID: 3421321279403567994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_70
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 656
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85fb9e911d8e1a0800000000000000
+      internalID: -6779939329780262660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_71
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 656
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce02e74075f0f00800000000000000
+      internalID: 1085181712027151564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_72
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 656
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67583538929506970800000000000000
+      internalID: 8746088511185323382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_73
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 656
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d99ccce313a86980800000000000000
+      internalID: -8545400986962978345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_74
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 587
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee5861db42d5fdb0800000000000000
+      internalID: -4758666208169402653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_75
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 586
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185f8cd589bf464a0800000000000000
+      internalID: -6600874521991252607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_76
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 586
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993fdf209190d4670800000000000000
+      internalID: 8524479672711246745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 586
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b8894c0b225970800000000000000
+      internalID: 8742097158452852328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_78
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 589
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35b6a23da83eff20800000000000000
+      internalID: 3458263880397403455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 594
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6577a8e8a27f8000800000000000000
+      internalID: 40376991452984684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_80
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 586
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da951a4198691c40800000000000000
+      internalID: 5483528994522766035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_81
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 586
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2f47a9d272b8610800000000000000
+      internalID: 1624435167415562985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_82
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 586
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dda9c645702f220800000000000000
+      internalID: 2518083200834264376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_83
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 586
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedab89a2612218c0800000000000000
+      internalID: -4030122008908157461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 505
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38a1db5ba8333980800000000000000
+      internalID: -8560436158070151110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_85
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 507
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0aeffb3d51a6480800000000000000
+      internalID: -8905281313968316242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_86
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 508
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92298befb6c5260800000000000000
+      internalID: 7087658655336770010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_87
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 506
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab29e1236820b620800000000000000
+      internalID: 2787772575578139555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_88
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 507
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205c2bd1a1ac92a40800000000000000
+      internalID: 5344024646368019714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_89
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 507
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9301625d5f5bcd0800000000000000
+      internalID: -2542856118765340192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 507
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc480feb02428b30800000000000000
+      internalID: 4288062414232505551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_91
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 507
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6cd33dae41a3660800000000000000
+      internalID: 7366223139316811500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_92
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 507
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed82c1c8ca31e6e0800000000000000
+      internalID: -1810100941307605533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_93
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 507
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c69e8433c770740800000000000000
+      internalID: 5118196061238291604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_94
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 441
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff04744b6efc470800000000000000
+      internalID: 8417199890542690199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_95
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 440
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f411306c8611660800000000000000
+      internalID: 7354774866137010070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_96
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 440
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3510fe5220d73010800000000000000
+      internalID: 1168631474366190908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_97
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 440
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e50b71860da0caa0800000000000000
+      internalID: -6142719648279624220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_98
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 440
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd39dbfca9d21d0800000000000000
+      internalID: -3373870328801141328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 440
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502927734fcc52860800000000000000
+      internalID: 7504629703357141509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_100
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 440
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5ace7eb09863f40800000000000000
+      internalID: 5707900261967373813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_101
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 440
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4b5298373109910800000000000000
+      internalID: 1841993634537649350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_102
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 441
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48abffd1a26308070800000000000000
+      internalID: 8106538883786717828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_103
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 441
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ec9630139f98280800000000000000
+      internalID: -9040420788063580566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_104
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 441
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d924d2b9a233a920800000000000000
+      internalID: 3000297481189992915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_105
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 441
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41c5eb8ee860c020800000000000000
+      internalID: 2360001578500735306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 361
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874a15a9114ef730800000000000000
+      internalID: 4034733894570493837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_107
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 361
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4665f825b15a930800000000000000
+      internalID: 4153756272725222641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_108
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 360
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98f273f07de5e50800000000000000
+      internalID: 6800108947726371283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_109
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 360
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb856167c4f9fc4b0800000000000000
+      internalID: -5417936675955910466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_110
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 360
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dd7ba4a4c134060800000000000000
+      internalID: 6936418956487417234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_111
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 360
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b516bb4deb865bdb0800000000000000
+      internalID: -4776796660934418085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_112
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 360
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1897f8649930f70800000000000000
+      internalID: 9152327396080845275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_113
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 360
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a864d307a1fc90800000000000000
+      internalID: -7137740299515156917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_114
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 360
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ab54afb42c8c830800000000000000
+      internalID: 4091733893043305019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_115
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 360
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdee41d1fd26a940800000000000000
+      internalID: 5306979727524687353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_116
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 361
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d234b8d3a281b0800000000000000
+      internalID: -5655778030892429054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_117
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 361
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84178c8b67a42030800000000000000
+      internalID: 3469081693343126666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 279
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbce0d70c22011a0800000000000000
+      internalID: -6840929623848596526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 279
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f24112e78862c0800000000000000
+      internalID: -4438148027751664798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_120
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 279
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd75859da55c89c0800000000000000
+      internalID: -3923666971320287816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_121
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 279
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e197e54e38af52a0800000000000000
+      internalID: -6746488731363470872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_122
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 279
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d374f80b7219c8d0800000000000000
+      internalID: -2825706971557760042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_123
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8e72c222a13d670800000000000000
+      internalID: 8562216050633468090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_124
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 279
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f4f3253d16204d0800000000000000
+      internalID: -3169863627469533384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_125
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 279
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e206f4d1de31800800000000000000
+      internalID: 582069487002463843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_126
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 277
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74720726221491dc0800000000000000
+      internalID: -3667828805580347577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_127
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 277
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3afc9b1bf7038f0800000000000000
+      internalID: -562809552117980250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_128
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 277
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa84c762b0615f0800000000000000
+      internalID: -786428825007772931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_129
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 277
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f0fae68924f4540800000000000000
+      internalID: 4994283734236598133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_130
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 277
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf491267ff5ff520800000000000000
+      internalID: 2738012614571937711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_131
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 188
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c152f4e55e369270800000000000000
+      internalID: 8256855505464611264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 190
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521d4df81fe4e5200800000000000000
+      internalID: 170660635293831461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_133
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 189
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f23d113b9ad7a0800000000000000
+      internalID: -6351593689207081189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_134
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 187
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d0c1ae5cb7d8000800000000000000
+      internalID: 39824061682683201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_135
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49182e3e0842d70800000000000000
+      internalID: 9017474070148650211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_136
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 181
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5037719eb65b5980800000000000000
+      internalID: -8549144091148472227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_137
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 114
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd528fb08f2416740800000000000000
+      internalID: 5143465882553951708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_138
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 114
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8924035f57a2d200800000000000000
+      internalID: 203408961041607054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d40e16cd86783000800000000000000
+      internalID: 15892949982119121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_140
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 114
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bb4516120261300800000000000000
+      internalID: 222400559340370840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_141
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 114
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a11dd9fa712f9be0800000000000000
+      internalID: -1468418141437750880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_142
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 114
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef829711b88235580800000000000000
+      internalID: -8839677065839433474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_143
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 114
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e82d1bc478cafd0800000000000000
+      internalID: -2329338143786758535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_144
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 114
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c2399ca952ba630800000000000000
+      internalID: 3939283645802687532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_145
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 114
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eebed30c4b3fddd0800000000000000
+      internalID: -2459181673852518684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_146
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 114
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a106b3a45d4320800000000000000
+      internalID: 2543782426644161216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_147
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 114
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db99aa542dc8c260800000000000000
+      internalID: 7118164767082650580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_148
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 114
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a797b5ffb5279ac10800000000000000
+      internalID: 2065307643577858426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_149
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 114
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2005753443c12260800000000000000
+      internalID: 7071147587670442027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_150
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e6962bb2f36c90800000000000000
+      internalID: -7177626495478210224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 27
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbba071c79193990800000000000000
+      internalID: -7405860091480851535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_152
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 27
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a686e71a5c6ab0800000000000000
+      internalID: -5013533226471872117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_153
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 27
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401293274a310a580800000000000000
+      internalID: -8818026473379520252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_154
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 27
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3835e4ec0722a40800000000000000
+      internalID: 5341956139394499576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_155
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 27
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae685d10302b4d30800000000000000
+      internalID: 4416659250589757088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_156
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 27
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b4a98bc44e9eed0800000000000000
+      internalID: -2384123509550200063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_157
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 27
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb44f6042472f690800000000000000
+      internalID: -7569860325572064319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_158
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 27
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dfc9849ca0e3680800000000000000
+      internalID: -8773563164448195303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_159
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 27
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c7abeed1923ca0800000000000000
+      internalID: -6038603763728005356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Damsels_160
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 27
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d17212b6844c780800000000000000
+      internalID: -8663720158199079626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_0: 6671907884317449581
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_1: 5828529835519529941
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_10: 663582807021950560
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_100: 5707900261967373813
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_101: 1841993634537649350
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_102: 8106538883786717828
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_103: -9040420788063580566
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_104: 3000297481189992915
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_105: 2360001578500735306
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_106: 4034733894570493837
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_107: 4153756272725222641
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_108: 6800108947726371283
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_109: -5417936675955910466
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_11: 7854107587551717749
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_110: 6936418956487417234
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_111: -4776796660934418085
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_112: 9152327396080845275
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_113: -7137740299515156917
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_114: 4091733893043305019
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_115: 5306979727524687353
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_116: -5655778030892429054
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_117: 3469081693343126666
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_118: -6840929623848596526
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_119: -4438148027751664798
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_12: 2976038895400071931
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_120: -3923666971320287816
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_121: -6746488731363470872
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_122: -2825706971557760042
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_123: 8562216050633468090
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_124: -3169863627469533384
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_125: 582069487002463843
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_126: -3667828805580347577
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_127: -562809552117980250
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_128: -786428825007772931
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_129: 4994283734236598133
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_13: -817082267690046454
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_130: 2738012614571937711
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_131: 8256855505464611264
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_132: 170660635293831461
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_133: -6351593689207081189
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_134: 39824061682683201
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_135: 9017474070148650211
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_136: -8549144091148472227
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_137: 5143465882553951708
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_138: 203408961041607054
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_139: 15892949982119121
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_14: -3127031906820977874
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_140: 222400559340370840
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_141: -1468418141437750880
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_142: -8839677065839433474
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_143: -2329338143786758535
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_144: 3939283645802687532
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_145: -2459181673852518684
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_146: 2543782426644161216
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_147: 7118164767082650580
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_148: 2065307643577858426
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_149: 7071147587670442027
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_15: -238215980182638022
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_150: -7177626495478210224
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_151: -7405860091480851535
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_152: -5013533226471872117
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_153: -8818026473379520252
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_154: 5341956139394499576
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_155: 4416659250589757088
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_156: -2384123509550200063
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_157: -7569860325572064319
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_158: -8773563164448195303
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_159: -6038603763728005356
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_16: -6749143384715840940
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_160: -8663720158199079626
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_17: 1190076855855348513
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_18: 7361939846221361549
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_19: -8395582934263978283
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_2: 3973072836192156833
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_20: 7115877679598858858
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_21: -6671555854704017058
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_22: 2539483145927210921
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_23: -4435921443292510616
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_24: 7283733424050403037
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_25: 5470898352101233064
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_26: -5463288297953210907
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_27: 2207529006638466795
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_28: 166940134166092784
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_29: 3063683846353924130
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_3: 2775577810525759663
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_30: -8767326956322764799
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_31: 9153916626706597476
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_32: 3369031479922394561
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_33: -3884351906114975698
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_34: 2606642074185149202
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_35: 8762213842164516653
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_36: 8288824581281842840
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_37: 4494040809167601570
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_38: 4964201676012493159
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_39: -6554402682776344837
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_4: 1543307247833659691
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_40: 1291342657769839636
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_41: -4678922982127890193
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_42: 8212081134684404410
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_43: -7714363820474805944
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_44: -3095826673086167596
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_45: -358028151020810660
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_46: 7995096675603409120
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_47: 15403668346322276
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_48: -7730093236306165472
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_49: 7998604471939798262
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_5: -6386527700692715325
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_50: 9132877559604194729
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_51: -246465805084915074
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_52: -4123621534721715254
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_53: -67744278656889456
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_54: -7417756397457307286
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_55: 490402628369349486
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_56: -3038532228338662237
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_57: -2850724876638924349
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_58: 2826383858999592928
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_59: 4917509058235158461
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_6: -399618865525696674
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_60: -7010826397457018529
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_61: -5268027004088636715
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_62: 5279348511737952808
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_63: 5796168477318525064
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_64: -4570551011348074489
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_65: -8853508157330953534
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_66: -173333804232805555
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_67: -3222802907507508501
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_68: 8089283340817875447
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_69: 3421321279403567994
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_7: -2899193573317066815
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_70: -6779939329780262660
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_71: 1085181712027151564
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_72: 8746088511185323382
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_73: -8545400986962978345
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_74: -4758666208169402653
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_75: -6600874521991252607
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_76: 8524479672711246745
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_77: 8742097158452852328
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_78: 3458263880397403455
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_79: 40376991452984684
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_8: 195204644534188688
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_80: 5483528994522766035
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_81: 1624435167415562985
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_82: 2518083200834264376
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_83: -4030122008908157461
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_84: -8560436158070151110
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_85: -8905281313968316242
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_86: 7087658655336770010
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_87: 2787772575578139555
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_88: 5344024646368019714
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_89: -2542856118765340192
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_9: -8780948142088204197
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_90: 4288062414232505551
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_91: 7366223139316811500
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_92: -1810100941307605533
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_93: 5118196061238291604
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_94: 8417199890542690199
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_95: 7354774866137010070
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_96: 1168631474366190908
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_97: -6142719648279624220
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_98: -3373870328801141328
+      PC _ Computer - Spelunky - Enemies and NPCs - Damsels_99: 7504629703357141509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

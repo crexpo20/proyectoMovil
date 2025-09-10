@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 9344b3b94ba286545b3dd43b9de8d224
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -605747032392218203
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_0
+  - first:
+      213: 7759767427419831444
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_1
+  - first:
+      213: 533293156342812087
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_2
+  - first:
+      213: 2873549986192196091
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_3
+  - first:
+      213: 4183849883187594851
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_4
+  - first:
+      213: 1359159482430854198
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_5
+  - first:
+      213: -6332820243683926999
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_6
+  - first:
+      213: -226801606660262544
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_7
+  - first:
+      213: -3982242283014730324
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_8
+  - first:
+      213: -8792183711303653587
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_9
+  - first:
+      213: -2590623013252179695
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_10
+  - first:
+      213: -1205233144176776418
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_11
+  - first:
+      213: -8320546608783282171
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_12
+  - first:
+      213: -4355895770176974888
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_13
+  - first:
+      213: 2162386786229820721
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_14
+  - first:
+      213: -5768051523927208550
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_15
+  - first:
+      213: -5068726346438961647
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_16
+  - first:
+      213: 8190593653083059042
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_17
+  - first:
+      213: 7589882384814490460
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_18
+  - first:
+      213: -650513732844606493
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_19
+  - first:
+      213: 8122401126173115783
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_20
+  - first:
+      213: -3641074412066498101
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_21
+  - first:
+      213: -7357170775654504659
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_22
+  - first:
+      213: -1165986043547488027
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_23
+  - first:
+      213: 7996154440249037852
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_24
+  - first:
+      213: -7258591433220075898
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_25
+  - first:
+      213: 8366063078966301198
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_26
+  - first:
+      213: -6688317018397159914
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_27
+  - first:
+      213: -2909259899171337347
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 413
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c38e8844f797f0800000000000000
+      internalID: -605747032392218203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 413
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c710bbc5b30bb60800000000000000
+      internalID: 7759767427419831444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 413
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdc5f8dc43a66700800000000000000
+      internalID: 533293156342812087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 413
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1805bdc76e0e720800000000000000
+      internalID: 2873549986192196091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 413
+        width: 132
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c4f04d45001a30800000000000000
+      internalID: 4183849883187594851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 253
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634156f1954bcd210800000000000000
+      internalID: 1359159482430854198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 253
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c11d48a8d4d18a0800000000000000
+      internalID: -6332820243683926999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 253
+        width: 132
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075f680f32d3adcf0800000000000000
+      internalID: -226801606660262544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 253
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadcd5f0ebb3cb8c0800000000000000
+      internalID: -3982242283014730324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 255
+        width: 131
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2725cf5f73ebf580800000000000000
+      internalID: -8792183711303653587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_10
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 255
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119d62c58124c0cd0800000000000000
+      internalID: -2590623013252179695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be0d947d6264fe0800000000000000
+      internalID: -1205233144176776418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 106
+        width: 154
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500346681fa778c80800000000000000
+      internalID: -8320546608783282171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 95
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df89f320efbc83c0800000000000000
+      internalID: -4355895770176974888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 95
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d1a344357520e10800000000000000
+      internalID: 2162386786229820721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 95
+        width: 125
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d0b2e03b3c3ffa0800000000000000
+      internalID: -5768051523927208550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_16
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 95
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11697d04e3448a9b0800000000000000
+      internalID: -5068726346438961647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 26
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263b5972885daa170800000000000000
+      internalID: 8190593653083059042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 26
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ccd9e0dda45960800000000000000
+      internalID: 7589882384814490460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 26
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eba840e439e8f6f0800000000000000
+      internalID: -650513732844606493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 26
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78508c83ac098b070800000000000000
+      internalID: 8122401126173115783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 28
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9130c0d1e487dc0800000000000000
+      internalID: -3641074412066498101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 26
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d276a35d82416e990800000000000000
+      internalID: -7357170775654504659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 26
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0f94dfed591dfe0800000000000000
+      internalID: -1165986043547488027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 26
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14d434191c08fe60800000000000000
+      internalID: 7996154440249037852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 26
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e49359c8d444b90800000000000000
+      internalID: -7258591433220075898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 28
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e021c468b0a3a1470800000000000000
+      internalID: 8366063078966301198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_27
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 28
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ecc35ab135e23a0800000000000000
+      internalID: -6688317018397159914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_28
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 29
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b8a9e198b30a7d0800000000000000
+      internalID: -2909259899171337347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_0: -605747032392218203
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_1: 7759767427419831444
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_10: -2590623013252179695
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_11: -1205233144176776418
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_12: -8320546608783282171
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_13: -4355895770176974888
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_14: 2162386786229820721
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_15: -5768051523927208550
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_16: -5068726346438961647
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_17: 8190593653083059042
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_18: 7589882384814490460
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_19: -650513732844606493
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_2: 533293156342812087
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_20: 8122401126173115783
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_21: -3641074412066498101
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_22: -7357170775654504659
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_23: -1165986043547488027
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_24: 7996154440249037852
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_25: -7258591433220075898
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_26: 8366063078966301198
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_27: -6688317018397159914
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_28: -2909259899171337347
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_3: 2873549986192196091
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_4: 4183849883187594851
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_5: 1359159482430854198
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_6: -6332820243683926999
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_7: -226801606660262544
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_8: -3982242283014730324
+      PC _ Computer - Spelunky - Enemies and NPCs - Frogs_9: -8792183711303653587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

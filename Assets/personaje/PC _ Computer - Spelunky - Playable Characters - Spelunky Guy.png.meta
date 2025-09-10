@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: 31687350b3514d74cb8f5de8354dc65d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8790086348919851373
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_0
+  - first:
+      213: -3731336089939369680
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_1
+  - first:
+      213: 2239143235325057454
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_2
+  - first:
+      213: 8684687327551608935
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_3
+  - first:
+      213: 7027282382616266948
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_4
+  - first:
+      213: -191414827457934058
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_5
+  - first:
+      213: -1716153334896861671
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_6
+  - first:
+      213: 4677187655977440610
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_7
+  - first:
+      213: -6075116494633100460
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_8
+  - first:
+      213: -4197925346919246928
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_9
+  - first:
+      213: -271821203265851371
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_10
+  - first:
+      213: -5309777891223962920
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_11
+  - first:
+      213: -114921133480714824
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_12
+  - first:
+      213: -2901264550167570809
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_13
+  - first:
+      213: 8797258006071940439
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_14
+  - first:
+      213: 8311436408111021947
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_15
+  - first:
+      213: -771443082519307876
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_16
+  - first:
+      213: -4701630530474993214
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_17
+  - first:
+      213: 2877387407267500806
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_18
+  - first:
+      213: 2371550028223422755
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_19
+  - first:
+      213: 3895016127736297244
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_20
+  - first:
+      213: 7326090668925925737
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_21
+  - first:
+      213: 4942824203202122494
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_22
+  - first:
+      213: -2507070538256309805
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_23
+  - first:
+      213: 1293577744858431181
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_24
+  - first:
+      213: -3621069560840989898
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_25
+  - first:
+      213: 6724922363654034495
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_26
+  - first:
+      213: -4257313327229362794
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_27
+  - first:
+      213: -779521200193848081
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_28
+  - first:
+      213: -1595051059526110601
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_29
+  - first:
+      213: -5223600472244215425
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_30
+  - first:
+      213: 4107362473098845610
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_31
+  - first:
+      213: 1552838045918205431
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_32
+  - first:
+      213: -5495356164481241278
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_33
+  - first:
+      213: 269974204818241357
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_34
+  - first:
+      213: 8876642571817398290
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_35
+  - first:
+      213: 7146811970303383371
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_36
+  - first:
+      213: 3334408638559492977
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_37
+  - first:
+      213: 7775273781485380164
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_38
+  - first:
+      213: 6686954292473464170
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_39
+  - first:
+      213: -2080282601118504660
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_40
+  - first:
+      213: 4058030041574887476
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_41
+  - first:
+      213: 2630036872229518335
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_42
+  - first:
+      213: 6629337800340375915
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_43
+  - first:
+      213: -4722621946647473990
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_44
+  - first:
+      213: -5039906497066530893
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_45
+  - first:
+      213: 4276604775142739495
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_46
+  - first:
+      213: -2808276685120722579
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_47
+  - first:
+      213: 8833805831656705566
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_48
+  - first:
+      213: -8769276672475279453
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_49
+  - first:
+      213: -8248536973327259050
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_50
+  - first:
+      213: -5599140157210590444
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_51
+  - first:
+      213: -6081816988849019580
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_52
+  - first:
+      213: 2930225501485706601
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_53
+  - first:
+      213: 6696715722541814208
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_54
+  - first:
+      213: -2781780695707060877
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_55
+  - first:
+      213: 6667274284549507385
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_56
+  - first:
+      213: 1562768251313637529
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_57
+  - first:
+      213: -3836891878689607007
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_58
+  - first:
+      213: 1477446636885159857
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_59
+  - first:
+      213: -2487453844237296767
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_60
+  - first:
+      213: -4241835761057146131
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_61
+  - first:
+      213: 6115107401894324557
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_62
+  - first:
+      213: -1744193348559607507
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_63
+  - first:
+      213: 8583802514883544931
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_64
+  - first:
+      213: -7442648689136496760
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_65
+  - first:
+      213: 3726803773815759539
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_66
+  - first:
+      213: 2767703054243798329
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_67
+  - first:
+      213: -8287084531217051022
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_68
+  - first:
+      213: 5065617062775475668
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_69
+  - first:
+      213: 8012128665044870705
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_70
+  - first:
+      213: -1753541858945172701
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_71
+  - first:
+      213: 2934724180615598902
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_72
+  - first:
+      213: -2059719968902579301
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_73
+  - first:
+      213: 3900580146570471690
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_74
+  - first:
+      213: -3156046487867493641
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_75
+  - first:
+      213: 2318595243911776792
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_76
+  - first:
+      213: -4818553899126676824
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_77
+  - first:
+      213: 215153807587454929
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_78
+  - first:
+      213: -6584406737666093373
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_79
+  - first:
+      213: -133016076683461994
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_80
+  - first:
+      213: -3652554814661710755
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_81
+  - first:
+      213: 3414773513370127291
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_82
+  - first:
+      213: 550012277867486320
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_83
+  - first:
+      213: 7205385791926353030
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_84
+  - first:
+      213: -3870798119820718034
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_85
+  - first:
+      213: -7942645121184210243
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_86
+  - first:
+      213: -6440279159213121382
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_87
+  - first:
+      213: -7635893381263045290
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_88
+  - first:
+      213: -7768371998534118706
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_89
+  - first:
+      213: 3705996620228510319
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_90
+  - first:
+      213: 6013522631422070311
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_91
+  - first:
+      213: 109102436704822937
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_92
+  - first:
+      213: 2912514496913423189
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_93
+  - first:
+      213: 4466442230236967777
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_94
+  - first:
+      213: -7005948101056976914
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_95
+  - first:
+      213: 3848000345635602086
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_96
+  - first:
+      213: 2140661775385855771
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_97
+  - first:
+      213: 3090660037791396953
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_98
+  - first:
+      213: 198149522604703482
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_99
+  - first:
+      213: 6518354689419394439
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_100
+  - first:
+      213: 1084296703104392897
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_101
+  - first:
+      213: 6379121794524360161
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_102
+  - first:
+      213: -1567898190490225576
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_103
+  - first:
+      213: -5383996631821628633
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_104
+  - first:
+      213: -5793713205084308269
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_105
+  - first:
+      213: 305518601142449379
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_106
+  - first:
+      213: 6205336164466638954
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_107
+  - first:
+      213: -7971459726545835066
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_108
+  - first:
+      213: 3870392473348348478
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_109
+  - first:
+      213: -3327118044690443165
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_110
+  - first:
+      213: 1801935296096606273
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_111
+  - first:
+      213: 314644790559513798
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_112
+  - first:
+      213: -8631632790084966785
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_113
+  - first:
+      213: -1022556570849859836
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_114
+  - first:
+      213: 8977578082462574115
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_115
+  - first:
+      213: -2151682419678403304
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_116
+  - first:
+      213: 7425526328923208903
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_117
+  - first:
+      213: -6071120703824354992
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_118
+  - first:
+      213: 8206320282933980587
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_119
+  - first:
+      213: 6050971353139411243
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_120
+  - first:
+      213: -7898320513884445740
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_121
+  - first:
+      213: 2214377490759961386
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_122
+  - first:
+      213: -3338781943493088259
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_123
+  - first:
+      213: -5232039730424800347
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_124
+  - first:
+      213: 5434609297310806624
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_125
+  - first:
+      213: -2977918982848075820
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_126
+  - first:
+      213: 6725831554967625712
+    second: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 949
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c06466f8acf970800000000000000
+      internalID: 8790086348919851373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 949
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031a19d7891a73cc0800000000000000
+      internalID: -3731336089939369680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 948
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9d4c6b8e8031f10800000000000000
+      internalID: 2239143235325057454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 949
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768dc086c15368870800000000000000
+      internalID: 8684687327551608935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 949
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c80438481ce58160800000000000000
+      internalID: 7027282382616266948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 949
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d80a48a35f75df0800000000000000
+      internalID: -191414827457934058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 949
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ede5d62affe28e0800000000000000
+      internalID: -1716153334896861671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 949
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265906e6465b8e040800000000000000
+      internalID: 4677187655977440610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 948
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b17484cb9d0bba0800000000000000
+      internalID: -6075116494633100460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 949
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b315477329fdb5c0800000000000000
+      internalID: -4197925346919246928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 868
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107be84e0c4a3cf0800000000000000
+      internalID: -271821203265851371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 869
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7f5de321ef46b0800000000000000
+      internalID: -5309777891223962920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 869
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd52b586d7b76ef0800000000000000
+      internalID: -114921133480714824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 869
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78614df5343acb7d0800000000000000
+      internalID: -2901264550167570809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 868
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7551161fb83261a70800000000000000
+      internalID: 8797258006071940439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 869
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb4b69067285370800000000000000
+      internalID: 8311436408111021947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 869
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99110e8a984b45f0800000000000000
+      internalID: -771443082519307876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 869
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c918ed51f370ceb0800000000000000
+      internalID: -4701630530474993214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 869
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6039c531a988ee720800000000000000
+      internalID: 2877387407267500806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 869
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32123578f2079e020800000000000000
+      internalID: 2371550028223422755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 869
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17b3201880ed0630800000000000000
+      internalID: 3895016127736297244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_21
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 869
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96932a9e5a08ba560800000000000000
+      internalID: 7326090668925925737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 788
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d013bc60789440800000000000000
+      internalID: 4942824203202122494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 788
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1a264e0a8153dd0800000000000000
+      internalID: -2507070538256309805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 797
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce33a3fa16b3f110800000000000000
+      internalID: 1293577744858431181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 797
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d71f6b606fbdc0800000000000000
+      internalID: -3621069560840989898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 788
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34dda37249b35d50800000000000000
+      internalID: 6724922363654034495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 788
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d15f8c51cfae4c0800000000000000
+      internalID: -4257313327229362794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_28
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 790
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3f8739959e25f0800000000000000
+      internalID: -779521200193848081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 788
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f556238d3dd9e0800000000000000
+      internalID: -1595051059526110601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_30
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 788
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71225bdb0b0287b0800000000000000
+      internalID: -5223600472244215425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_31
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 786
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad93d45868400930800000000000000
+      internalID: 4107362473098845610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_32
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 789
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f59aa8b9f9cc8510800000000000000
+      internalID: 1552838045918205431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 708
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fa7dd1fa29cb3b0800000000000000
+      internalID: -5495356164481241278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 708
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47b5b0eb142fb300800000000000000
+      internalID: 269974204818241357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 708
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210394b736b203b70800000000000000
+      internalID: 8876642571817398290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 709
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47517e1f939e2360800000000000000
+      internalID: 7146811970303383371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 708
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b15558df2364e20800000000000000
+      internalID: 3334408638559492977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 708
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44228d02f4257eb60800000000000000
+      internalID: 7775273781485380164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 708
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6587200085dccc50800000000000000
+      internalID: 6686954292473464170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_40
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 709
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e7effef95123e0800000000000000
+      internalID: -2080282601118504660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 701
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4305feb82d4015830800000000000000
+      internalID: 4058030041574887476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_42
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 703
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb7b6bc994cf7420800000000000000
+      internalID: 2630036872229518335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_43
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 704
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b698b5d0b93200c50800000000000000
+      internalID: 6629337800340375915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_44
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 710
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab01d9d6c50e57eb0800000000000000
+      internalID: -4722621946647473990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 628
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b78a255eb7ae0ab0800000000000000
+      internalID: -5039906497066530893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 628
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e4f13726d895b30800000000000000
+      internalID: 4276604775142739495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 628
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d692e58db3ff609d0800000000000000
+      internalID: -2808276685120722579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 628
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e0ca2b99bf79a70800000000000000
+      internalID: 8833805831656705566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_49
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 628
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afcdf7f3554d4680800000000000000
+      internalID: -8769276672475279453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 628
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a272c435f478d80800000000000000
+      internalID: -8248536973327259050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 628
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41386d941bbdb42b0800000000000000
+      internalID: -5599140157210590444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 628
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e7b6ebab099ba0800000000000000
+      internalID: -6081816988849019580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_53
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 629
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96da8df81904aa820800000000000000
+      internalID: 2930225501485706601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 629
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d0eb08738fec50800000000000000
+      internalID: 6696715722541814208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_55
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 628
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375775d12312569d0800000000000000
+      internalID: -2781780695707060877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 548
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9398ba613aae68c50800000000000000
+      internalID: 6667274284549507385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 548
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998cec5d17110b510800000000000000
+      internalID: 1562768251313637529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 548
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ff114a2f90cac0800000000000000
+      internalID: -3836891878689607007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_59
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 548
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa22e63e1f08410800000000000000
+      internalID: 1477446636885159857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 548
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b5e0368e9ca7dd0800000000000000
+      internalID: -2487453844237296767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_61
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 548
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead3aa79d8f125c0800000000000000
+      internalID: -4241835761057146131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_62
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 548
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e54568c93dd450800000000000000
+      internalID: 6115107401894324557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_63
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 548
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29618ff3616bc7e0800000000000000
+      internalID: -1744193348559607507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_64
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 548
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3670db988eacf1770800000000000000
+      internalID: 8583802514883544931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_65
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 547
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f0ef7337666b890800000000000000
+      internalID: -7442648689136496760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_66
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 548
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2afdd694448b330800000000000000
+      internalID: 3726803773815759539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_67
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 548
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d17ff834bd86620800000000000000
+      internalID: 2767703054243798329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 469
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2725c25968c5efc80800000000000000
+      internalID: -8287084531217051022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 468
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc3ea31efac4640800000000000000
+      internalID: 5065617062775475668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 468
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13669be129cc03f60800000000000000
+      internalID: 8012128665044870705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_71
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 469
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b7bce48fa2aa7e0800000000000000
+      internalID: -1753541858945172701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_72
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 468
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633975be71c3ab820800000000000000
+      internalID: 2934724180615598902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_73
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 468
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b78c4e9976a63e0800000000000000
+      internalID: -2059719968902579301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_74
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 466
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0926462af4a12630800000000000000
+      internalID: 3900580146570471690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_75
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 467
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f904d0787334d0800000000000000
+      internalID: -3156046487867493641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 467
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a8543071e4d2020800000000000000
+      internalID: 2318595243911776792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_77
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 467
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a22b7f22ce012db0800000000000000
+      internalID: -4818553899126676824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_78
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 467
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa2518f316cf200800000000000000
+      internalID: 215153807587454929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_79
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 467
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce49b035fc7f94a0800000000000000
+      internalID: -6584406737666093373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 394
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69abddf359e672ef0800000000000000
+      internalID: -133016076683461994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_81
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 392
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c22758fb48f4dc0800000000000000
+      internalID: -3652554814661710755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_82
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 388
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbc6dc0b66b36f20800000000000000
+      internalID: 3414773513370127291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 387
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c156ca04902a700800000000000000
+      internalID: 550012277867486320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 393
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cba65b33caef360800000000000000
+      internalID: 7205385791926353030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_85
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 394
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2016de4e99284ac0800000000000000
+      internalID: -3870798119820718034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_86
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 392
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db263de185e06c190800000000000000
+      internalID: -7942645121184210243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_87
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 388
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9020cc0a388f96a0800000000000000
+      internalID: -6440279159213121382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_88
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 387
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d4f0b2d6bd70690800000000000000
+      internalID: -7635893381263045290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_89
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 393
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2584073d2313490800000000000000
+      internalID: -7768371998534118706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 309
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62c4877a485e6330800000000000000
+      internalID: 3705996620228510319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_91
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 309
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e4fa6e8f2547350800000000000000
+      internalID: 6013522631422070311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 309
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996abef861c938100800000000000000
+      internalID: 109102436704822937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_93
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 309
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b33b7f0845b6820800000000000000
+      internalID: 2912514496913423189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_94
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 309
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163f31f4b8dfbfd30800000000000000
+      internalID: 4466442230236967777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_95
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 309
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee72da9325fd5ce90800000000000000
+      internalID: -7005948101056976914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 309
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb0314de7d66530800000000000000
+      internalID: 3848000345635602086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_97
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 309
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1781220b8825bd10800000000000000
+      internalID: 2140661775385855771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_98
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 227
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9543d0aedea34ea20800000000000000
+      internalID: 3090660037791396953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 224
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe3443e0f7ffb200800000000000000
+      internalID: 198149522604703482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 226
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d38d6ed09d57a50800000000000000
+      internalID: 6518354689419394439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_101
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 225
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce1aab4b123c0f00800000000000000
+      internalID: 1084296703104392897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 225
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eda39d5971378850800000000000000
+      internalID: 6379121794524360161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_103
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 226
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8543adf17e4bd3ae0800000000000000
+      internalID: -1567898190490225576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_104
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 223
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4f58c6933845b0800000000000000
+      internalID: -5383996631821628633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_105
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 224
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb5705988989fa0800000000000000
+      internalID: -5793713205084308269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_106
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 225
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4be5d8c8b6d3400800000000000000
+      internalID: 305518601142449379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_107
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 226
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a604be24d58cd1650800000000000000
+      internalID: 6205336164466638954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_108
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 223
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb27e10d9faf5190800000000000000
+      internalID: -7971459726545835066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_109
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 224
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a1643c27566b530800000000000000
+      internalID: 3870392473348348478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3641f6424c3b3d1d0800000000000000
+      internalID: -3327118044690443165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_111
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489310da92c10910800000000000000
+      internalID: 1801935296096606273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 142
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc1abb15c7dd5400800000000000000
+      internalID: 314644790559513798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_113
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f762f53b5b7463880800000000000000
+      internalID: -8631632790084966785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 144
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407a0cf67362fc1f0800000000000000
+      internalID: -1022556570849859836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_115
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 144
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326a38463b3c69c70800000000000000
+      internalID: 8977578082462574115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_116
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 142
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ad994d30b322e0800000000000000
+      internalID: -2151682419678403304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_117
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 140
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc37c1aad4cc0760800000000000000
+      internalID: 7425526328923208903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_118
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 142
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a704d2eb0fbba0800000000000000
+      internalID: -6071120703824354992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_119
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 142
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badec5181d4b2e170800000000000000
+      internalID: 8206320282933980587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_120
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 84
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2970f1e26e59f350800000000000000
+      internalID: 6050971353139411243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_121
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3acb7f657836290800000000000000
+      internalID: -7898320513884445740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_122
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 78
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b4e57789c0bbe10800000000000000
+      internalID: 2214377490759961386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_123
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2b9313834aa1d0800000000000000
+      internalID: -3338781943493088259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_124
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 70
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9c41f59f0467b0800000000000000
+      internalID: -5232039730424800347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_125
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 69
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062fe33bc5c9b6b40800000000000000
+      internalID: 5434609297310806624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_126
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 75
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7a279767e4ca6d0800000000000000
+      internalID: -2977918982848075820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_127
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 66
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff55fc0a24f65d50800000000000000
+      internalID: 6725831554967625712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_0: 8790086348919851373
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_1: -3731336089939369680
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_10: -271821203265851371
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_100: 6518354689419394439
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_101: 1084296703104392897
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_102: 6379121794524360161
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_103: -1567898190490225576
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_104: -5383996631821628633
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_105: -5793713205084308269
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_106: 305518601142449379
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_107: 6205336164466638954
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_108: -7971459726545835066
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_109: 3870392473348348478
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_11: -5309777891223962920
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_110: -3327118044690443165
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_111: 1801935296096606273
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_112: 314644790559513798
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_113: -8631632790084966785
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_114: -1022556570849859836
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_115: 8977578082462574115
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_116: -2151682419678403304
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_117: 7425526328923208903
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_118: -6071120703824354992
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_119: 8206320282933980587
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_12: -114921133480714824
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_120: 6050971353139411243
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_121: -7898320513884445740
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_122: 2214377490759961386
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_123: -3338781943493088259
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_124: -5232039730424800347
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_125: 5434609297310806624
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_126: -2977918982848075820
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_127: 6725831554967625712
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_13: -2901264550167570809
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_14: 8797258006071940439
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_15: 8311436408111021947
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_16: -771443082519307876
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_17: -4701630530474993214
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_18: 2877387407267500806
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_19: 2371550028223422755
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_2: 2239143235325057454
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_20: 3895016127736297244
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_21: 7326090668925925737
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_22: 4942824203202122494
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_23: -2507070538256309805
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_24: 1293577744858431181
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_25: -3621069560840989898
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_26: 6724922363654034495
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_27: -4257313327229362794
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_28: -779521200193848081
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_29: -1595051059526110601
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_3: 8684687327551608935
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_30: -5223600472244215425
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_31: 4107362473098845610
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_32: 1552838045918205431
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_33: -5495356164481241278
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_34: 269974204818241357
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_35: 8876642571817398290
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_36: 7146811970303383371
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_37: 3334408638559492977
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_38: 7775273781485380164
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_39: 6686954292473464170
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_4: 7027282382616266948
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_40: -2080282601118504660
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_41: 4058030041574887476
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_42: 2630036872229518335
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_43: 6629337800340375915
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_44: -4722621946647473990
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_45: -5039906497066530893
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_46: 4276604775142739495
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_47: -2808276685120722579
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_48: 8833805831656705566
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_49: -8769276672475279453
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_5: -191414827457934058
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_50: -8248536973327259050
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_51: -5599140157210590444
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_52: -6081816988849019580
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_53: 2930225501485706601
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_54: 6696715722541814208
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_55: -2781780695707060877
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_56: 6667274284549507385
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_57: 1562768251313637529
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_58: -3836891878689607007
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_59: 1477446636885159857
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_6: -1716153334896861671
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_60: -2487453844237296767
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_61: -4241835761057146131
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_62: 6115107401894324557
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_63: -1744193348559607507
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_64: 8583802514883544931
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_65: -7442648689136496760
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_66: 3726803773815759539
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_67: 2767703054243798329
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_68: -8287084531217051022
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_69: 5065617062775475668
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_7: 4677187655977440610
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_70: 8012128665044870705
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_71: -1753541858945172701
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_72: 2934724180615598902
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_73: -2059719968902579301
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_74: 3900580146570471690
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_75: -3156046487867493641
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_76: 2318595243911776792
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_77: -4818553899126676824
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_78: 215153807587454929
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_79: -6584406737666093373
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_8: -6075116494633100460
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_80: -133016076683461994
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_81: -3652554814661710755
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_82: 3414773513370127291
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_83: 550012277867486320
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_84: 7205385791926353030
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_85: -3870798119820718034
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_86: -7942645121184210243
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_87: -6440279159213121382
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_88: -7635893381263045290
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_89: -7768371998534118706
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_9: -4197925346919246928
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_90: 3705996620228510319
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_91: 6013522631422070311
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_92: 109102436704822937
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_93: 2912514496913423189
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_94: 4466442230236967777
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_95: -7005948101056976914
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_96: 3848000345635602086
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_97: 2140661775385855771
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_98: 3090660037791396953
+      PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_99: 198149522604703482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

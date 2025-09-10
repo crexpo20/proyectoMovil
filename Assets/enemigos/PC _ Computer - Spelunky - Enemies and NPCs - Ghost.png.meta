@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ccb32d0699021cf4a8f952e03ca9e649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6388550812529938975
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_0
+  - first:
+      213: 6365786969988924751
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_1
+  - first:
+      213: -2911199827477930738
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_2
+  - first:
+      213: 8869501862925156647
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_3
+  - first:
+      213: -437469953461225621
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_4
+  - first:
+      213: 6297504532076445683
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_5
+  - first:
+      213: -3753271396520600338
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_6
+  - first:
+      213: -3180597972479384087
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_7
+  - first:
+      213: -7202156416913292196
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_8
+  - first:
+      213: 7764587190357344723
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_9
+  - first:
+      213: -4186724620398934339
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_10
+  - first:
+      213: -6426226473395880520
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_11
+  - first:
+      213: -724798924005369228
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_12
+  - first:
+      213: 2917673373562920101
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_13
+  - first:
+      213: 2210368334196019749
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_14
+  - first:
+      213: -8404200926058089693
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_15
+  - first:
+      213: -4945947006706345727
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_16
+  - first:
+      213: -7911563852055128313
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_17
+  - first:
+      213: -3741297337555246124
+    second: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 963
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125162bd11b8a850800000000000000
+      internalID: 6388550812529938975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 488
+        width: 139
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4500069581d75850800000000000000
+      internalID: 6365786969988924751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 496
+        width: 148
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ddffc5e275997d0800000000000000
+      internalID: -2911199827477930738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 496
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721c152a3fcc61b70800000000000000
+      internalID: 8869501862925156647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 496
+        width: 139
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b677908256bcde9f0800000000000000
+      internalID: -437469953461225621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 491
+        width: 149
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff34dd910b356750800000000000000
+      internalID: 6297504532076445683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 335
+        width: 150
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec51c0fc83b9ebc0800000000000000
+      internalID: -3753271396520600338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 332
+        width: 149
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5e90ddefe3cd3d0800000000000000
+      internalID: -3180597972479384087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 333
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c544511c5eccc0c90800000000000000
+      internalID: -7202156416913292196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 337
+        width: 148
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d14ccc39ea51cb60800000000000000
+      internalID: 7764587190357344723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 336
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db64db4d324c5e5c0800000000000000
+      internalID: -4186724620398934339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 337
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf60fe11571d6a0800000000000000
+      internalID: -6426226473395880520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a1311083ff0f5f0800000000000000
+      internalID: -724798924005369228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 177
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac55d98978ad7820800000000000000
+      internalID: 2917673373562920101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 177
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229686f94eccae10800000000000000
+      internalID: 2210368334196019749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 176
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3237c4df8c74e5b80800000000000000
+      internalID: -8404200926058089693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 177
+        width: 148
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1099c53f6677c5bb0800000000000000
+      internalID: -4945947006706345727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 183
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707de64089a743290800000000000000
+      internalID: -7911563852055128313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Enemies and NPCs - Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 963
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3a7ebc4ed341cc0800000000000000
+      internalID: -3741297337555246124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_0: 6388550812529938975
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_1: 6365786969988924751
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_10: -4186724620398934339
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_11: -6426226473395880520
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_12: -724798924005369228
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_13: 2917673373562920101
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_14: 2210368334196019749
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_15: -8404200926058089693
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_16: -4945947006706345727
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_17: -7911563852055128313
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_18: -3741297337555246124
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_2: -2911199827477930738
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_3: 8869501862925156647
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_4: -437469953461225621
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_5: 6297504532076445683
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_6: -3753271396520600338
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_7: -3180597972479384087
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_8: -7202156416913292196
+      PC _ Computer - Spelunky - Enemies and NPCs - Ghost_9: 7764587190357344723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
