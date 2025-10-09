@@ -10,30 +10,39 @@ public class Personaje_movimiento : MonoBehaviour
 
 
     private Rigidbody2D rb;
+    private Animator Animator;
     private float moveInput;
     private bool Grounded;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        Animator = GetComponent<Animator>();
+        
     }
 
     void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+        Animator.SetBool("caminar", moveInput != 0.0f);
 
-        Debug.DrawRay(transform.position, Vector3.down * 0.1f, Color.red);
-        if (Physics2D.Raycast(transform.position,Vector3.down,0.1f)) {
-
+        Debug.DrawRay(transform.position, Vector3.down * 0.64f, Color.red);
+        if (Physics2D.Raycast(transform.position, Vector3.down, 0.64f))
+        {
+            Grounded = true;
         }
+        else Grounded = false;
+
         if (Input.GetKeyDown(KeyCode.UpArrow) && Grounded)
         {
             rb.AddForce(Vector2.up * jumpForce);
         }
 
-        if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
-        else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
+        if (moveInput > 0)
+            transform.localScale = new Vector3(1, 1, 1);
+        else if (moveInput < 0)
+            transform.localScale = new Vector3(-1, 1, 1);
     }
 
 
