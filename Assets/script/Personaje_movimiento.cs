@@ -39,10 +39,9 @@ public class Personaje_movimiento : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce);
         }
 
-        if (moveInput > 0)
-            transform.localScale = new Vector3(1, 1, 1);
-        else if (moveInput < 0)
-            transform.localScale = new Vector3(-1, 1, 1);
+        if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
+        else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
     }
+
 
 }
