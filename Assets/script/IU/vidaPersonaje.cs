@@ -8,28 +8,22 @@ public class vidaPersonaje: MonoBehaviour
 {
    
     public int vidamaxima = 3 ;
-    public int vidaactual ;
     public Image[] VidaImagen;
-    void Start() { 
-      //vidaactual = vidamaxima;
+    void Start()
+    {
+    
     }
-    void actualizarinterface() {
+    void actualizarinterface() 
+    {
         for (int i = 0; i < VidaImagen.Length; i++)
       {
             VidaImagen[i].enabled = i < vidamaxima;
         }
     }
-  void reiniciarecena() {
+    void reiniciarecena() {
             int curretSceneIndex = SceneManager.GetActiveScene().buildIndex;
             SceneManager.LoadScene(curretSceneIndex);    
        }
-  // public void recibirdanio(int cantidaddanio) { 
-     //   vidaactual -= cantidaddanio;
-       //     vidaactual = Mathf.Clamp(vidaactual, 0, vidamaxima);
-       //     actualizarinterface();  
-       // }
-
-  
 
     public void hit()
     {

@@ -2006,10 +2006,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_68
       rect:
         serializedVersion: 2
-        x: 11
+        x: 8
         y: 468
-        width: 58
-        height: 63
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2028,9 +2028,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_69
       rect:
         serializedVersion: 2
-        x: 92
+        x: 87
         y: 467
-        width: 56
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2050,9 +2050,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_70
       rect:
         serializedVersion: 2
-        x: 170
-        y: 467
-        width: 58
+        x: 167
+        y: 468
+        width: 64
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2072,10 +2072,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_71
       rect:
         serializedVersion: 2
-        x: 250
-        y: 469
-        width: 59
-        height: 61
+        x: 248
+        y: 468
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2094,10 +2094,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_72
       rect:
         serializedVersion: 2
-        x: 332
-        y: 468
-        width: 56
-        height: 63
+        x: 328
+        y: 467
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2116,10 +2116,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_73
       rect:
         serializedVersion: 2
-        x: 412
-        y: 468
-        width: 59
-        height: 63
+        x: 410
+        y: 467
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2270,10 +2270,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_80
       rect:
         serializedVersion: 2
-        x: 12
-        y: 393
-        width: 56
-        height: 61
+        x: 10
+        y: 394
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2292,10 +2292,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_81
       rect:
         serializedVersion: 2
-        x: 92
+        x: 89
         y: 392
-        width: 62
-        height: 61
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2317,7 +2317,7 @@ TextureImporter:
         x: 172
         y: 388
         width: 64
-        height: 67
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2336,10 +2336,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_83
       rect:
         serializedVersion: 2
-        x: 252
-        y: 386
-        width: 59
-        height: 69
+        x: 248
+        y: 388
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2358,10 +2358,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_84
       rect:
         serializedVersion: 2
-        x: 332
+        x: 328
         y: 392
-        width: 56
-        height: 63
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2380,10 +2380,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_85
       rect:
         serializedVersion: 2
-        x: 412
+        x: 409
         y: 393
-        width: 56
-        height: 61
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2403,9 +2403,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 486
-        y: 392
-        width: 62
-        height: 62
+        y: 390
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2424,10 +2424,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_87
       rect:
         serializedVersion: 2
-        x: 565
-        y: 387
-        width: 63
-        height: 68
+        x: 566
+        y: 389
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2447,9 +2447,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 648
-        y: 387
-        width: 60
-        height: 68
+        y: 389
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2468,10 +2468,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Golden Monk_89
       rect:
         serializedVersion: 2
-        x: 732
-        y: 392
-        width: 56
-        height: 62
+        x: 727
+        y: 390
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

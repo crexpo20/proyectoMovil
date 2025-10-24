@@ -3,25 +3,32 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class Personaje_movimiento : MonoBehaviour
 {
-    public float moveSpeed;
-    public float jumpForce;
-    public Transform groundCheck;
-    public LayerMask groundLayer;
-
+    public float moveSpeed = 20f;
+    public float jumpForce = 300f;
+    public float climbSpeerd = 1f; 
 
     private Rigidbody2D rb;
+    private CapsuleCollider2D boxCollider;
     private Animator Animator;
+    private Animator subida;
     private float moveInput;
     private bool Grounded;
+    private bool ladders;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
-        
+        boxCollider = GetComponent<CapsuleCollider2D>();
     }
 
     void Update()
+    {
+        movimiento_vertical();
+        Climb();
+        CheckForLadders();
+    }
+    private void movimiento_vertical()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
@@ -34,14 +41,40 @@ public class Personaje_movimiento : MonoBehaviour
         }
         else Grounded = false;
 
-        if (Input.GetKeyDown(KeyCode.UpArrow) && Grounded)
+        if (Input.GetKeyDown(KeyCode.Space) && Grounded)
         {
             rb.AddForce(Vector2.up * jumpForce);
         }
 
         if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
         else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
+
     }
+    private void Climb()
+    {
+        if (!ladders) {
+            rb.gravityScale = 1.5f;
+            return; 
+            }
+        var getDirection = Input.GetAxis("Vertical");
+        if (ladders && Input.GetAxis("Vertical") !=0)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, climbSpeerd * getDirection);
+            rb.gravityScale = 0; 
+        }
+    }
+    private void CheckForLadders()
+    {
+        if (boxCollider.IsTouchingLayers(LayerMask.GetMask("ladders")))
+        {
+            Animator.SetBool("isClimbing",true);
+            ladders = true;
 
-
+        }
+        else
+        {
+            Animator.SetBool("isClimbing",false);
+            ladders = false;
+        }
+    }
 }
