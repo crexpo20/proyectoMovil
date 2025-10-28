@@ -9,12 +9,12 @@ using System;
 public class bombas : MonoBehaviour
 {
     public static Action<int> Bombrec;
-     private int Bomba=1;
-    private void OnTriggerEnter2D(Collider2D collision)
+     private int Bomba=2;
+    private void OnCollisionEnter2D(Collision2D collision)
     {
 
 
-        if (collision.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             recolectar();
         }

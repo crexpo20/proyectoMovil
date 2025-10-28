@@ -18,7 +18,6 @@ public class Personaje_movimiento : MonoBehaviour
 
     [Header("vida y danio UI")]
     public int vidamaxima = 3;
-    public Image[] VidaImagen;
     [Tooltip("Fuerza del retroceso aplica en la direccion opuesta")]
     public float knockbackforce = 8f;
     [Tooltip("Duracion del retroceso en segundos ")]
@@ -64,7 +63,6 @@ public class Personaje_movimiento : MonoBehaviour
         spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         EventManager.OnBombCollected += AddBombs;
 
-        actualizarinterface();
         if (botonSalto != null)
         {
             botonSalto.onClick.AddListener(OnBotonSaltoPresionado);
@@ -78,14 +76,7 @@ public class Personaje_movimiento : MonoBehaviour
         Climb();
         CheckForLadders();
     }
-    void actualizarinterface()
-    {
-        int vidaParaMostrar = Mathf.Clamp(vidamaxima, 0, VidaImagen.Length);
-        for (int i = 0; i < VidaImagen.Length; i++)
-        {
-            VidaImagen[i].enabled = i < vidamaxima;
-        }
-    }
+   
     public void AddBombs(int Brecolectado)
     {
         bombas += Brecolectado;
@@ -215,7 +206,6 @@ public class Personaje_movimiento : MonoBehaviour
         if (isInvulnerable) return;
 
         vidamaxima -= daño;
-        actualizarinterface();
 
         if (vidamaxima <= 0)
         {
@@ -230,7 +220,7 @@ public class Personaje_movimiento : MonoBehaviour
 
         StartCoroutine(ProcesoKnockbackYInvulnerable(direccion));
 
-        if (Animator != null) Animator.SetTrigger("hit");
+        //if (Animator != null) Animator.SetTrigger("hit");
     }
 
     private IEnumerator DelayAndReload(float delay)

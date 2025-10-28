@@ -6,7 +6,7 @@ public class provocaDanio : MonoBehaviour
 {
     public  Personaje_movimiento Vidajuador;
     public bool puededa;
-    private float cold = 3f;
+    
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

@@ -10,11 +10,11 @@ public class moneda : MonoBehaviour
 {
     public static Action<int> Ororeco; 
     [SerializeField] private int oroganado;
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
        
 
-        if (collision.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             recolectar();
         }
