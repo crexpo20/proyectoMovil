@@ -432,7 +432,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 60
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -510,12 +510,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 949
-        width: 61
-        height: 70
+        x: 11
+        y: 950
+        width: 59
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -532,12 +532,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_1
       rect:
         serializedVersion: 2
-        x: 90
-        y: 949
-        width: 61
-        height: 72
+        x: 91
+        y: 950
+        width: 59
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -554,12 +554,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_2
       rect:
         serializedVersion: 2
-        x: 170
-        y: 948
-        width: 61
-        height: 72
+        x: 171
+        y: 950
+        width: 59
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -576,12 +576,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_3
       rect:
         serializedVersion: 2
-        x: 250
-        y: 949
-        width: 61
-        height: 71
+        x: 251
+        y: 950
+        width: 59
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -598,12 +598,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_4
       rect:
         serializedVersion: 2
-        x: 331
-        y: 949
-        width: 60
-        height: 70
+        x: 333
+        y: 950
+        width: 57
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -620,12 +620,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_5
       rect:
         serializedVersion: 2
-        x: 411
-        y: 949
-        width: 60
-        height: 73
+        x: 412
+        y: 950
+        width: 58
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -642,12 +642,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_6
       rect:
         serializedVersion: 2
-        x: 490
-        y: 949
-        width: 61
-        height: 72
+        x: 491
+        y: 950
+        width: 59
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -664,12 +664,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_7
       rect:
         serializedVersion: 2
-        x: 571
-        y: 949
-        width: 61
-        height: 72
+        x: 572
+        y: 950
+        width: 58
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -686,12 +686,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_8
       rect:
         serializedVersion: 2
-        x: 651
-        y: 948
-        width: 61
-        height: 72
+        x: 652
+        y: 950
+        width: 59
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -708,12 +708,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_9
       rect:
         serializedVersion: 2
-        x: 730
-        y: 949
-        width: 63
-        height: 42
+        x: 731
+        y: 950
+        width: 61
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -730,12 +730,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_10
       rect:
         serializedVersion: 2
-        x: 17
-        y: 868
-        width: 65
-        height: 65
+        x: 18
+        y: 870
+        width: 63
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -752,12 +752,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_11
       rect:
         serializedVersion: 2
-        x: 87
-        y: 869
-        width: 67
-        height: 48
+        x: 90
+        y: 870
+        width: 63
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -774,12 +774,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_12
       rect:
         serializedVersion: 2
-        x: 170
-        y: 869
-        width: 63
-        height: 42
+        x: 171
+        y: 870
+        width: 61
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -796,12 +796,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_13
       rect:
         serializedVersion: 2
-        x: 250
-        y: 869
-        width: 67
-        height: 48
+        x: 251
+        y: 870
+        width: 63
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -818,12 +818,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_14
       rect:
         serializedVersion: 2
-        x: 331
-        y: 868
-        width: 65
-        height: 65
+        x: 334
+        y: 870
+        width: 59
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -840,12 +840,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_15
       rect:
         serializedVersion: 2
-        x: 411
-        y: 869
-        width: 62
-        height: 42
+        x: 412
+        y: 870
+        width: 60
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -862,12 +862,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_16
       rect:
         serializedVersion: 2
-        x: 490
-        y: 869
-        width: 63
-        height: 42
+        x: 491
+        y: 870
+        width: 60
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -884,12 +884,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_17
       rect:
         serializedVersion: 2
-        x: 570
-        y: 869
-        width: 63
-        height: 42
+        x: 571
+        y: 870
+        width: 60
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -906,12 +906,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_18
       rect:
         serializedVersion: 2
-        x: 650
-        y: 869
-        width: 63
-        height: 42
+        x: 651
+        y: 870
+        width: 61
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -928,12 +928,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_19
       rect:
         serializedVersion: 2
-        x: 730
-        y: 869
-        width: 66
-        height: 42
+        x: 731
+        y: 870
+        width: 63
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -950,12 +950,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_20
       rect:
         serializedVersion: 2
-        x: 810
-        y: 869
-        width: 68
-        height: 42
+        x: 811
+        y: 870
+        width: 66
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -972,12 +972,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_21
       rect:
         serializedVersion: 2
-        x: 890
-        y: 869
-        width: 69
-        height: 42
+        x: 891
+        y: 870
+        width: 67
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -994,12 +994,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_22
       rect:
         serializedVersion: 2
-        x: 13
-        y: 788
-        width: 56
-        height: 72
+        x: 14
+        y: 790
+        width: 53
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1016,12 +1016,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_23
       rect:
         serializedVersion: 2
-        x: 90
-        y: 788
-        width: 62
-        height: 69
+        x: 91
+        y: 790
+        width: 59
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1038,12 +1038,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_24
       rect:
         serializedVersion: 2
-        x: 168
-        y: 797
-        width: 67
-        height: 55
+        x: 170
+        y: 798
+        width: 64
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1060,12 +1060,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_25
       rect:
         serializedVersion: 2
-        x: 244
-        y: 797
-        width: 72
-        height: 52
+        x: 246
+        y: 798
+        width: 68
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1082,12 +1082,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_26
       rect:
         serializedVersion: 2
-        x: 332
-        y: 788
-        width: 63
-        height: 63
+        x: 334
+        y: 790
+        width: 60
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1104,12 +1104,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_27
       rect:
         serializedVersion: 2
-        x: 404
-        y: 788
-        width: 67
-        height: 67
+        x: 406
+        y: 790
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1126,12 +1126,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_28
       rect:
         serializedVersion: 2
-        x: 486
-        y: 790
-        width: 63
-        height: 65
+        x: 487
+        y: 791
+        width: 61
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1148,12 +1148,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_29
       rect:
         serializedVersion: 2
-        x: 567
-        y: 788
-        width: 60
-        height: 68
+        x: 568
+        y: 790
+        width: 58
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1170,12 +1170,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_30
       rect:
         serializedVersion: 2
-        x: 646
-        y: 788
-        width: 62
-        height: 66
+        x: 647
+        y: 790
+        width: 59
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1192,12 +1192,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_31
       rect:
         serializedVersion: 2
-        x: 725
-        y: 786
-        width: 61
-        height: 71
+        x: 726
+        y: 787
+        width: 59
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1214,12 +1214,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_32
       rect:
         serializedVersion: 2
-        x: 809
-        y: 789
-        width: 59
-        height: 75
+        x: 810
+        y: 790
+        width: 56
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1236,12 +1236,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_33
       rect:
         serializedVersion: 2
-        x: 3
-        y: 708
-        width: 59
-        height: 72
+        x: 5
+        y: 711
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1258,12 +1258,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_34
       rect:
         serializedVersion: 2
-        x: 83
-        y: 708
-        width: 57
-        height: 72
+        x: 85
+        y: 711
+        width: 54
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1280,12 +1280,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_35
       rect:
         serializedVersion: 2
-        x: 168
-        y: 708
-        width: 60
-        height: 72
+        x: 171
+        y: 710
+        width: 55
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1302,12 +1302,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_36
       rect:
         serializedVersion: 2
-        x: 247
-        y: 709
-        width: 62
-        height: 69
+        x: 250
+        y: 710
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1324,12 +1324,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_37
       rect:
         serializedVersion: 2
-        x: 340
-        y: 708
-        width: 61
-        height: 67
+        x: 342
+        y: 710
+        width: 57
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1346,12 +1346,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_38
       rect:
         serializedVersion: 2
-        x: 418
-        y: 708
-        width: 63
-        height: 63
+        x: 419
+        y: 710
+        width: 60
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1368,12 +1368,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_39
       rect:
         serializedVersion: 2
-        x: 498
-        y: 708
-        width: 63
-        height: 69
+        x: 499
+        y: 710
+        width: 59
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1390,12 +1390,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_40
       rect:
         serializedVersion: 2
-        x: 570
-        y: 709
-        width: 60
-        height: 71
+        x: 571
+        y: 710
+        width: 58
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1412,12 +1412,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_41
       rect:
         serializedVersion: 2
-        x: 651
-        y: 701
-        width: 61
-        height: 77
+        x: 654
+        y: 702
+        width: 56
+        height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1434,12 +1434,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_42
       rect:
         serializedVersion: 2
-        x: 731
-        y: 703
-        width: 61
-        height: 76
+        x: 732
+        y: 704
+        width: 58
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1456,12 +1456,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_43
       rect:
         serializedVersion: 2
-        x: 811
-        y: 704
-        width: 61
-        height: 76
+        x: 814
+        y: 707
+        width: 56
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1478,12 +1478,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_44
       rect:
         serializedVersion: 2
-        x: 891
-        y: 710
-        width: 61
-        height: 71
+        x: 894
+        y: 711
+        width: 56
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1500,12 +1500,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_45
       rect:
         serializedVersion: 2
-        x: 9
-        y: 628
-        width: 59
-        height: 72
+        x: 10
+        y: 630
+        width: 55
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1522,12 +1522,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_46
       rect:
         serializedVersion: 2
-        x: 91
-        y: 628
-        width: 56
-        height: 72
+        x: 94
+        y: 630
+        width: 52
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1544,12 +1544,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_47
       rect:
         serializedVersion: 2
-        x: 167
-        y: 628
-        width: 57
-        height: 72
+        x: 168
+        y: 629
+        width: 54
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1566,12 +1566,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_48
       rect:
         serializedVersion: 2
-        x: 251
-        y: 628
-        width: 61
-        height: 69
+        x: 254
+        y: 629
+        width: 56
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1588,12 +1588,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_49
       rect:
         serializedVersion: 2
-        x: 330
-        y: 628
-        width: 61
-        height: 70
+        x: 331
+        y: 630
+        width: 59
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1610,12 +1610,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_50
       rect:
         serializedVersion: 2
-        x: 409
-        y: 628
-        width: 62
-        height: 70
+        x: 410
+        y: 630
+        width: 60
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1632,12 +1632,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_51
       rect:
         serializedVersion: 2
-        x: 488
-        y: 628
-        width: 59
-        height: 73
+        x: 490
+        y: 630
+        width: 56
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1654,12 +1654,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_52
       rect:
         serializedVersion: 2
-        x: 570
-        y: 628
-        width: 60
-        height: 73
+        x: 571
+        y: 630
+        width: 58
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1676,12 +1676,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_53
       rect:
         serializedVersion: 2
-        x: 652
-        y: 629
-        width: 65
-        height: 70
+        x: 655
+        y: 630
+        width: 61
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1698,12 +1698,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_54
       rect:
         serializedVersion: 2
-        x: 736
-        y: 629
-        width: 67
-        height: 67
+        x: 739
+        y: 630
+        width: 63
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1720,12 +1720,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_55
       rect:
         serializedVersion: 2
-        x: 808
-        y: 628
-        width: 59
-        height: 73
+        x: 810
+        y: 630
+        width: 56
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1742,12 +1742,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_56
       rect:
         serializedVersion: 2
-        x: 13
-        y: 548
-        width: 54
-        height: 74
+        x: 14
+        y: 551
+        width: 52
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1764,12 +1764,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_57
       rect:
         serializedVersion: 2
-        x: 93
-        y: 548
-        width: 54
-        height: 73
+        x: 94
+        y: 550
+        width: 52
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1786,12 +1786,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_58
       rect:
         serializedVersion: 2
-        x: 173
-        y: 548
-        width: 54
-        height: 74
+        x: 174
+        y: 550
+        width: 52
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1808,12 +1808,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_59
       rect:
         serializedVersion: 2
-        x: 253
-        y: 548
-        width: 54
-        height: 74
+        x: 254
+        y: 551
+        width: 52
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1830,12 +1830,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_60
       rect:
         serializedVersion: 2
-        x: 333
-        y: 548
-        width: 54
-        height: 73
+        x: 334
+        y: 550
+        width: 52
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1852,12 +1852,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_61
       rect:
         serializedVersion: 2
-        x: 413
-        y: 548
-        width: 54
-        height: 74
+        x: 414
+        y: 550
+        width: 52
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1874,12 +1874,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_62
       rect:
         serializedVersion: 2
-        x: 490
-        y: 548
-        width: 61
-        height: 71
+        x: 491
+        y: 551
+        width: 59
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1896,12 +1896,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_63
       rect:
         serializedVersion: 2
-        x: 570
-        y: 548
-        width: 61
-        height: 71
+        x: 571
+        y: 550
+        width: 59
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1918,12 +1918,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_64
       rect:
         serializedVersion: 2
-        x: 650
-        y: 548
-        width: 61
-        height: 72
+        x: 651
+        y: 550
+        width: 59
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1940,12 +1940,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_65
       rect:
         serializedVersion: 2
-        x: 730
-        y: 547
-        width: 61
-        height: 72
+        x: 731
+        y: 549
+        width: 59
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1962,12 +1962,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_66
       rect:
         serializedVersion: 2
-        x: 810
-        y: 548
-        width: 61
-        height: 71
+        x: 811
+        y: 549
+        width: 59
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1984,12 +1984,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_67
       rect:
         serializedVersion: 2
-        x: 890
-        y: 548
-        width: 61
-        height: 72
+        x: 891
+        y: 550
+        width: 59
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2006,12 +2006,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_68
       rect:
         serializedVersion: 2
-        x: 12
-        y: 469
-        width: 57
-        height: 70
+        x: 14
+        y: 470
+        width: 53
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2028,12 +2028,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_69
       rect:
         serializedVersion: 2
-        x: 92
-        y: 468
-        width: 56
-        height: 71
+        x: 94
+        y: 469
+        width: 52
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2050,12 +2050,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_70
       rect:
         serializedVersion: 2
-        x: 171
-        y: 468
-        width: 57
-        height: 72
+        x: 174
+        y: 469
+        width: 52
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2072,12 +2072,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_71
       rect:
         serializedVersion: 2
-        x: 252
-        y: 469
-        width: 57
-        height: 70
+        x: 254
+        y: 470
+        width: 53
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2094,12 +2094,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_72
       rect:
         serializedVersion: 2
-        x: 332
-        y: 468
-        width: 56
-        height: 71
+        x: 334
+        y: 469
+        width: 52
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2116,12 +2116,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_73
       rect:
         serializedVersion: 2
-        x: 412
-        y: 468
-        width: 57
-        height: 72
+        x: 414
+        y: 469
+        width: 52
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2138,12 +2138,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_74
       rect:
         serializedVersion: 2
-        x: 489
-        y: 466
-        width: 65
-        height: 71
+        x: 490
+        y: 467
+        width: 63
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2160,12 +2160,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_75
       rect:
         serializedVersion: 2
-        x: 568
-        y: 467
-        width: 66
-        height: 72
+        x: 570
+        y: 468
+        width: 63
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2182,12 +2182,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_76
       rect:
         serializedVersion: 2
-        x: 648
-        y: 467
-        width: 66
-        height: 73
+        x: 650
+        y: 468
+        width: 63
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2204,12 +2204,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_77
       rect:
         serializedVersion: 2
-        x: 728
-        y: 467
-        width: 66
-        height: 70
+        x: 730
+        y: 468
+        width: 63
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2226,12 +2226,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_78
       rect:
         serializedVersion: 2
-        x: 808
-        y: 467
-        width: 66
-        height: 72
+        x: 810
+        y: 468
+        width: 63
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2248,12 +2248,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_79
       rect:
         serializedVersion: 2
-        x: 888
-        y: 467
-        width: 66
-        height: 73
+        x: 890
+        y: 468
+        width: 63
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2270,12 +2270,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_80
       rect:
         serializedVersion: 2
-        x: 12
-        y: 394
-        width: 56
-        height: 69
+        x: 14
+        y: 395
+        width: 52
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2292,12 +2292,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_81
       rect:
         serializedVersion: 2
-        x: 92
-        y: 392
-        width: 62
-        height: 70
+        x: 94
+        y: 394
+        width: 59
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2314,12 +2314,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_82
       rect:
         serializedVersion: 2
-        x: 173
-        y: 388
-        width: 62
-        height: 75
+        x: 174
+        y: 390
+        width: 60
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2336,12 +2336,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_83
       rect:
         serializedVersion: 2
-        x: 252
-        y: 387
-        width: 59
-        height: 77
+        x: 254
+        y: 390
+        width: 56
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2358,12 +2358,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_84
       rect:
         serializedVersion: 2
-        x: 332
-        y: 393
-        width: 56
-        height: 70
+        x: 334
+        y: 394
+        width: 52
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2380,12 +2380,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_85
       rect:
         serializedVersion: 2
-        x: 412
-        y: 394
-        width: 56
-        height: 69
+        x: 414
+        y: 395
+        width: 52
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2402,12 +2402,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_86
       rect:
         serializedVersion: 2
-        x: 486
-        y: 392
-        width: 62
-        height: 70
+        x: 487
+        y: 394
+        width: 59
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2424,12 +2424,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_87
       rect:
         serializedVersion: 2
-        x: 565
-        y: 388
-        width: 62
-        height: 75
+        x: 566
+        y: 390
+        width: 60
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2446,12 +2446,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_88
       rect:
         serializedVersion: 2
-        x: 649
-        y: 387
-        width: 59
-        height: 77
+        x: 650
+        y: 390
+        width: 56
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2468,12 +2468,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_89
       rect:
         serializedVersion: 2
-        x: 732
-        y: 393
-        width: 56
-        height: 70
+        x: 734
+        y: 394
+        width: 52
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2490,12 +2490,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_90
       rect:
         serializedVersion: 2
-        x: 11
-        y: 309
-        width: 59
-        height: 71
+        x: 14
+        y: 310
+        width: 55
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2512,12 +2512,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_91
       rect:
         serializedVersion: 2
-        x: 93
-        y: 309
-        width: 52
-        height: 72
+        x: 94
+        y: 310
+        width: 50
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2534,12 +2534,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_92
       rect:
         serializedVersion: 2
-        x: 169
-        y: 309
-        width: 54
-        height: 69
+        x: 170
+        y: 310
+        width: 52
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2556,12 +2556,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_93
       rect:
         serializedVersion: 2
-        x: 247
-        y: 309
-        width: 52
-        height: 68
+        x: 248
+        y: 310
+        width: 50
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2578,12 +2578,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_94
       rect:
         serializedVersion: 2
-        x: 329
-        y: 309
-        width: 54
-        height: 69
+        x: 330
+        y: 310
+        width: 52
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2600,12 +2600,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_95
       rect:
         serializedVersion: 2
-        x: 413
-        y: 309
-        width: 53
-        height: 72
+        x: 414
+        y: 310
+        width: 51
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2622,12 +2622,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_96
       rect:
         serializedVersion: 2
-        x: 491
-        y: 309
-        width: 59
-        height: 71
+        x: 494
+        y: 310
+        width: 55
+        height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2644,12 +2644,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_97
       rect:
         serializedVersion: 2
-        x: 565
-        y: 309
-        width: 70
-        height: 51
+        x: 566
+        y: 310
+        width: 68
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2666,12 +2666,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_98
       rect:
         serializedVersion: 2
-        x: 11
-        y: 227
-        width: 61
-        height: 72
+        x: 14
+        y: 228
+        width: 57
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2688,12 +2688,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_99
       rect:
         serializedVersion: 2
-        x: 90
-        y: 224
-        width: 61
-        height: 75
+        x: 91
+        y: 226
+        width: 59
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2710,12 +2710,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_100
       rect:
         serializedVersion: 2
-        x: 172
-        y: 226
-        width: 61
-        height: 73
+        x: 174
+        y: 227
+        width: 56
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2732,12 +2732,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_101
       rect:
         serializedVersion: 2
-        x: 251
-        y: 225
-        width: 62
-        height: 74
+        x: 254
+        y: 226
+        width: 57
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2754,12 +2754,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_102
       rect:
         serializedVersion: 2
-        x: 330
-        y: 225
-        width: 59
-        height: 78
+        x: 331
+        y: 226
+        width: 56
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2776,12 +2776,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_103
       rect:
         serializedVersion: 2
-        x: 411
-        y: 226
-        width: 58
-        height: 77
+        x: 412
+        y: 227
+        width: 55
+        height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2798,12 +2798,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_104
       rect:
         serializedVersion: 2
-        x: 491
-        y: 223
-        width: 59
-        height: 80
+        x: 494
+        y: 225
+        width: 55
+        height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2820,12 +2820,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_105
       rect:
         serializedVersion: 2
-        x: 571
-        y: 224
-        width: 59
-        height: 79
+        x: 574
+        y: 225
+        width: 55
+        height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2842,12 +2842,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_106
       rect:
         serializedVersion: 2
-        x: 649
-        y: 225
-        width: 60
-        height: 78
+        x: 650
+        y: 226
+        width: 57
+        height: 76
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2864,12 +2864,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_107
       rect:
         serializedVersion: 2
-        x: 731
-        y: 226
-        width: 58
-        height: 77
+        x: 732
+        y: 227
+        width: 55
+        height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2886,12 +2886,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_108
       rect:
         serializedVersion: 2
-        x: 811
-        y: 223
-        width: 59
-        height: 80
+        x: 814
+        y: 225
+        width: 55
+        height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2908,12 +2908,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_109
       rect:
         serializedVersion: 2
-        x: 891
-        y: 224
-        width: 59
-        height: 79
+        x: 894
+        y: 225
+        width: 55
+        height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2930,12 +2930,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_110
       rect:
         serializedVersion: 2
-        x: 11
-        y: 145
-        width: 63
-        height: 75
+        x: 12
+        y: 146
+        width: 61
+        height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2952,12 +2952,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_111
       rect:
         serializedVersion: 2
-        x: 90
-        y: 144
-        width: 63
-        height: 77
+        x: 91
+        y: 145
+        width: 59
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2974,12 +2974,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_112
       rect:
         serializedVersion: 2
-        x: 170
-        y: 142
-        width: 62
-        height: 80
+        x: 171
+        y: 143
+        width: 60
+        height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2996,12 +2996,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_113
       rect:
         serializedVersion: 2
-        x: 250
-        y: 144
-        width: 62
-        height: 77
+        x: 251
+        y: 145
+        width: 60
+        height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3018,12 +3018,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_114
       rect:
         serializedVersion: 2
-        x: 330
-        y: 144
-        width: 63
-        height: 74
+        x: 331
+        y: 145
+        width: 61
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3040,12 +3040,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_115
       rect:
         serializedVersion: 2
-        x: 408
-        y: 144
-        width: 63
-        height: 75
+        x: 409
+        y: 145
+        width: 61
+        height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3062,12 +3062,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_116
       rect:
         serializedVersion: 2
-        x: 490
-        y: 142
-        width: 66
-        height: 76
+        x: 491
+        y: 143
+        width: 64
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3084,12 +3084,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_117
       rect:
         serializedVersion: 2
-        x: 562
-        y: 140
-        width: 75
-        height: 75
+        x: 563
+        y: 141
+        width: 73
+        height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3106,12 +3106,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_118
       rect:
         serializedVersion: 2
-        x: 641
-        y: 142
-        width: 78
-        height: 73
+        x: 642
+        y: 143
+        width: 76
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3128,12 +3128,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_119
       rect:
         serializedVersion: 2
-        x: 730
-        y: 142
-        width: 66
-        height: 76
+        x: 731
+        y: 143
+        width: 64
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3150,12 +3150,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_120
       rect:
         serializedVersion: 2
-        x: 816
-        y: 84
-        width: 128
-        height: 120
+        x: 818
+        y: 86
+        width: 124
+        height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3172,12 +3172,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_121
       rect:
         serializedVersion: 2
-        x: 7
-        y: 75
-        width: 68
-        height: 58
+        x: 8
+        y: 76
+        width: 66
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3194,12 +3194,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_122
       rect:
         serializedVersion: 2
-        x: 94
-        y: 78
-        width: 52
-        height: 52
+        x: 95
+        y: 79
+        width: 50
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3216,12 +3216,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_123
       rect:
         serializedVersion: 2
-        x: 177
-        y: 71
-        width: 47
-        height: 66
+        x: 178
+        y: 74
+        width: 44
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3238,12 +3238,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_124
       rect:
         serializedVersion: 2
-        x: 251
-        y: 70
-        width: 57
-        height: 69
+        x: 253
+        y: 71
+        width: 53
+        height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3260,12 +3260,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_125
       rect:
         serializedVersion: 2
-        x: 333
-        y: 69
-        width: 55
-        height: 65
+        x: 334
+        y: 70
+        width: 52
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3282,12 +3282,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_126
       rect:
         serializedVersion: 2
-        x: 410
-        y: 75
-        width: 63
-        height: 58
+        x: 411
+        y: 76
+        width: 61
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3304,12 +3304,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_127
       rect:
         serializedVersion: 2
-        x: 492
-        y: 66
-        width: 61
-        height: 73
+        x: 494
+        y: 67
+        width: 57
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3326,7 +3326,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f349b8af0a4e4704cb1058f195616871
     internalID: 0
     vertices: []
     indices: 
@@ -3334,7 +3334,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_0: 8790086348919851373
       PC _ Computer - Spelunky - Playable Characters - Spelunky Guy_1: -3731336089939369680
