@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class provocaDanio : MonoBehaviour
 {
-    public  vidaPersonaje Vidajuador;
+    public  Personaje_movimiento Vidajuador;
     public bool puededa;
     private float cold = 3f;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
          
-        vidaPersonaje monje = collision.GetComponent<vidaPersonaje>();
+        Personaje_movimiento monje = collision.GetComponent<Personaje_movimiento>();
         if (monje != null)
         {
             monje.hit();

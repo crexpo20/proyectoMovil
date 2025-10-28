@@ -1,0 +1,5759 @@
+fileFormatVersion: 2
+guid: 44b75d75724a79240a3a0ec65d4d90e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -808182884534056690
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_0
+  - first:
+      213: 6787422227117136607
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_1
+  - first:
+      213: -5919379694505691188
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_2
+  - first:
+      213: 1086202109703330979
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_3
+  - first:
+      213: -5096960663946541564
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_4
+  - first:
+      213: -4041475304542505934
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_5
+  - first:
+      213: -1339529930576681250
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_6
+  - first:
+      213: -902088945449641340
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_7
+  - first:
+      213: 83855046975892457
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_8
+  - first:
+      213: 5960666311651304718
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_9
+  - first:
+      213: -7740488703159656814
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_10
+  - first:
+      213: -2583804747843977808
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_11
+  - first:
+      213: -8647506093833320312
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_12
+  - first:
+      213: -8258343754650375158
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_13
+  - first:
+      213: 5179855117255364405
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_14
+  - first:
+      213: -2556484054308009755
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_15
+  - first:
+      213: 4759016812739143606
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_16
+  - first:
+      213: 2606105558651744896
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_17
+  - first:
+      213: -3825035299647192019
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_18
+  - first:
+      213: 4609869694130537208
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_19
+  - first:
+      213: 550341022582551668
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_20
+  - first:
+      213: 2972902441257874341
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_21
+  - first:
+      213: -8501655832293286610
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_22
+  - first:
+      213: 3508291467623002631
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_23
+  - first:
+      213: 8749099592176314151
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_24
+  - first:
+      213: -6611068791776329767
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_25
+  - first:
+      213: 4436451843463595841
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_26
+  - first:
+      213: 8289007139679877053
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_27
+  - first:
+      213: -6689575984310423325
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_28
+  - first:
+      213: 1935918596912006323
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_29
+  - first:
+      213: 4511610579406575281
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_30
+  - first:
+      213: 107943334305465524
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_31
+  - first:
+      213: -2563439798818629788
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_32
+  - first:
+      213: -4512626579555549139
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_33
+  - first:
+      213: -1386740786107293322
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_34
+  - first:
+      213: 500870005769949628
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_35
+  - first:
+      213: -6932709590334316418
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_36
+  - first:
+      213: -4533487993267790009
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_37
+  - first:
+      213: -2594955208127935076
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_38
+  - first:
+      213: 344839123951035928
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_39
+  - first:
+      213: -3380351174224762339
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_40
+  - first:
+      213: -8507651734636228691
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_41
+  - first:
+      213: 8612724456750487283
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_42
+  - first:
+      213: 1545505146950784073
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_43
+  - first:
+      213: -6048596427288726587
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_44
+  - first:
+      213: 8528282303582223781
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_45
+  - first:
+      213: -3308149266516376140
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_46
+  - first:
+      213: -7478831769882980619
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_47
+  - first:
+      213: 837568752373999379
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_48
+  - first:
+      213: -4254532769086615698
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_49
+  - first:
+      213: 1373346359763345521
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_50
+  - first:
+      213: 8120951195880056724
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_51
+  - first:
+      213: -8785721724370660234
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_52
+  - first:
+      213: -3578283821955692080
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_53
+  - first:
+      213: 6242373597995654005
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_54
+  - first:
+      213: 8756075812137214487
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_55
+  - first:
+      213: -8090981768792068429
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_56
+  - first:
+      213: 654273574754016640
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_57
+  - first:
+      213: 7807348384632752635
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_58
+  - first:
+      213: -5922050784086333963
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_59
+  - first:
+      213: -8218794889599876507
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_60
+  - first:
+      213: -4291918778400898509
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_61
+  - first:
+      213: 8210602244128185576
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_62
+  - first:
+      213: 7642895201856877588
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_63
+  - first:
+      213: -8795171838224551020
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_64
+  - first:
+      213: 7278972286765268628
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_65
+  - first:
+      213: -3198085363010786351
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_66
+  - first:
+      213: -4552410399919282211
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_67
+  - first:
+      213: 3948587320408164190
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_68
+  - first:
+      213: -975829840901257990
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_69
+  - first:
+      213: -1236386857967619651
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_70
+  - first:
+      213: -172877707423859953
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_71
+  - first:
+      213: 2683763797778889601
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_72
+  - first:
+      213: -178603984690545142
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_73
+  - first:
+      213: 287917695720973759
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_74
+  - first:
+      213: -4721248213486861865
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_75
+  - first:
+      213: 5493094140998112614
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_76
+  - first:
+      213: 4759343092518917098
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_77
+  - first:
+      213: -3920605815436713013
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_78
+  - first:
+      213: -3384561423456297804
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_79
+  - first:
+      213: 8856241213651233418
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_80
+  - first:
+      213: -462103117884608777
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_81
+  - first:
+      213: -2069494869376637208
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_82
+  - first:
+      213: -7366214270268102490
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_83
+  - first:
+      213: 4252218001151622463
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_84
+  - first:
+      213: 4466646975988550426
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_85
+  - first:
+      213: -605111677834844874
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_86
+  - first:
+      213: 4085563148389924257
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_87
+  - first:
+      213: -8500868197829100985
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_88
+  - first:
+      213: -4263790931674832222
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_89
+  - first:
+      213: 5125452022269636073
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_90
+  - first:
+      213: 1768562090170052424
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_91
+  - first:
+      213: 5693191815765721939
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_92
+  - first:
+      213: 3042893918379071771
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_93
+  - first:
+      213: 657998909793506185
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_94
+  - first:
+      213: 5862327622895265583
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_95
+  - first:
+      213: -679865932264856200
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_96
+  - first:
+      213: 181409780856980596
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_97
+  - first:
+      213: -6734923869616664622
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_98
+  - first:
+      213: 932086777079484240
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_99
+  - first:
+      213: -1140357361065316775
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_100
+  - first:
+      213: 7569216102170328428
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_101
+  - first:
+      213: 7075585651537378776
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_102
+  - first:
+      213: 8623131745393273882
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_103
+  - first:
+      213: 6747537666427285113
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_104
+  - first:
+      213: 3951513878624585125
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_105
+  - first:
+      213: -5346988897984162680
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_106
+  - first:
+      213: -3906369175559076591
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_107
+  - first:
+      213: -3458188219481071760
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_108
+  - first:
+      213: 7397328404793111557
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_109
+  - first:
+      213: -7648009952204276281
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_110
+  - first:
+      213: 8565806635575044965
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_111
+  - first:
+      213: -2671239715385286636
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_112
+  - first:
+      213: 4770520383098616023
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_113
+  - first:
+      213: 8662936703323828132
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_114
+  - first:
+      213: 2982642762859931813
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_115
+  - first:
+      213: -7583372081802955905
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_116
+  - first:
+      213: -3556003381506754604
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_117
+  - first:
+      213: 5790116864728941780
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_118
+  - first:
+      213: -8619847266100020773
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_119
+  - first:
+      213: 6659810459830319084
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_120
+  - first:
+      213: -8592702679828026712
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_121
+  - first:
+      213: 7855149594476796411
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_122
+  - first:
+      213: -9035833613923675725
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_123
+  - first:
+      213: -2530227244422555695
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_124
+  - first:
+      213: -8301352424181754042
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_125
+  - first:
+      213: 2186170056460565883
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_126
+  - first:
+      213: -8078621374412499083
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_127
+  - first:
+      213: -7005663111613190726
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_128
+  - first:
+      213: 2836244558356372804
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_129
+  - first:
+      213: -423217674035964829
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_130
+  - first:
+      213: -6145319738782953219
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_131
+  - first:
+      213: -8610319936172628524
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_132
+  - first:
+      213: 5165590333286134291
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_133
+  - first:
+      213: 5358251628584407471
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_134
+  - first:
+      213: 3174892727120636259
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_135
+  - first:
+      213: -2230453741823245338
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_136
+  - first:
+      213: 4184027128143285193
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_137
+  - first:
+      213: 8506144751733014964
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_138
+  - first:
+      213: -3564270991709375517
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_139
+  - first:
+      213: -2524054239386577059
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_140
+  - first:
+      213: 3400220581724735214
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_141
+  - first:
+      213: 647135400815112332
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_142
+  - first:
+      213: -3083965336523421173
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_143
+  - first:
+      213: -1268330863736531567
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_144
+  - first:
+      213: -5129135575186707164
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_145
+  - first:
+      213: -4436791461554292327
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_146
+  - first:
+      213: -3068502777379225851
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_147
+  - first:
+      213: -2241786780619770547
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_148
+  - first:
+      213: 1753069783795562564
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_149
+  - first:
+      213: 2588947376162431901
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_150
+  - first:
+      213: -5457894326051018601
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_151
+  - first:
+      213: 1372502993352968714
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_152
+  - first:
+      213: 6519695057669876096
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_153
+  - first:
+      213: -8020032790071503337
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_154
+  - first:
+      213: -7659218946391170861
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_155
+  - first:
+      213: -5579490985722495239
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_156
+  - first:
+      213: -3168221780423719597
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_157
+  - first:
+      213: 4549663807352225080
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_158
+  - first:
+      213: -3647074492194146385
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_159
+  - first:
+      213: 6014712763418654285
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_160
+  - first:
+      213: 2444168983209305885
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_161
+  - first:
+      213: -7803216560377221971
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_162
+  - first:
+      213: 3710135725887967171
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_163
+  - first:
+      213: -5996642364077187630
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_164
+  - first:
+      213: -1262543198962967083
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_165
+  - first:
+      213: -6942943839115994205
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_166
+  - first:
+      213: 3507537307268848284
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_167
+  - first:
+      213: -9198505063509964163
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_168
+  - first:
+      213: 6226707979915607583
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_169
+  - first:
+      213: 6966403240667642109
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_170
+  - first:
+      213: -6928691346166660415
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_171
+  - first:
+      213: 6022382366829752835
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_172
+  - first:
+      213: 5985362076239146206
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_173
+  - first:
+      213: -2839915705821201517
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_174
+  - first:
+      213: 1927096578326549703
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_175
+  - first:
+      213: -2132051584593320248
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_176
+  - first:
+      213: -9204226691934426187
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_177
+  - first:
+      213: 8212119564601743753
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_178
+  - first:
+      213: 6887428847998132370
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_179
+  - first:
+      213: -2453753112836854946
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_180
+  - first:
+      213: -9082624189836283541
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_181
+  - first:
+      213: 6148012725551176588
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_182
+  - first:
+      213: -8244699375203499727
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_183
+  - first:
+      213: -8985325736158982121
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_184
+  - first:
+      213: 8846004636390773357
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_185
+  - first:
+      213: -930510758635393506
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_186
+  - first:
+      213: -8477143116477645927
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_187
+  - first:
+      213: -832551439238465424
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_188
+  - first:
+      213: 7033484840555831094
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_189
+  - first:
+      213: 800405738089409049
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_190
+  - first:
+      213: 3569583854814824833
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_191
+  - first:
+      213: 6347984151855209762
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_192
+  - first:
+      213: -8230895323966707652
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_193
+  - first:
+      213: -5754508560337978871
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_194
+  - first:
+      213: 4010517987687552420
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_195
+  - first:
+      213: 7829261409139453825
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_196
+  - first:
+      213: 5800580297513371869
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_197
+  - first:
+      213: -3572677092664411081
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_198
+  - first:
+      213: -4628428608218669256
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_199
+  - first:
+      213: -1720092263489400187
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_200
+  - first:
+      213: 4510993150516826312
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_201
+  - first:
+      213: 5644886000559805351
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_202
+  - first:
+      213: 4597038362992110276
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_203
+  - first:
+      213: -7010092963942086274
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_204
+  - first:
+      213: 3393211743809250335
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_205
+  - first:
+      213: -496919213548193502
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_206
+  - first:
+      213: -8162455950386165209
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_207
+  - first:
+      213: 6138754087291546408
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_208
+  - first:
+      213: 5113469520197477859
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_209
+  - first:
+      213: -5084127780755431277
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_210
+  - first:
+      213: 2152540755359483836
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_211
+  - first:
+      213: -985878945182234634
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_212
+  - first:
+      213: -6102049066339064676
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_213
+  - first:
+      213: 1682391628320634505
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_214
+  - first:
+      213: 6315138371986130860
+    second: PC _ Computer - Spelunky 2 - Playable Characters - Au_215
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1926
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e090ccdc2f1c8c4f0800000000000000
+      internalID: -808182884534056690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1925
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda58e3ed84c13e50800000000000000
+      internalID: 6787422227117136607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1923
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7f352b7832adda0800000000000000
+      internalID: -5919379694505691188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1924
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac95275017f21f00800000000000000
+      internalID: 1086202109703330979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1925
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c35fe745f349b0800000000000000
+      internalID: -5096960663946541564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1925
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234fa388f9bc9e7c0800000000000000
+      internalID: -4041475304542505934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1924
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed629f110a8096de0800000000000000
+      internalID: -1339529930576681250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1925
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48adaa232e22b73f0800000000000000
+      internalID: -902088945449641340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_8
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1925
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2f9f88b9e92100800000000000000
+      internalID: 83855046975892457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_9
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1926
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e052d92fd6a88b250800000000000000
+      internalID: 5960666311651304718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_10
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1922
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e9e3c0982449490800000000000000
+      internalID: -7740488703159656814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_11
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1924
+        width: 85
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdbacb754b742cd0800000000000000
+      internalID: -2583804747843977808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_12
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1921
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880a0c2603edf780800000000000000
+      internalID: -8647506093833320312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_13
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1920
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0caff61c18746d80800000000000000
+      internalID: -8258343754650375158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_14
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1922
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fcefbf8ca82e740800000000000000
+      internalID: 5179855117255364405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_15
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1923
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e845052c4b858cd0800000000000000
+      internalID: -2556484054308009755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1776
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7ad6ba39c6b0240800000000000000
+      internalID: 4759016812739143606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1785
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082bb96a23fba2420800000000000000
+      internalID: 2606105558651744896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1798
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24033f29aebaeac0800000000000000
+      internalID: -3825035299647192019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1798
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f24d7b001c89ff30800000000000000
+      internalID: 4609869694130537208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1796
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474bb548e3433a700800000000000000
+      internalID: 550341022582551668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1798
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3311be40fd14920800000000000000
+      internalID: 2972902441257874341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1797
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd781701d040a80800000000000000
+      internalID: -8501655832293286610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1797
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f3388084ffa030800000000000000
+      internalID: 3508291467623002631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_24
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1784
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7272f2079bb0b6970800000000000000
+      internalID: 8749099592176314151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_25
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1797
+        width: 110
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df3088f5f3c044a0800000000000000
+      internalID: -6611068791776329767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_26
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1798
+        width: 119
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14746c04271719d30800000000000000
+      internalID: 4436451843463595841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_27
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1797
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7bb459318780370800000000000000
+      internalID: 8289007139679877053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_28
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1266
+        width: 381
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0713dc51ad923a0800000000000000
+      internalID: -6689575984310423325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1667
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4430bf4b3cdda10800000000000000
+      internalID: 1935918596912006323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1753
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b65c6e1be57c9e30800000000000000
+      internalID: 4511610579406575281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1667
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4062104ed7f7100800000000000000
+      internalID: 107943334305465524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1681
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467115ca515dc6cd0800000000000000
+      internalID: -2563439798818629788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_33
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1683
+        width: 116
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d200b99e80eef51c0800000000000000
+      internalID: -4512626579555549139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_34
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1667
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67167803a9e41cce0800000000000000
+      internalID: -1386740786107293322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_35
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1668
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1d094dd9273f600800000000000000
+      internalID: 500870005769949628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1654
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70ed21db511acf90800000000000000
+      internalID: -6932709590334316418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1665
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f56c780b0d511c0800000000000000
+      internalID: -4533487993267790009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_38
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1667
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d0c73acfddcfbd0800000000000000
+      internalID: -2594955208127935076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_39
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1666
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81622cf2b5d19c400800000000000000
+      internalID: 344839123951035928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_40
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1668
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a224454849611d0800000000000000
+      internalID: -3380351174224762339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_41
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1658
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf8544a2dfbee980800000000000000
+      internalID: -8507651734636228691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1541
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f69ee0e24b868770800000000000000
+      internalID: 8612724456750487283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1528
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441a822ebcb27510800000000000000
+      internalID: 1545505146950784073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1528
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c332c1a8911f0ca0800000000000000
+      internalID: -6048596427288726587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_45
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1528
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adb441029b8a5670800000000000000
+      internalID: 8528282303582223781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_46
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1578
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b58259f4c71712d0800000000000000
+      internalID: -3308149266516376140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1521
+        width: 91
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe083d312ad53890800000000000000
+      internalID: -7478831769882980619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_48
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1528
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3172838b754af9b00800000000000000
+      internalID: 837568752373999379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_49
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1523
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f455decfcd4f4c0800000000000000
+      internalID: -4254532769086615698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_50
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1541
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1702547ec3b1f0310800000000000000
+      internalID: 1373346359763345521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_51
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1537
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e6b4061a63b070800000000000000
+      internalID: 8120951195880056724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_52
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1537
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6745473f3a8d21680800000000000000
+      internalID: -8785721724370660234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_53
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1538
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9cdce82d1675ec0800000000000000
+      internalID: -3578283821955692080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_54
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1537
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bdecfb6bd51a650800000000000000
+      internalID: 6242373597995654005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1564
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71224d83f84d38970800000000000000
+      internalID: 8756075812137214487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_56
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1564
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beacfaf2fe07bf80800000000000000
+      internalID: -8090981768792068429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1389
+        width: 91
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d53298952741900800000000000000
+      internalID: 654273574754016640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_58
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1412
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf941cf9df5495c60800000000000000
+      internalID: 7807348384632752635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_59
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1519
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e5b03036a0dda0800000000000000
+      internalID: -5922050784086333963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_60
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1411
+        width: 84
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628a9bc799f0fd80800000000000000
+      internalID: -8218794889599876507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1393
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33206905c9a0074c0800000000000000
+      internalID: -4291918778400898509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_62
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1400
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec19494d3be1f170800000000000000
+      internalID: 8210602244128185576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1413
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414773a31b4011a60800000000000000
+      internalID: 7642895201856877588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_64
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1410
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4933b1cdfc541f580800000000000000
+      internalID: -8795171838224551020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1411
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e7e8aaaba140560800000000000000
+      internalID: 7278972286765268628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_66
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbad587e4e1e93d0800000000000000
+      internalID: -3198085363010786351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_67
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1412
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd764096cd692d0c0800000000000000
+      internalID: -4552410399919282211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_68
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1412
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e574a855f333cc630800000000000000
+      internalID: 3948587320408164190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_69
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1411
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4cadb0ee72572f0800000000000000
+      internalID: -975829840901257990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1441
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1f0ed04b877dee0800000000000000
+      internalID: -1236386857967619651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1284
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bba6b14a0d99df0800000000000000
+      internalID: -172877707423859953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1283
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bf9a374f4ae3520800000000000000
+      internalID: 2683763797778889601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1284
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0efc094f98758df0800000000000000
+      internalID: -178603984690545142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_74
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1284
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb56ff96e93eef300800000000000000
+      internalID: 287917695720973759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_75
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1283
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d10baa93c1ca7eb0800000000000000
+      internalID: -4721248213486861865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_76
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1284
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d8ff74046b3c40800000000000000
+      internalID: 5493094140998112614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_77
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1283
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae39cc993559c0240800000000000000
+      internalID: 4759343092518917098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_78
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1283
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3609a78c53799c0800000000000000
+      internalID: -3920605815436713013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_79
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1282
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc956a415f9701d0800000000000000
+      internalID: -3384561423456297804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_80
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1283
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2bd02670b7ea70800000000000000
+      internalID: 8856241213651233418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_81
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1283
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe23e0a9a74699f0800000000000000
+      internalID: -462103117884608777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_82
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1282
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6ef46816da743e0800000000000000
+      internalID: -2069494869376637208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1156
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a1492623f5c990800000000000000
+      internalID: -7366214270268102490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1154
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df92a2eb9e20b30800000000000000
+      internalID: 4252218001151622463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_85
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1152
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bced462c7bcfd30800000000000000
+      internalID: 4466646975988550426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1156
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a63192263a97f0800000000000000
+      internalID: -605111677834844874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_87
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1154
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad35378906d2b830800000000000000
+      internalID: 4085563148389924257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_88
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1152
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3bf1e969d60a80800000000000000
+      internalID: -8500868197829100985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_89
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1154
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a26df8fcb8f3d4c0800000000000000
+      internalID: -4263790931674832222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_90
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1155
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed60bc5573412740800000000000000
+      internalID: 5125452022269636073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_91
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1155
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84feecbc9d13b8810800000000000000
+      internalID: 1768562090170052424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_92
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1157
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35380e8eac7420f40800000000000000
+      internalID: 5693191815765721939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_93
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1156
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195e2695e78a3a20800000000000000
+      internalID: 3042893918379071771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_94
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1155
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98316d0b58ea12900800000000000000
+      internalID: 657998909793506185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1035
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27e1afb9eb2b5150800000000000000
+      internalID: 5862327622895265583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_96
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1036
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875a6746981a096f0800000000000000
+      internalID: -679865932264856200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_97
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1026
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47403ca0c3f748200800000000000000
+      internalID: 181409780856980596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_98
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1023
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df033a7c6eb882a0800000000000000
+      internalID: -6734923869616664622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_99
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1035
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f49af3cff6fec00800000000000000
+      internalID: 932086777079484240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_100
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1035
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e23b0a503ac20f0800000000000000
+      internalID: -1140357361065316775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_101
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1036
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d770601f14b0960800000000000000
+      internalID: 7569216102170328428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_102
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1026
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd7cb979a7813260800000000000000
+      internalID: 7075585651537378776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_103
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1023
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c6f8792a48ba770800000000000000
+      internalID: 8623131745393273882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_104
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1035
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e67f3f1c114ad50800000000000000
+      internalID: 6747537666427285113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_105
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1034
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5c174cfe896d630800000000000000
+      internalID: 3951513878624585125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_106
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1023
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88452b54dedabc5b0800000000000000
+      internalID: -5346988897984162680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_107
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1023
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11504418ee9c9c9c0800000000000000
+      internalID: -3906369175559076591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_108
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1023
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd36bf22c0200d0800000000000000
+      internalID: -3458188219481071760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_109
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1034
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504b99ecdf698a660800000000000000
+      internalID: 7397328404793111557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_110
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 900
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3638287fccd590800000000000000
+      internalID: -7648009952204276281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 977
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b622060cbdfd670800000000000000
+      internalID: 8565806635575044965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_112
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 900
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4106b86b1a9ddead0800000000000000
+      internalID: -2671239715385286636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_113
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 900
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d87a5c530b443240800000000000000
+      internalID: 4770520383098616023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_114
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 900
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af6f41980fe83870800000000000000
+      internalID: 8662936703323828132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_115
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 900
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e7244ac9746920800000000000000
+      internalID: 2982642762859931813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_116
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 900
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f733580254372c690800000000000000
+      internalID: -7583372081802955905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_117
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 900
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b339d3c986aec0800000000000000
+      internalID: -3556003381506754604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_118
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 977
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4ca227c90aa5050800000000000000
+      internalID: 5790116864728941780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_119
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 902
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97cf5d496206880800000000000000
+      internalID: -8619847266100020773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_120
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 902
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7fd99f3566c6c50800000000000000
+      internalID: 6659810459830319084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_121
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 902
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaad44507690c880800000000000000
+      internalID: -8592702679828026712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_122
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 902
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d75410f8130d60800000000000000
+      internalID: 7855149594476796411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_123
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 902
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b19b88b3354a9280800000000000000
+      internalID: -9035833613923675725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_124
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 902
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d79d271ab3d2ecd0800000000000000
+      internalID: -2530227244422555695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_125
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 902
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6479151e3fbabcc80800000000000000
+      internalID: -8301352424181754042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_126
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 902
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d7de16516d65e10800000000000000
+      internalID: 2186170056460565883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_127
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 773
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577d34f89a8f2ef80800000000000000
+      internalID: -8078621374412499083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_128
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 767
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdec308482e6ce90800000000000000
+      internalID: -7005663111613190726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 767
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d57f4166d5c5720800000000000000
+      internalID: 2836244558356372804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_130
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 767
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3645b6c84cd602af0800000000000000
+      internalID: -423217674035964829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_131
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 767
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df055a2c14077baa0800000000000000
+      internalID: -6145319738782953219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_132
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 767
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d567f133aff18880800000000000000
+      internalID: -8610319936172628524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_133
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 767
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31236b62a0ddfa740800000000000000
+      internalID: 5165590333286134291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_134
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 767
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa19eea87755c5a40800000000000000
+      internalID: 5358251628584407471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_135
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 767
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692fff2d1c7f0c20800000000000000
+      internalID: 3174892727120636259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_136
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 767
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e34fa6a326db01e0800000000000000
+      internalID: -2230453741823245338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_137
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 767
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb049f4186a01a30800000000000000
+      internalID: 4184027128143285193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_138
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 767
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1891f8595eb0670800000000000000
+      internalID: 8506144751733014964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_139
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 768
+        width: 80
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3fee7da6a298ec0800000000000000
+      internalID: -3564270991709375517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_140
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 767
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575b83da02c8fcd0800000000000000
+      internalID: -2524054239386577059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_141
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 772
+        width: 62
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ccab9a92003f20800000000000000
+      internalID: 3400220581724735214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_142
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 771
+        width: 63
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c803a27e7361bf800800000000000000
+      internalID: 647135400815112332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 644
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a47e0bddd8335d0800000000000000
+      internalID: -3083965336523421173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_144
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 642
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195d151accbf56ee0800000000000000
+      internalID: -1268330863736531567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 641
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d6d24ae56a1d8b0800000000000000
+      internalID: -5129135575186707164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_146
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 642
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f19f3ca95d62c0800000000000000
+      internalID: -4436791461554292327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_147
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 642
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff20a4bfc7a65d0800000000000000
+      internalID: -3068502777379225851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_148
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 642
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45fdfeecc293e0e0800000000000000
+      internalID: -2241786780619770547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_149
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 642
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448fa912ea7245810800000000000000
+      internalID: 1753069783795562564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_150
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 642
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93675afbe9cde320800000000000000
+      internalID: 2588947376162431901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_151
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 642
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798eb12170aa144b0800000000000000
+      internalID: -5457894326051018601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_152
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 642
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ac6fb533c1c0310800000000000000
+      internalID: 1372502993352968714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_153
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 642
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896844bc1c9a7a50800000000000000
+      internalID: 6519695057669876096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_154
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 642
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7169dcc5bae13b090800000000000000
+      internalID: -8020032790071503337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_155
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 642
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a963d2fcf4b590800000000000000
+      internalID: -7659218946391170861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_156
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 641
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3488828aa192b0800000000000000
+      internalID: -5579490985722495239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_157
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 642
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3554030a3173804d0800000000000000
+      internalID: -3168221780423719597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_158
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 642
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d3eaca027a32f30800000000000000
+      internalID: 4549663807352225080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_159
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 534
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa73167821df26dc0800000000000000
+      internalID: -3647074492194146385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_160
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 516
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b399146d887350800000000000000
+      internalID: 6014712763418654285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_161
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 512
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17e73f8dbe6be120800000000000000
+      internalID: 2444168983209305885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_162
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 525
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac254da1e765b390800000000000000
+      internalID: -7803216560377221971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_163
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 514
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfc90a19cc0d7330800000000000000
+      internalID: 3710135725887967171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_164
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 516
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddde1c9a85a7cca0800000000000000
+      internalID: -5996642364077187630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_165
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 514
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd1a3856ab8a7ee0800000000000000
+      internalID: -1262543198962967083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_166
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 514
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab11061d55b5af90800000000000000
+      internalID: -6942943839115994205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_167
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 514
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a9034e8964da030800000000000000
+      internalID: 3507537307268848284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_168
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 515
+        width: 85
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a4bd86168585080800000000000000
+      internalID: -9198505063509964163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_169
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 520
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb5fecae5b96650800000000000000
+      internalID: 6226707979915607583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_170
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 25
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8ff1a76d2ada060800000000000000
+      internalID: 6966403240667642109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_171
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 432
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2c9613ee758df90800000000000000
+      internalID: -6928691346166660415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_172
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 416
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b67ccadcc39350800000000000000
+      internalID: 6022382366829752835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_173
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 400
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc2456b817401350800000000000000
+      internalID: 5985362076239146206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_174
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 385
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b797a46b79698d0800000000000000
+      internalID: -2839915705821201517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_175
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 388
+        width: 32
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c45607b02c6eba10800000000000000
+      internalID: 1927096578326549703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_176
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 387
+        width: 30
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a181416e6962e0800000000000000
+      internalID: -2132051584593320248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_177
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 415
+        width: 30
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb641bf694044080800000000000000
+      internalID: -9204226691934426187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_178
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 443
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895f1dfb3f47f170800000000000000
+      internalID: 8212119564601743753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_179
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 469
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e4bccb00159f50800000000000000
+      internalID: 6887428847998132370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_180
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 392
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba9de5b8482fdd0800000000000000
+      internalID: -2453753112836854946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_181
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 415
+        width: 119
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b613070db6904f180800000000000000
+      internalID: -9082624189836283541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_182
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 428
+        width: 121
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1f051001225550800000000000000
+      internalID: 6148012725551176588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_183
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 403
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1314c1db991f49d80800000000000000
+      internalID: -8244699375203499727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_184
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 438
+        width: 123
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710911969d5bd4380800000000000000
+      internalID: -8985325736158982121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_185
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 438
+        width: 125
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d781495253ca70800000000000000
+      internalID: 8846004636390773357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_186
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 299
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eabd325692613f0800000000000000
+      internalID: -930510758635393506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_187
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 306
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bb338df332b5a80800000000000000
+      internalID: -8477143116477645927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_188
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 299
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07873f680ee2274f0800000000000000
+      internalID: -832551439238465424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_189
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fdc6e8235fb9160800000000000000
+      internalID: 7033484840555831094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_190
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae00f27cc9b1b00800000000000000
+      internalID: 800405738089409049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_191
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 309
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189053e7a95b98130800000000000000
+      internalID: 3569583854814824833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_192
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 294
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d932bf3f1981850800000000000000
+      internalID: 6347984151855209762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_193
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c386a8fdf4cf5cd80800000000000000
+      internalID: -8230895323966707652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_194
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 294
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3c1cf3f0e320b0800000000000000
+      internalID: -5754508560337978871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_195
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 309
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55e657cd838a730800000000000000
+      internalID: 4010517987687552420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_196
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 295
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f6e6935cf17ac60800000000000000
+      internalID: 7829261409139453825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_197
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 304
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd80a6c3c0dcf7050800000000000000
+      internalID: 5800580297513371869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_198
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 291
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cff82fc1d4b6ec0800000000000000
+      internalID: -3572677092664411081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_199
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 305
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fdeda04b484cfb0800000000000000
+      internalID: -4628428608218669256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_200
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 293
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58211d523310128e0800000000000000
+      internalID: -1720092263489400187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_201
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 300
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c096c0ce544a9e30800000000000000
+      internalID: 4510993150516826312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_202
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 294
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a351fcd8e9a65e40800000000000000
+      internalID: 5644886000559805351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_203
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 299
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caecf4f806fbcf30800000000000000
+      internalID: 4597038362992110276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_204
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 295
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7944c1279527be90800000000000000
+      internalID: -7010092963942086274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_205
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 299
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f142f6d5a1c171f20800000000000000
+      internalID: 3393211743809250335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_206
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 294
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229b46aab969a19f0800000000000000
+      internalID: -496919213548193502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_207
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 291
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a85764f8129be80800000000000000
+      internalID: -8162455950386165209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_208
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 134
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b6d70615c313550800000000000000
+      internalID: 6138754087291546408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_209
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 134
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e56821bf61b6f640800000000000000
+      internalID: 5113469520197477859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_210
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 134
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a06368bc8179b0800000000000000
+      internalID: -5084127780755431277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_211
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 134
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c0cf896c5fdd10800000000000000
+      internalID: 2152540755359483836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_212
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 134
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f740e0a2547152f0800000000000000
+      internalID: -985878945182234634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_213
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 134
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c942bd644ba215ba0800000000000000
+      internalID: -6102049066339064676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_214
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 134
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9867423b54e095710800000000000000
+      internalID: 1682391628320634505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky 2 - Playable Characters - Au_215
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 134
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca70ca9e3e0e3a750800000000000000
+      internalID: 6315138371986130860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_0: -808182884534056690
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_1: 6787422227117136607
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_10: -7740488703159656814
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_100: -1140357361065316775
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_101: 7569216102170328428
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_102: 7075585651537378776
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_103: 8623131745393273882
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_104: 6747537666427285113
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_105: 3951513878624585125
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_106: -5346988897984162680
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_107: -3906369175559076591
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_108: -3458188219481071760
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_109: 7397328404793111557
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_11: -2583804747843977808
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_110: -7648009952204276281
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_111: 8565806635575044965
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_112: -2671239715385286636
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_113: 4770520383098616023
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_114: 8662936703323828132
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_115: 2982642762859931813
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_116: -7583372081802955905
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_117: -3556003381506754604
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_118: 5790116864728941780
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_119: -8619847266100020773
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_12: -8647506093833320312
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_120: 6659810459830319084
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_121: -8592702679828026712
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_122: 7855149594476796411
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_123: -9035833613923675725
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_124: -2530227244422555695
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_125: -8301352424181754042
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_126: 2186170056460565883
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_127: -8078621374412499083
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_128: -7005663111613190726
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_129: 2836244558356372804
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_13: -8258343754650375158
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_130: -423217674035964829
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_131: -6145319738782953219
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_132: -8610319936172628524
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_133: 5165590333286134291
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_134: 5358251628584407471
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_135: 3174892727120636259
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_136: -2230453741823245338
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_137: 4184027128143285193
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_138: 8506144751733014964
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_139: -3564270991709375517
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_14: 5179855117255364405
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_140: -2524054239386577059
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_141: 3400220581724735214
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_142: 647135400815112332
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_143: -3083965336523421173
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_144: -1268330863736531567
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_145: -5129135575186707164
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_146: -4436791461554292327
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_147: -3068502777379225851
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_148: -2241786780619770547
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_149: 1753069783795562564
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_15: -2556484054308009755
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_150: 2588947376162431901
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_151: -5457894326051018601
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_152: 1372502993352968714
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_153: 6519695057669876096
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_154: -8020032790071503337
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_155: -7659218946391170861
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_156: -5579490985722495239
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_157: -3168221780423719597
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_158: 4549663807352225080
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_159: -3647074492194146385
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_16: 4759016812739143606
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_160: 6014712763418654285
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_161: 2444168983209305885
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_162: -7803216560377221971
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_163: 3710135725887967171
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_164: -5996642364077187630
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_165: -1262543198962967083
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_166: -6942943839115994205
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_167: 3507537307268848284
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_168: -9198505063509964163
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_169: 6226707979915607583
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_17: 2606105558651744896
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_170: 6966403240667642109
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_171: -6928691346166660415
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_172: 6022382366829752835
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_173: 5985362076239146206
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_174: -2839915705821201517
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_175: 1927096578326549703
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_176: -2132051584593320248
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_177: -9204226691934426187
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_178: 8212119564601743753
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_179: 6887428847998132370
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_18: -3825035299647192019
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_180: -2453753112836854946
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_181: -9082624189836283541
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_182: 6148012725551176588
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_183: -8244699375203499727
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_184: -8985325736158982121
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_185: 8846004636390773357
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_186: -930510758635393506
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_187: -8477143116477645927
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_188: -832551439238465424
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_189: 7033484840555831094
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_19: 4609869694130537208
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_190: 800405738089409049
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_191: 3569583854814824833
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_192: 6347984151855209762
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_193: -8230895323966707652
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_194: -5754508560337978871
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_195: 4010517987687552420
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_196: 7829261409139453825
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_197: 5800580297513371869
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_198: -3572677092664411081
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_199: -4628428608218669256
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_2: -5919379694505691188
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_20: 550341022582551668
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_200: -1720092263489400187
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_201: 4510993150516826312
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_202: 5644886000559805351
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_203: 4597038362992110276
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_204: -7010092963942086274
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_205: 3393211743809250335
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_206: -496919213548193502
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_207: -8162455950386165209
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_208: 6138754087291546408
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_209: 5113469520197477859
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_21: 2972902441257874341
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_210: -5084127780755431277
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_211: 2152540755359483836
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_212: -985878945182234634
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_213: -6102049066339064676
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_214: 1682391628320634505
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_215: 6315138371986130860
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_22: -8501655832293286610
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_23: 3508291467623002631
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_24: 8749099592176314151
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_25: -6611068791776329767
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_26: 4436451843463595841
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_27: 8289007139679877053
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_28: -6689575984310423325
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_29: 1935918596912006323
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_3: 1086202109703330979
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_30: 4511610579406575281
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_31: 107943334305465524
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_32: -2563439798818629788
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_33: -4512626579555549139
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_34: -1386740786107293322
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_35: 500870005769949628
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_36: -6932709590334316418
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_37: -4533487993267790009
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_38: -2594955208127935076
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_39: 344839123951035928
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_4: -5096960663946541564
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_40: -3380351174224762339
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_41: -8507651734636228691
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_42: 8612724456750487283
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_43: 1545505146950784073
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_44: -6048596427288726587
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_45: 8528282303582223781
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_46: -3308149266516376140
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_47: -7478831769882980619
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_48: 837568752373999379
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_49: -4254532769086615698
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_5: -4041475304542505934
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_50: 1373346359763345521
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_51: 8120951195880056724
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_52: -8785721724370660234
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_53: -3578283821955692080
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_54: 6242373597995654005
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_55: 8756075812137214487
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_56: -8090981768792068429
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_57: 654273574754016640
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_58: 7807348384632752635
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_59: -5922050784086333963
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_6: -1339529930576681250
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_60: -8218794889599876507
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_61: -4291918778400898509
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_62: 8210602244128185576
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_63: 7642895201856877588
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_64: -8795171838224551020
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_65: 7278972286765268628
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_66: -3198085363010786351
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_67: -4552410399919282211
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_68: 3948587320408164190
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_69: -975829840901257990
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_7: -902088945449641340
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_70: -1236386857967619651
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_71: -172877707423859953
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_72: 2683763797778889601
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_73: -178603984690545142
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_74: 287917695720973759
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_75: -4721248213486861865
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_76: 5493094140998112614
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_77: 4759343092518917098
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_78: -3920605815436713013
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_79: -3384561423456297804
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_8: 83855046975892457
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_80: 8856241213651233418
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_81: -462103117884608777
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_82: -2069494869376637208
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_83: -7366214270268102490
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_84: 4252218001151622463
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_85: 4466646975988550426
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_86: -605111677834844874
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_87: 4085563148389924257
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_88: -8500868197829100985
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_89: -4263790931674832222
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_9: 5960666311651304718
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_90: 5125452022269636073
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_91: 1768562090170052424
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_92: 5693191815765721939
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_93: 3042893918379071771
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_94: 657998909793506185
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_95: 5862327622895265583
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_96: -679865932264856200
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_97: 181409780856980596
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_98: -6734923869616664622
+      PC _ Computer - Spelunky 2 - Playable Characters - Au_99: 932086777079484240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
