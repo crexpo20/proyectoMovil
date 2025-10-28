@@ -15,7 +15,9 @@ public class provocaDanio : MonoBehaviour
         if (monje != null)
         {
             monje.hit();
+         
         }
+        //vidanum.danio();
     }
 
 }
