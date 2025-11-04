@@ -121,7 +121,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -214,11 +214,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18
-        y: 413
-        width: 131
-        height: 134
+        y: 415
+        width: 129
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -235,12 +235,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_1
       rect:
         serializedVersion: 2
-        x: 178
-        y: 413
-        width: 134
-        height: 134
+        x: 179
+        y: 414
+        width: 132
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -257,12 +257,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_2
       rect:
         serializedVersion: 2
-        x: 338
-        y: 413
-        width: 136
-        height: 134
+        x: 339
+        y: 414
+        width: 134
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -279,12 +279,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_3
       rect:
         serializedVersion: 2
-        x: 498
-        y: 413
-        width: 131
-        height: 136
+        x: 499
+        y: 414
+        width: 129
+        height: 134
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -301,12 +301,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_4
       rect:
         serializedVersion: 2
-        x: 658
-        y: 413
-        width: 132
-        height: 135
+        x: 659
+        y: 414
+        width: 130
+        height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -323,12 +323,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_5
       rect:
         serializedVersion: 2
-        x: 18
-        y: 253
-        width: 136
-        height: 136
+        x: 19
+        y: 254
+        width: 134
+        height: 134
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -345,12 +345,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_6
       rect:
         serializedVersion: 2
-        x: 178
-        y: 253
-        width: 136
-        height: 136
+        x: 179
+        y: 254
+        width: 134
+        height: 134
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -367,12 +367,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_7
       rect:
         serializedVersion: 2
-        x: 337
-        y: 253
-        width: 132
-        height: 135
+        x: 338
+        y: 254
+        width: 130
+        height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -389,12 +389,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_8
       rect:
         serializedVersion: 2
-        x: 497
-        y: 253
-        width: 131
-        height: 136
+        x: 498
+        y: 254
+        width: 129
+        height: 134
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -411,12 +411,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_9
       rect:
         serializedVersion: 2
-        x: 657
-        y: 255
-        width: 131
-        height: 126
+        x: 658
+        y: 256
+        width: 130
+        height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -433,12 +433,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_10
       rect:
         serializedVersion: 2
-        x: 817
-        y: 255
-        width: 131
-        height: 121
+        x: 821
+        y: 256
+        width: 123
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -455,12 +455,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_11
       rect:
         serializedVersion: 2
-        x: 17
-        y: 95
-        width: 131
-        height: 118
+        x: 18
+        y: 96
+        width: 129
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -477,12 +477,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_12
       rect:
         serializedVersion: 2
-        x: 161
-        y: 106
-        width: 154
-        height: 132
+        x: 169
+        y: 108
+        width: 140
+        height: 124
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -499,12 +499,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_13
       rect:
         serializedVersion: 2
-        x: 335
+        x: 332
         y: 95
-        width: 124
-        height: 132
+        width: 129
+        height: 134
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -521,12 +521,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_14
       rect:
         serializedVersion: 2
-        x: 498
-        y: 95
-        width: 125
-        height: 132
+        x: 495
+        y: 96
+        width: 128
+        height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -543,12 +543,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_15
       rect:
         serializedVersion: 2
-        x: 657
-        y: 95
-        width: 125
+        x: 661
+        y: 94
+        width: 123
         height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -565,12 +565,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_16
       rect:
         serializedVersion: 2
-        x: 821
-        y: 95
-        width: 124
-        height: 132
+        x: 822
+        y: 96
+        width: 122
+        height: 130
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -587,12 +587,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_17
       rect:
         serializedVersion: 2
-        x: 17
-        y: 26
-        width: 56
-        height: 58
+        x: 18
+        y: 27
+        width: 54
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -609,12 +609,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_18
       rect:
         serializedVersion: 2
-        x: 96
-        y: 26
-        width: 58
-        height: 58
+        x: 97
+        y: 27
+        width: 56
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -631,12 +631,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_19
       rect:
         serializedVersion: 2
-        x: 177
-        y: 26
-        width: 60
-        height: 58
+        x: 178
+        y: 27
+        width: 58
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -653,12 +653,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_20
       rect:
         serializedVersion: 2
-        x: 257
-        y: 26
-        width: 61
-        height: 58
+        x: 258
+        y: 27
+        width: 59
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -675,12 +675,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_21
       rect:
         serializedVersion: 2
-        x: 334
-        y: 28
-        width: 68
-        height: 56
+        x: 335
+        y: 29
+        width: 66
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -697,12 +697,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_22
       rect:
         serializedVersion: 2
-        x: 418
-        y: 26
-        width: 56
-        height: 58
+        x: 419
+        y: 27
+        width: 54
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -719,12 +719,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_23
       rect:
         serializedVersion: 2
-        x: 497
-        y: 26
-        width: 58
-        height: 58
+        x: 498
+        y: 27
+        width: 56
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -741,12 +741,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_24
       rect:
         serializedVersion: 2
-        x: 578
-        y: 26
-        width: 60
-        height: 58
+        x: 579
+        y: 27
+        width: 58
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -763,12 +763,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_25
       rect:
         serializedVersion: 2
-        x: 658
-        y: 26
-        width: 61
-        height: 58
+        x: 659
+        y: 27
+        width: 59
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -785,12 +785,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_26
       rect:
         serializedVersion: 2
-        x: 735
-        y: 28
-        width: 68
-        height: 56
+        x: 736
+        y: 23
+        width: 63
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -807,12 +807,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_27
       rect:
         serializedVersion: 2
-        x: 808
-        y: 28
-        width: 75
-        height: 53
+        x: 812
+        y: 25
+        width: 68
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -829,12 +829,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Enemies and NPCs - Frogs_28
       rect:
         serializedVersion: 2
-        x: 890
+        x: 896
         y: 29
-        width: 73
-        height: 56
+        width: 61
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -851,7 +851,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 797d468ef2d9c00429aed9e9b5e99492
     internalID: 0
     vertices: []
     indices: 
@@ -859,7 +859,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       PC _ Computer - Spelunky - Enemies and NPCs - Frogs_0: -605747032392218203
       PC _ Computer - Spelunky - Enemies and NPCs - Frogs_1: 7759767427419831444
