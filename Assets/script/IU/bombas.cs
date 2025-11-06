@@ -12,8 +12,6 @@ public class bombas : MonoBehaviour
      private int Bomba=2;
     private void OnCollisionEnter2D(Collision2D collision)
     {
-
-
         if (collision.gameObject.CompareTag("Player"))
         {
             recolectar();

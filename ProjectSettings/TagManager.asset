@@ -10,6 +10,7 @@ TagManager:
   - enemy
   - ladder
   - ladders
+  - tramp
   layers:
   - Default
   - TransparentFX

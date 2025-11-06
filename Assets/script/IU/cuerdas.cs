@@ -9,7 +9,7 @@ using System;
 public class cuerdas : MonoBehaviour
 {
     public static Action<int> CuerdaRec;
-    private int cuerda=1;
+    private int cuerda=2;
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
