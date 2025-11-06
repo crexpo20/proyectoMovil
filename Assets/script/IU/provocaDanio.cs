@@ -18,7 +18,10 @@ public class provocaDanio : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        vidaPersonaje monje = collision.GetComponent<vidaPersonaje>();
+        //este es una modificaciiion para cuando mate opor arriba no ataque o quite vida al personaje
+	if (!enabled) return;
+
+	vidaPersonaje monje = collision.GetComponent<vidaPersonaje>();
 
         if (monje != null)
         {
