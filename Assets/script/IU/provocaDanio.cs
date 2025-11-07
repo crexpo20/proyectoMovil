@@ -36,7 +36,9 @@ public class provocaDanio : MonoBehaviour
 	    }
             // Mantengo tu daño original tal cual estaba
             monje.hit();
+         
         }
+        //vidanum.danio();
     }
 
 }

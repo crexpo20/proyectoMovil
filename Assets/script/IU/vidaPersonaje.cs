@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class vidaPersonaje: MonoBehaviour
 {
-   
     public int vidamaxima = 3 ;
     public Image[] VidaImagen;
     void Start()
@@ -19,12 +19,13 @@ public class vidaPersonaje: MonoBehaviour
       {
             VidaImagen[i].enabled = i < vidamaxima;
         }
+  
+
     }
     void reiniciarecena() {
             int curretSceneIndex = SceneManager.GetActiveScene().buildIndex;
             SceneManager.LoadScene(curretSceneIndex);    
        }
-
     public void hit()
     {
         vidamaxima = vidamaxima - 1;
@@ -34,8 +35,7 @@ public class vidaPersonaje: MonoBehaviour
             Destroy(gameObject);
 
         }
+
+
     }
-
-
-
 }
