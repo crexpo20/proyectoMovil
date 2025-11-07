@@ -15971,10 +15971,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c172d21d0607044ebf30ce4ad51bd4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SistemaPausa
-  panelPausa: {fileID: 5488301091999039090, guid: 6cd516557912d3b4bb313b6f1f78d281, type: 3}
-  botonPausaUI: {fileID: 1875980489648455163, guid: 2a6d737e2a8e4a64883fc53770f41a8f, type: 3}
-  permitirTeclaESC: 1
-  nombreEscenaMenuPrincipal: MenuPrincipal
 --- !u!4 &946930646
 Transform:
   m_ObjectHideFlags: 0
@@ -26774,11 +26770,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5540728543501737120, guid: b35f8d3b6b2ceac44800f68e2d282679, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.48
+      value: -12.64
       objectReference: {fileID: 0}
     - target: {fileID: 5540728543501737120, guid: b35f8d3b6b2ceac44800f68e2d282679, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.19
+      value: 7.09
       objectReference: {fileID: 0}
     - target: {fileID: 5540728543501737120, guid: b35f8d3b6b2ceac44800f68e2d282679, type: 3}
       propertyPath: m_LocalPosition.z
@@ -27212,11 +27208,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7237939099872729994, guid: 56bb6a4899f413c408e06ede9eab0cdf, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -15.49
+      value: -17.59
       objectReference: {fileID: 0}
     - target: {fileID: 7237939099872729994, guid: 56bb6a4899f413c408e06ede9eab0cdf, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.25
+      value: 6.53
       objectReference: {fileID: 0}
     - target: {fileID: 7237939099872729994, guid: 56bb6a4899f413c408e06ede9eab0cdf, type: 3}
       propertyPath: m_LocalPosition.z
