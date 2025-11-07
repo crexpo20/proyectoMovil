@@ -18,9 +18,9 @@ GameObject:
   - component: {fileID: 3131875574743730131}
   - component: {fileID: 6627709899553018490}
   - component: {fileID: 1756221276083500462}
-  m_Layer: 9
-  m_Name: caveman (1)
-  m_TagString: Untagged
+  m_Layer: 6
+  m_Name: cavemanP
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34,7 +34,7 @@ Transform:
   m_GameObject: {fileID: 915951707314746416}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.52, y: 3.57, z: 0}
+  m_LocalPosition: {x: 0.49, y: 3.63, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -123,7 +123,7 @@ Rigidbody2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 576
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -144,7 +144,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 576
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -190,7 +190,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 576
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -253,15 +253,15 @@ MonoBehaviour:
   wallCheckDistance: 0.1
   groundLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 128
   detectionRange: 5
   chaseRange: 4
   playerLayer:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 256
   obstacleLayer:
     serializedVersion: 2
-    m_Bits: 192
+    m_Bits: 256
 --- !u!114 &3131875574743730131
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -291,14 +291,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   jugador: {fileID: 0}
   rangoDeteccion: 5
-  velocidadPersecucion: 2.5
+  velocidadPersecucion: 3
   groundCheck: {fileID: 3636163548922203826}
   groundCheckDist: 0.5
   wallCheck: {fileID: 4008682872864593433}
   wallCheckDist: 0.1
   groundLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 128
 --- !u!114 &1756221276083500462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -316,7 +316,7 @@ MonoBehaviour:
   animacionCaida: caida
   capaJugador:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 256
 --- !u!1 &1143048267183926847
 GameObject:
   m_ObjectHideFlags: 0
@@ -326,7 +326,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2661046664666444577}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: puntoSuperior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -357,7 +357,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4008682872864593433}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: WallCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -388,7 +388,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3636163548922203826}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
