@@ -16,8 +16,8 @@ GameObject:
   - component: {fileID: 4504056308508053604}
   - component: {fileID: 4947032524432088503}
   - component: {fileID: 7304041842380553828}
-  - component: {fileID: 8044301260007781756}
   - component: {fileID: 1167834931333490666}
+  - component: {fileID: 5490955964937209743}
   m_Layer: 9
   m_Name: frog
   m_TagString: Untagged
@@ -34,7 +34,7 @@ Transform:
   m_GameObject: {fileID: 704371982682875449}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.62, y: 5.42, z: 0}
+  m_LocalPosition: {x: -8.31, y: 4.33, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -124,7 +124,7 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 512
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
@@ -144,7 +144,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -162,7 +162,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.01087904, y: -0.06992316}
+  m_Offset: {x: 0.01087904, y: -0.09550524}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -172,7 +172,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.6178694, y: 0.325068}
+  m_Size: {x: 0.6178694, y: 0.23637962}
   m_EdgeRadius: 0
 --- !u!70 &7291254509996678715
 CapsuleCollider2D:
@@ -190,7 +190,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -223,13 +223,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83595d97b91ebd644988f9cb1d3d4a08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SapoPatrullaje
-  fuerzaSalto: 6.5
+  fuerzaSalto: 5
   fuerzaHorizontal: 2.5
-  tiempoEntreSaltos: 3
+  tiempoEntreSaltos: 10
   groundCheckOrigin: {fileID: 8557467309911242260}
   wallCheckOrigin: {fileID: 7740913256338481408}
-  groundCheckDistance: 0.3
-  wallCheckDistance: 0.3
+  groundCheckDistance: 0.5
+  wallCheckDistance: 0.15
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -247,7 +247,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::provocaDanio
   Vidajuador: {fileID: 0}
   puededa: 0
-  cold: 3
+  cold: 5
 --- !u!95 &7304041842380553828
 Animator:
   serializedVersion: 7
@@ -270,8 +270,27 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!58 &8044301260007781756
-CircleCollider2D:
+--- !u!114 &1167834931333490666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 704371982682875449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4dd7e4d0caef7742b3cb27807067f11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MuertePorPisada
+  fuerzaRebote: 7
+  capaJugador:
+    serializedVersion: 2
+    m_Bits: 128
+  umbralPisada: 0.7
+  puntoSuperior: {fileID: 1119987172837952458}
+  radioDeteccion: 0.34
+--- !u!60 &5490955964937209743
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -286,7 +305,7 @@ CircleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -304,27 +323,33 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.020742416, y: 0.026087701}
-  m_Radius: 0.32700258
---- !u!114 &1167834931333490666
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 704371982682875449}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b4dd7e4d0caef7742b3cb27807067f11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MuertePorPisada
-  fuerzaRebote: 8
-  capaJugador:
-    serializedVersion: 2
-    m_Bits: 128
-  umbralPisada: 0.7
-  puntoSuperior: {fileID: 1119987172837952458}
-  radioDeteccion: 0.3
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.68, y: 0.62}
+    newSize: {x: 0.54, y: 0.56}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.25018924, y: 0.2147758}
+      - {x: 0.17028141, y: 0.25073695}
+      - {x: -0.02925694, y: 0.24417251}
+      - {x: -0.20752996, y: 0.18189156}
+      - {x: -0.30800328, y: 0.1748173}
+      - {x: -0.28017983, y: 0.03312789}
+      - {x: -0.18142527, y: 0.028971463}
+      - {x: -0.12706055, y: 0.03553915}
+      - {x: -0.015920267, y: 0.024469852}
+      - {x: 0.09564975, y: 0.027754545}
+      - {x: 0.28382573, y: 0.031807467}
+      - {x: 0.29053736, y: 0.07064104}
+      - {x: 0.29197773, y: 0.09622656}
+      - {x: 0.32045507, y: 0.17473218}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1218392873257850835
 GameObject:
   m_ObjectHideFlags: 0
@@ -412,7 +437,7 @@ Transform:
   m_GameObject: {fileID: 5328745027928886089}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.009, y: 0.124, z: 0}
+  m_LocalPosition: {x: 0.001, y: 0.348, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
