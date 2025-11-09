@@ -5,7 +5,7 @@ public class MuertePorPisada : MonoBehaviour
     [Header("Configuración de Muerte por Pisada")]
     [SerializeField] private float fuerzaRebote = 8f;
     [SerializeField] private LayerMask capaJugador;
-    [SerializeField] private float umbralPisada = 0.7f; // Más sensible para detectar desde arriba
+    [SerializeField] private float umbralPisada = 0.9f; // Más sensible para detectar desde arriba
     
     [Header("Referencias")]
     [SerializeField] private Transform puntoSuperior; // Punto de referencia para la parte superior
@@ -158,7 +158,7 @@ public class MuertePorPisada : MonoBehaviour
         else
         {
             // Si no hay animación, destruir inmediatamente
-            Destroy(gameObject, 0.5f);
+            Destroy(gameObject);
         }
     }
 

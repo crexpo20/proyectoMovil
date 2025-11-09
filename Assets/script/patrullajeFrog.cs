@@ -3,7 +3,7 @@ using UnityEngine;
 public class SapoPatrullaje : MonoBehaviour
 {
     [Header("Configuración de Salto")]
-    [SerializeField] private float fuerzaSalto = 7f;      // Qué tan alto salta
+    [SerializeField] private float fuerzaSalto = 6f;      // Qué tan alto salta
     [SerializeField] private float fuerzaHorizontal = 2f; // Qué tanto avanza en el salto
     [SerializeField] private float tiempoEntreSaltos = 2f; // Cada cuántos segundos salta
 
@@ -20,8 +20,10 @@ public class SapoPatrullaje : MonoBehaviour
 
     // --- Variables de control ---
     private float proximoSalto = 0f;
-    private bool enSuelo;
     private int direccion = 1; // 1 = derecha, -1 = izquierda
+    //---- Variables booleanas----
+    private bool enSuelo;
+    private bool enSalto;
 
     void Start()
     {
@@ -34,6 +36,10 @@ public class SapoPatrullaje : MonoBehaviour
     {
         // Verificar si está en el suelo
         enSuelo = Physics2D.Raycast(groundCheckOrigin.position, Vector2.down, groundCheckDistance, groundLayer);
+        if(enSuelo == true)
+        {
+            anim.SetBool("enSalto",false);
+        }
 
         // Detección de pared o vacío
         bool paredAdelante = Physics2D.Raycast(wallCheckOrigin.position, Vector2.right * direccion, wallCheckDistance, groundLayer);
@@ -44,7 +50,7 @@ public class SapoPatrullaje : MonoBehaviour
 
         if (paredAdelante || !sueloAdelante)
         {
-            Girar();
+            //Girar();
         }
 
         // Si está en suelo y es momento de saltar
@@ -65,7 +71,7 @@ public class SapoPatrullaje : MonoBehaviour
         // Activar animación si existe
         if (anim != null)
         {
-            anim.SetTrigger("Saltar");
+            anim.SetBool("enSalto",true);
         }
     }
 
