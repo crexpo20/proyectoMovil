@@ -132,7 +132,7 @@ public class MuertePorPisada : MonoBehaviour
         if (estaMuerta) return;
         
         estaMuerta = true;
-        Debug.Log("Serpiente muerta por pisada!");
+        Debug.Log("Muerto por pisada!");
         
         // Desactivar componentes de la serpiente
         if (patrullaje != null)

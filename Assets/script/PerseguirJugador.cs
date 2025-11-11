@@ -18,8 +18,6 @@ public class PerseguirJugador : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
 
-    private bool persecucionActiva = false;
-
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -35,7 +33,6 @@ public class PerseguirJugador : MonoBehaviour
 
         if (distancia < rangoDeteccion)
         {
-            persecucionActiva = true;
             patrulla.enabled = false;
             if(anim != null) anim.SetBool("Perseguir", true);
 
@@ -43,7 +40,6 @@ public class PerseguirJugador : MonoBehaviour
         }
         else
         {
-            persecucionActiva = false;
             patrulla.enabled = true;
             if(anim != null) anim.SetBool("Perseguir", false);
         }
@@ -54,35 +50,45 @@ public class PerseguirJugador : MonoBehaviour
         bool haySuelo = Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDist, groundLayer);
         bool hayPared = Physics2D.Raycast(wallCheck.position, transform.right, wallCheckDist, groundLayer);
 
-        // Si no hay piso, frena y no cae bugueado flotando
+        // Evita quedarse flotando en vacío
         if (!haySuelo)
         {
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
             return;
         }
 
-        // Si choca con pared, que dé la vuelta
+        // Si toca pared → voltear
         if (hayPared)
         {
             Flip();
             return;
         }
 
-        // Ver si el jugador está a los lados, ignorar si está arriba
-        float diferenciaVertical = jugador.position.y - transform.position.y;
+        float distanciaX = jugador.position.x - transform.position.x;
+        float distanciaY = jugador.position.y - transform.position.y;
 
-        if (Mathf.Abs(diferenciaVertical) < 1.0f)
+        // Si el jugador está arriba pero cerca en X → voltearlo igual
+        if (distanciaY > 1f && Mathf.Abs(distanciaX) < 1.2f)
         {
-            // Solo volteamos si el jugador no está muy arriba
-            if ((jugador.position.x > transform.position.x && transform.localScale.x < 0) ||
-                (jugador.position.x < transform.position.x && transform.localScale.x > 0))
+            // El jugador me pasó por arriba → me doy la vuelta
+            if ((distanciaX > 0 && transform.localScale.x < 0) ||
+                (distanciaX < 0 && transform.localScale.x > 0))
+            {
+                Flip();
+            }
+        }
+        else
+        {
+            // Jugador está a nivel normal → volteo normal
+            if ((distanciaX > 0 && transform.localScale.x < 0) ||
+                (distanciaX < 0 && transform.localScale.x > 0))
             {
                 Flip();
             }
         }
 
-        // Dirección hacia el jugador
-        float direccion = jugador.position.x > transform.position.x ? 1 : -1;
+        // Movimiento de persecución
+        float direccion = distanciaX > 0 ? 1 : -1;
 
         rb.linearVelocity = new Vector2(direccion * velocidadPersecucion, rb.linearVelocity.y);
     }

@@ -81,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5109154561008519840, guid: d0539e2627c1a2042abe469a0ade9984, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -178,6 +178,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7dc56b80612652048bc3d1ffc0738d7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  velocidad: 3
-  tiempoDeVidaMax: 7
+  velocidad: 5
+  tiempoDeVidaMax: 3
   "da\xF1oCausado": 1
