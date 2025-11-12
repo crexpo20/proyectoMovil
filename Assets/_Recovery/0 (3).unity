@@ -16946,9 +16946,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   spriteEspadas: {fileID: 209308143}
-  tiempoActivacion: 0.2
+  tiempoActivacion: 0.15
   tiempoActivas: 1.5
-  tiempoReactivacion: 1
+  tiempoReactivacion: 0.75
   "da\xF1oCausado": 1
   posicionOcultas: {x: 0.003, y: 0.141, z: 0}
   posicionActivadas: {x: 0.003, y: 0.641, z: 0}

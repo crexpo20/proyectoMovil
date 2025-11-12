@@ -10,10 +10,12 @@ public class EnemyCavemanController : MonoBehaviour
 
     private Rigidbody2D rb;
     private Vector2 movement;
+    private Animator animator; 
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>(); 
     }
 
     void FixedUpdate()
@@ -30,23 +32,29 @@ public class EnemyCavemanController : MonoBehaviour
             if (movement.x > 0)
             {
                 // Moviéndose a la derecha: Escala normal (ej. 1)
-                transform.localScale = new Vector3(1.5f, 1.5f, 1.5f);
+                transform.localScale = new Vector3(1.4f, 1.4f, 1.4f);
             }
             else if (movement.x < 0)
             {
                 // Moviéndose a la izquierda: Escala invertida en X (ej. -1)
-                transform.localScale = new Vector3(-1.5f, 1.5f, 1.5f);
+                transform.localScale = new Vector3(-1.4f, 1.4f, 1.4f);
             }
             // Si movement.x es 0, no se mueve, se mantiene la última orientación.
+
+            // Activar animación cuando detecta al jugador
+            if (animator != null)
+                animator.enabled = true;
         }
         else
         {
             movement = Vector2.zero;
+            
+            // Pausar animación cuando no detecta al jugador
+            if (animator != null)
+                animator.enabled = false;
         }
 
         rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
-
-        // La función OnDrawGizmosSelected debe estar fuera de FixedUpdate
     }
 
     void OnDrawGizmosSelected()
