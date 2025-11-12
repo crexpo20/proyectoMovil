@@ -15,7 +15,7 @@ public class Personaje_movimiento : MonoBehaviour
     [Header("Items")]
     public int bombas = 0;
     public int cuerdas = 0;
-    public float longitudCuerda = 4f; // 5 bloques
+    public float longitudCuerda = 4f;
     public LayerMask groundLayer;
     public float offsetDeteccion = 0.2f;
     public GameObject BombaPrefab;
@@ -23,6 +23,11 @@ public class Personaje_movimiento : MonoBehaviour
     public static System.Action<int> UsoBomba;
     public static System.Action<int> UsoCuerda;
 
+    [Header("Ataque personaje")]
+    public GameObject latigoPrefab;
+    public float cooldownAtaque = 0.5f;
+    public int danioLatigo = 1;
+    private float cooldownTimer = 0f;
 
 
     [Header("vida y danio UI")]
@@ -63,6 +68,9 @@ public class Personaje_movimiento : MonoBehaviour
     private bool quiereSaltar = false;
     private bool lanzarBomba = false;
     private bool lanzarCuerdas = false;
+    private bool atacando = false;
+    private bool puedeAtacar = true;
+    private bool lanzarAtaque = false;
     private SpriteRenderer spriteRenderer;
 
 
@@ -79,6 +87,7 @@ public class Personaje_movimiento : MonoBehaviour
 
         if (botonCuerda != null) botonCuerda.onClick.AddListener(OnBotonCuerdaPresionado);
         
+        if (botonAtaque != null) botonAtaque.onClick.AddListener(OnBotonAtaquePresionado);
     }
 
     void Update()
@@ -87,6 +96,8 @@ public class Personaje_movimiento : MonoBehaviour
         Climb();
         ColocarBomba();
         ColocarCuerda();
+        IniciarAtaque();
+        ActualizarCooldown();
     }
     //------------Metodos para escena---------
     void reiniciarecena() {
@@ -106,6 +117,10 @@ public class Personaje_movimiento : MonoBehaviour
     void OnBotonCuerdaPresionado()
     {
         lanzarCuerdas = true;
+    }
+    void OnBotonAtaquePresionado()
+    {
+        lanzarAtaque = true;
     }
     //---------Metodos para cuerdas------------
     public void AddCuerdas(int Crecolectado)
@@ -185,21 +200,88 @@ public class Personaje_movimiento : MonoBehaviour
     {
         bombas += cantidad;
     }
-     private void bomb()
+    private void bomb()
     {
         Vector3 direction;
         if (transform.localScale.x == 1) direction = Vector2.right;
         else direction = Vector2.left;
-        GameObject prebomb = Instantiate(BombaPrefab, transform.position + direction *0.1f, Quaternion.identity);
+        GameObject prebomb = Instantiate(BombaPrefab, transform.position + direction * 0.1f, Quaternion.identity);
         bomba_script bombaScript = prebomb.GetComponent<bomba_script>();
         if (bombaScript != null)
         {
             bombaScript.SetDireccion(direction);
         }
     }
+    //----------Metodos para Ataque y daño ---------
+    private void IniciarAtaque()
+    {
+        if ((permitirTeclado && Input.GetKeyDown(KeyCode.Z)) || lanzarAtaque)
+        {
+            if (puedeAtacar && !atacando)
+            {
+                Atacar();
 
+                lanzarAtaque = false;
+            }
+        }
+    }
+    private void Atacar()
+    {
+        if (puedeAtacar && !atacando)
+        {
+            atacando = true;
+            puedeAtacar = false;
+            cooldownTimer = cooldownAtaque;
+            
+            // Reproducir animación de ataque
+            if (Animator != null)
+            {
+                Animator.SetTrigger("atacar");
+            }
+            
+            // Crear el látigo
+            AtacarConLatigo();
+            
+        }
+    }
+    private void AtacarConLatigo()
+    {
+        if (latigoPrefab == null)
+        {
+            Debug.LogError("latigoPrefab no asignado!");
+            return;
+        }
 
-    //----------Metodos para el daño ----------------
+        // Crear el látigo
+        GameObject latigo = Instantiate(latigoPrefab);
+        
+        // Configurar el látigo - BUSCAR "Latigo" no "LatigoScript"
+        Latigo latigoComponent = latigo.GetComponent<Latigo>();
+        if (latigoComponent != null)
+        {
+            Vector2 direccionAtaque = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
+            latigoComponent.Configurar(direccionAtaque, transform.position);
+        }
+        else
+        {
+            Destroy(latigo);
+
+        }
+    }
+    private void ActualizarCooldown()
+{
+    if (!puedeAtacar)
+    {
+        cooldownTimer -= Time.deltaTime;
+        if (cooldownTimer <= 0f)
+        {
+            puedeAtacar = true;
+            atacando = false;
+        }
+    }
+}
+
+    //----------Metodos para el daño recibido ----------------
     public void hit()
     {
         RecibirDaño(1, transform.position + Vector3.left);

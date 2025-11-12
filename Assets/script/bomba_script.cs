@@ -70,7 +70,7 @@ public class bomba_script : MonoBehaviour
     {
         if (!haExplotado)
         {
-            animator.SetTrigger("Warning");
+            //animator.SetTrigger("Warning");
         }
     }
     public void Explotar()

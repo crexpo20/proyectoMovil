@@ -44,7 +44,10 @@ public class PerseguirJugador : MonoBehaviour
         else
         {
             persecucionActiva = false;
-            patrulla.enabled = true;
+            if (patrulla != null)
+            {
+                patrulla.enabled = true;
+            }
             if(anim != null) anim.SetBool("Perseguir", false);
         }
     }
