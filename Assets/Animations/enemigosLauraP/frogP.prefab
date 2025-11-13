@@ -34,7 +34,7 @@ Transform:
   m_GameObject: {fileID: 663711579148429574}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.48, y: 4.35, z: 0}
+  m_LocalPosition: {x: -7.563, y: 4.337, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -123,7 +123,7 @@ Rigidbody2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 576
+    m_Bits: 12864
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -144,7 +144,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 576
+    m_Bits: 12864
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -190,7 +190,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 576
+    m_Bits: 12864
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -208,8 +208,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.009807587, y: -0.07180166}
-  m_Size: {x: 0.35230637, y: 0.35230637}
+  m_Offset: {x: 0.0004892349, y: -0.08438647}
+  m_Size: {x: 0.33171272, y: 0.33171296}
   m_Direction: 0
 --- !u!114 &4499672057633742683
 MonoBehaviour:
@@ -225,14 +225,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SapoPatrullaje
   fuerzaSalto: 5
   fuerzaHorizontal: 2.5
-  tiempoEntreSaltos: 10
+  tiempoEntreSaltos: 5
   groundCheckOrigin: {fileID: 8516781411493919019}
   wallCheckOrigin: {fileID: 7754823812852657727}
   groundCheckDistance: 0.5
   wallCheckDistance: 0.15
   groundLayer:
     serializedVersion: 2
-    m_Bits: 4224
+    m_Bits: 2176
 --- !u!114 &4923832296708788872
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -282,11 +282,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4dd7e4d0caef7742b3cb27807067f11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MuertePorPisada
+  vidaMaxima: 1
+  vidaActual: 0
   fuerzaRebote: 4
   capaJugador:
     serializedVersion: 2
     m_Bits: 384
   umbralPisada: 0.7
+  "da\xF1oPisada": 1
+  capaLatigo:
+    serializedVersion: 2
+    m_Bits: 0
+  "da\xF1oLatigo": 1
   puntoSuperior: {fileID: 1115039868963538165}
   radioDeteccion: 0.34
 --- !u!60 &5530525790881269936
@@ -305,7 +312,7 @@ PolygonCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 576
+    m_Bits: 12864
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -376,7 +383,7 @@ Transform:
   m_GameObject: {fileID: 1160536038479665388}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.44, y: -0.04, z: 0}
+  m_LocalPosition: {x: 0.39, y: -0.028, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -407,7 +414,7 @@ Transform:
   m_GameObject: {fileID: 2678291838945295512}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.469, y: -0.207, z: 0}
+  m_LocalPosition: {x: 0.398, y: -0.211, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -438,7 +445,7 @@ Transform:
   m_GameObject: {fileID: 5260228427552441462}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.009, y: 0.402, z: 0}
+  m_LocalPosition: {x: 0.007, y: 0.441, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
