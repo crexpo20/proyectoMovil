@@ -2659,10 +2659,10 @@ TextureImporter:
       name: pngwing.com (1)_85
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 480
-        width: 246
-        height: 307
+        x: 1044
+        y: 562
+        width: 79
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2902,9 +2902,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 639
-        y: 582
-        width: 164
-        height: 124
+        y: 625
+        width: 79
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3275,10 +3275,10 @@ TextureImporter:
       name: pngwing.com (1)_113
       rect:
         serializedVersion: 2
-        x: 556
-        y: 461
-        width: 168
-        height: 150
+        x: 576
+        y: 546
+        width: 60
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3297,10 +3297,10 @@ TextureImporter:
       name: pngwing.com (1)_114
       rect:
         serializedVersion: 2
-        x: 723
-        y: 570
-        width: 63
-        height: 54
+        x: 639
+        y: 577
+        width: 62
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3319,10 +3319,10 @@ TextureImporter:
       name: pngwing.com (1)_115
       rect:
         serializedVersion: 2
-        x: 800
-        y: 565
+        x: 714
+        y: 572
         width: 75
-        height: 22
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3341,7 +3341,7 @@ TextureImporter:
       name: pngwing.com (1)_116
       rect:
         serializedVersion: 2
-        x: 880
+        x: 797
         y: 565
         width: 79
         height: 20
@@ -3363,8 +3363,8 @@ TextureImporter:
       name: pngwing.com (1)_117
       rect:
         serializedVersion: 2
-        x: 960
-        y: 565
+        x: 879
+        y: 566
         width: 81
         height: 18
       alignment: 0
@@ -3385,8 +3385,8 @@ TextureImporter:
       name: pngwing.com (1)_118
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 565
+        x: 959
+        y: 567
         width: 81
         height: 17
       alignment: 0
