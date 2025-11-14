@@ -7,19 +7,18 @@ using TMPro;
 
 public class vidaPrueba : MonoBehaviour
 {
-    public int vidamaxima = 3;
-    
+    public Personaje_movimiento Vidajugador;
     public TextMeshProUGUI textMesh;
     void Start()
     {
-        textMesh = GetComponent<TextMeshProUGUI>();
+        //Vidajugador = gameObject.Find("personaje").GetComponent<Personaje_movimiento>();
     }
     void Update()
     {
-        textMesh.text = vidamaxima.ToString("3");
+        if(Vidajugador != null && textMesh != null)
+        {
+            textMesh.text = Vidajugador.vidamaxima.ToString();
+        }
     }
-    public void danio()
-    {
-        vidamaxima = vidamaxima - 1;
-    }
+    
 }

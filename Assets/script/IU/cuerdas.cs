@@ -9,12 +9,12 @@ using System;
 public class cuerdas : MonoBehaviour
 {
     public static Action<int> CuerdaRec;
-    private int cuerda=1;
-    private void OnTriggerEnter2D(Collider2D collision)
+    private int cuerda=2;
+    private void OnCollisionEnter2D(Collision2D collision)
     {
 
 
-        if (collision.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             recolectar();
         }

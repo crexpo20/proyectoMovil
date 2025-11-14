@@ -8,13 +8,13 @@ using TMPro;
 public class vidaPersonaje: MonoBehaviour
 {
     public int vidamaxima = 3 ;
-    public int vidaactual ;
     public Image[] VidaImagen;
-  
-    void Start() {
-   
+    void Start()
+    {
+    
     }
-    void actualizarinterface() {
+    void actualizarinterface() 
+    {
         for (int i = 0; i < VidaImagen.Length; i++)
       {
             VidaImagen[i].enabled = i < vidamaxima;
@@ -22,7 +22,7 @@ public class vidaPersonaje: MonoBehaviour
   
 
     }
-  void reiniciarecena() {
+    void reiniciarecena() {
             int curretSceneIndex = SceneManager.GetActiveScene().buildIndex;
             SceneManager.LoadScene(curretSceneIndex);    
        }

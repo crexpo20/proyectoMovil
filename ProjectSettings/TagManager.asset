@@ -4,7 +4,13 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - personaje
+  - ground
+  - player
+  - item
+  - enemy
+  - ladder
+  - ladders
+  - tramp
   layers:
   - Default
   - TransparentFX
@@ -12,9 +18,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - enemy
+  - ground
+  - player
   - 
   - 
   - 
