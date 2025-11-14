@@ -16585,10 +16585,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_748
       rect:
         serializedVersion: 2
-        x: 1344
+        x: 1346
         y: 512
-        width: 64
-        height: 64
+        width: 60
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
