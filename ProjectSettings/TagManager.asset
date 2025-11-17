@@ -12,6 +12,8 @@ TagManager:
   - ladders
   - tramp
   - weapon
+  - flecha
+  - cajaTrampa
   layers:
   - Default
   - TransparentFX
@@ -24,9 +26,9 @@ TagManager:
   - player
   - item
   - weapon
-  - 
-  - 
-  - 
+  - cajaTrampa
+  - flecha
+  - cajaContenido
   - 
   - 
   - 
