@@ -282,6 +282,10 @@ public class Personaje_movimiento : MonoBehaviour
 }
 
     //----------Metodos para el daño recibido ----------------
+    public int GetVida()
+    {
+        return vidamaxima;
+    }
     public void hit()
     {
         RecibirDaño(1, transform.position + Vector3.left);
