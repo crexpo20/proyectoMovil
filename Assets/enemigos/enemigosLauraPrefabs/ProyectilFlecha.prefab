@@ -178,6 +178,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7dc56b80612652048bc3d1ffc0738d7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  velocidad: 5
+  velocidad: 7
   tiempoDeVidaMax: 3
   "da\xF1oCausado": 1

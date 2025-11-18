@@ -20,11 +20,12 @@ public class SapoPatrullaje : MonoBehaviour
 
     // --- Variables de control ---
     private float proximoSalto = 0f;
-    private int direccion = 1; // 1 = derecha, -1 = izquierda
+    private int direccion = 1;
     //---- Variables booleanas----
     private bool enSuelo;
     private bool estabaEnSuelo;
     private bool necesitaGirar = false;
+    private bool estaSaltando = false;
 
     void Start()
     {
@@ -36,17 +37,21 @@ public class SapoPatrullaje : MonoBehaviour
     void Update()
     {
         ActualizarAnimaciones();
+        if (!enSuelo && estaSaltando)
+        {
+            VerificarObstaculosEnAire();
+        }
     }
 
     void FixedUpdate()
     {
         estabaEnSuelo = enSuelo;
-
         enSuelo = Physics2D.Raycast(groundCheckOrigin.position, Vector2.down, groundCheckDistance, groundLayer);
-        
-        if (enSuelo)
+
+        // Si acaba de tocar el suelo
+        if (enSuelo && !estabaEnSuelo)
         {
-            VerificarObstaculos();
+            estaSaltando = false;
         }
 
         if (enSuelo && Time.time >= proximoSalto)
@@ -83,6 +88,28 @@ public class SapoPatrullaje : MonoBehaviour
         }
     }
 
+    void VerificarObstaculosEnAire()
+    {
+        // Verificar si hay pared adelante durante el salto
+        bool paredAdelante = Physics2D.Raycast(wallCheckOrigin.position, Vector2.right * direccion, wallCheckDistance, groundLayer);
+
+        // Debug ray para pared en aire
+        Debug.DrawRay(wallCheckOrigin.position, Vector2.right * direccion * wallCheckDistance, 
+                     paredAdelante ? Color.magenta : Color.cyan);
+
+        // Si encuentra pared durante el salto, cambiar dirección inmediatamente
+        if (paredAdelante)
+        {
+            Girar();
+            
+            // Ajustar la velocidad horizontal para cambiar dirección inmediatamente
+            Vector2 nuevaVelocidad = rb.linearVelocity;
+            nuevaVelocidad.x = fuerzaHorizontal * direccion;
+            rb.linearVelocity = nuevaVelocidad;
+            
+        }
+    }
+
     void ActualizarAnimaciones()
     {
         if (anim == null) return;
@@ -108,6 +135,7 @@ public class SapoPatrullaje : MonoBehaviour
     {
         // Aplicar fuerza de salto
         rb.linearVelocity = new Vector2(fuerzaHorizontal * direccion, fuerzaSalto);
+        estaSaltando = true;
     }
 
    void Girar()
@@ -118,6 +146,29 @@ public class SapoPatrullaje : MonoBehaviour
         transform.localScale = escala;
     }
 
+     public void ForzarGiro()
+    {
+        necesitaGirar = true;
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Verificar si chocó con una pared lateral durante el salto
+        if (!enSuelo && collision.gameObject.CompareTag("ground"))
+        {
+            // Verificar si fue una colisión lateral
+            ContactPoint2D contact = collision.contacts[0];
+            if (Mathf.Abs(contact.normal.x) > 0.7f) // Colisión lateral
+            {
+                Girar();
+                
+                // Ajustar velocidad para rebotar
+                Vector2 nuevaVelocidad = rb.linearVelocity;
+                nuevaVelocidad.x = fuerzaHorizontal * direccion;
+                rb.linearVelocity = nuevaVelocidad;
+                
+            }
+        }
+    }
     private void OnDrawGizmosSelected()
     {
         // Gizmo para detección de suelo
@@ -136,6 +187,13 @@ public class SapoPatrullaje : MonoBehaviour
         {
             Vector3 checkSueloPos = groundCheckOrigin.position + Vector3.right * 0.6f * direccion;
             Gizmos.DrawLine(checkSueloPos, checkSueloPos + Vector3.down * (groundCheckDistance + 0.3f));
+        }
+
+        // Gizmo adicional para detección en aire (color diferente)
+        if (!enSuelo && wallCheckOrigin != null)
+        {
+            Gizmos.color = Color.magenta;
+            Gizmos.DrawLine(wallCheckOrigin.position, wallCheckOrigin.position + Vector3.right * direccion * wallCheckDistance);
         }
     }
 }
