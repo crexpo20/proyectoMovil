@@ -66,23 +66,10 @@ public class Personaje_movimiento : MonoBehaviour
     private bool lanzarCuerdas = false;
     private SpriteRenderer spriteRenderer;
 
-    private bool canDoubleJump = false;
-    private bool hasDoubleJumpPowerUp = false;
+    public bool canDoubleJump = false;
+    private bool hasDoubleJumped = false;
 
 
-    [Header("guantes")]
-    public Transform groundCheck;
-    public Transform wallCheck;
-    public float checkRadius = 0.2f;
-    public LayerMask ground;
-    private bool isGrounded;
-    private bool isTouchingWall;
-    private Vector2 movement;
-    [Header("trepar")]
-    public float wallClimbSpeed = 2f;
-    private bool canWallClimb = false;
-    private bool isWallSliding = false;
-    public float wallSlideSpeed = 1.5f;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -105,39 +92,8 @@ public class Personaje_movimiento : MonoBehaviour
         ColocarBomba();
         ColocarCuerda();
 
-        movement.x = Input.GetAxisRaw("Horizontal");
-        float vertical = Input.GetAxisRaw("Vertical");
-        // Detección de suelo y pared
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, ground);
-        isTouchingWall = Physics2D.OverlapCircle(wallCheck.position, checkRadius, ground);
-
-        // 🔹 Lógica de escalada de pared
-        if (canWallClimb && isTouchingWall && !isGrounded)
-        {
-            // Permitir subir o bajar por la pared
-            rb.gravityScale = 0f;
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, vertical * wallClimbSpeed);
-        }
-        else
-        {
-            rb.gravityScale = 3f; 
-        }
-
-
-    }/*
-    void FixedUpdate()
-    {
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
-
-        // Aplicar freno en la pared
-        if (isWallSliding)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Clamp(rb.linearVelocity.y, -wallSlideSpeed, float.MaxValue));
-        }
+       
     }
-    */
-
-    //------------Metodos para escena---------
     void reiniciarecena() {
         int curretSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(curretSceneIndex);    
@@ -337,13 +293,14 @@ public class Personaje_movimiento : MonoBehaviour
         {
             rb.AddForce(Vector2.up * jumpForce);
             quiereSaltar = false;
-            canDoubleJump = true;
+            hasDoubleJumped = false;
         }
-        else if (hasDoubleJumpPowerUp && canDoubleJump) 
+        else if (canDoubleJump && !hasDoubleJumped) 
         {
             rb.AddForce(Vector2.up *100f);
-            canDoubleJump = false;
             quiereSaltar = false;
+          
+            hasDoubleJumped = true;
         }
         else
         {
@@ -355,31 +312,13 @@ public class Personaje_movimiento : MonoBehaviour
         if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
         else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
     }
-
-    public void EnableDoubleJump(float duration)
+    public void UnlockDoubleJump()
     {
-        StartCoroutine(DoubleJumpPower(duration));
+        canDoubleJump = true;
     }
 
-    private System.Collections.IEnumerator DoubleJumpPower(float duration)
-    {
-        hasDoubleJumpPowerUp = true;
-        yield return new WaitForSeconds(duration);
-        hasDoubleJumpPowerUp = false;
-    }
-
-    // 🔹 Power-up: activar escalada por tiempo
-    public void EnableWallClimb(float duration)
-    {
-        StartCoroutine(WallClimbPower(duration));
-    }
-
-    private System.Collections.IEnumerator WallClimbPower(float duration)
-    {
-        canWallClimb = true;
-        yield return new WaitForSeconds(duration);
-        canWallClimb = false;
-    }
+   
+   
 
     // === NUEVO MÉTODO: Obtiene input horizontal del joystick o teclado ===
     private float ObtenerInputHorizontal()
