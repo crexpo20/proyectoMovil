@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animations/enemigosLauraP.meta
 guid: 0a034ce25475bb84ea60e3434a8c1a4e
+========
+guid: 695ebf50808063d4884a66453cc35792
+>>>>>>>> 617be0e4d215e625d8744b7eb8ddd1efcd746974:Assets/Joystick Pack.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
