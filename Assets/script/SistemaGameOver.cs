@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 using TMPro;
 
 /// <summary>
-/// Controla la pantalla de Game Over
+/// Controla la pantalla de Game Over.
 /// Muestra estadísticas, maneja botones de reinicio/salida
 /// </summary>
 public class SistemaGameOver : MonoBehaviour
