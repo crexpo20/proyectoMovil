@@ -174,7 +174,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 1984
+        y: 1982
         width: 64
         height: 64
       alignment: 0
@@ -239,8 +239,8 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 1984
+        x: 317
+        y: 1983
         width: 64
         height: 64
       alignment: 2
@@ -261,8 +261,8 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_6
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1984
+        x: 383
+        y: 1983
         width: 64
         height: 64
       alignment: 2
@@ -397,8 +397,8 @@ TextureImporter:
         y: 1984
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -789,8 +789,8 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1920
+        x: 10
+        y: 1917
         width: 64
         height: 64
       alignment: 0
@@ -877,8 +877,8 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_34
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1920
+        x: 255
+        y: 1918
         width: 64
         height: 64
       alignment: 2
@@ -900,7 +900,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 1920
+        y: 1919
         width: 64
         height: 64
       alignment: 2
@@ -1057,8 +1057,8 @@ TextureImporter:
         y: 1920
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4353,7 +4353,7 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_192
       rect:
         serializedVersion: 2
-        x: 256
+        x: 253
         y: 1600
         width: 64
         height: 64
@@ -5981,8 +5981,8 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_266
       rect:
         serializedVersion: 2
-        x: 1088
-        y: 1472
+        x: 1087
+        y: 1471
         width: 64
         height: 64
       alignment: 0
@@ -6047,12 +6047,12 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_269
       rect:
         serializedVersion: 2
-        x: 1280
+        x: 1279
         y: 1472
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6752,11 +6752,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 1408
+        y: 1407
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8471,7 +8471,7 @@ TextureImporter:
         y: 1216
         width: 64
         height: 64
-      alignment: 0
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -22239,7 +22239,7 @@ TextureImporter:
       name: PC _ Computer - Spelunky - Miscellaneous - Tileset_1005
       rect:
         serializedVersion: 2
-        x: 1728
+        x: 1600
         y: 0
         width: 64
         height: 64
