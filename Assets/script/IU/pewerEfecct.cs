@@ -18,11 +18,11 @@ public class pewerEfecct : ScriptableObject
             }
             else if (effectName == "DoubleJump")
             {
-                player.EnableDoubleJump(duration);
+                //player.EnableDoubleJump(duration);
             }
             else if (effectName == "WallFriction")
             {
-                player.EnableWallClimb(duration);
+                //player.EnableWallClimb(duration);
             }
         }
     }
