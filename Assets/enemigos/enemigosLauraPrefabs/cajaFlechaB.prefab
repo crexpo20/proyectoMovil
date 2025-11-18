@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7184692799463631607}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: PuntoLanzamiento
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,9 +44,9 @@ GameObject:
   - component: {fileID: 2365156890614135708}
   - component: {fileID: 4764090060831871625}
   - component: {fileID: 8966866875399533155}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: cajaFlechaB
-  m_TagString: Untagged
+  m_TagString: cajaTrampa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -184,7 +184,7 @@ PolygonCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 1024
+    m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -239,7 +239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a863dc84128db044a99783839b1fa591, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  flechaPrefab: {fileID: 7649463164401566062, guid: 0004fc6406933d54fab80f00ea01a8e6, type: 3}
+  flechaPrefab: {fileID: 7649463164401566062, guid: 02912f34cdc3475418379b25bdefadd8, type: 3}
   puntoDeLanzamiento: {fileID: 7184692799463631607}
   tiempoEntreDisparos: 3
   direccionDeLanzamiento: {x: 1, y: 0}
