@@ -11,10 +11,8 @@ GameObject:
   - component: {fileID: 8029813560793589342}
   - component: {fileID: 7710567662106365539}
   - component: {fileID: 2741575854612352959}
-  - component: {fileID: 4222017474994915937}
   - component: {fileID: 9088189820477758710}
   - component: {fileID: 720576226807873569}
-  - component: {fileID: 3712723142886967021}
   m_Layer: 0
   m_Name: jarras
   m_TagString: Untagged
@@ -31,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 7852039504745968615}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.44, y: 3.34, z: 0}
+  m_LocalPosition: {x: 2.44, y: 3.34, z: -2}
   m_LocalScale: {x: 0.6328122, y: 0.6281051, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -141,20 +139,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.4296279, y: 1.2089483}
   m_EdgeRadius: 0
---- !u!114 &4222017474994915937
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7852039504745968615}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4e8d44c40778804eaded7054e1710c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::cajaloot
-  lootcaja:
-  - {fileID: 0}
 --- !u!50 &9088189820477758710
 Rigidbody2D:
   serializedVersion: 5
@@ -219,20 +203,3 @@ CapsuleCollider2D:
   m_Offset: {x: -0.06868643, y: -0.07834194}
   m_Size: {x: 0.6477732, y: 0.6526277}
   m_Direction: 0
---- !u!114 &3712723142886967021
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7852039504745968615}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e52f41f2af29d3541ab6cb7382f24e8e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  posiblesLoot:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  delayLoot: 2

@@ -20,6 +20,10 @@ public class cajaloot : MonoBehaviour
     [SerializeField] [Range(0, 100)] private int chanceEnemigo = 25;
     [SerializeField] [Range(0, 100)] private int chanceVacio = 15;
 
+    [Header("Configuración Spawn Enemigos")]
+    [SerializeField] private LayerMask sueloLayer;
+    [SerializeField] private float distanciaBusquedaSuelo = 5f;
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("weapon"))
@@ -56,7 +60,6 @@ public class cajaloot : MonoBehaviour
         }
         else
         {
-            // No genera nada - caja vacía
             Debug.Log("Caja vacía :(");
         }
     }
@@ -82,13 +85,33 @@ public class cajaloot : MonoBehaviour
         if (enemigosPosibles.Length > 0)
         {
             int index = UnityEngine.Random.Range(0, enemigosPosibles.Length);
-            Instantiate(enemigosPosibles[index], transform.position, Quaternion.identity);
-            Debug.Log("¡Enemigo aparecido!");
+            Vector3 posicionSpawn = CalcularPosicionSpawnEnemigo();
+            Instantiate(enemigosPosibles[index], posicionSpawn, Quaternion.identity);
+            Debug.Log("¡Enemigo aparecido en posición correcta!");
         }
         else
         {
-            // Fallback a loot si no hay enemigos
             GenerarItemsAleatorios();
+        }
+    }
+
+    private Vector3 CalcularPosicionSpawnEnemigo()
+    {
+        // Buscar suelo debajo de la caja
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, distanciaBusquedaSuelo, sueloLayer);
+        
+        if (hit.collider != null)
+        {
+            // Spawn en el suelo encontrado
+            Debug.DrawRay(transform.position, Vector2.down * hit.distance, Color.green, 2f);
+            return hit.point;
+        }
+        else
+        {
+            // Si no encuentra suelo, usar posición de la caja con offset hacia abajo
+            Debug.DrawRay(transform.position, Vector2.down * distanciaBusquedaSuelo, Color.red, 2f);
+            Debug.LogWarning("No se encontró suelo para spawnear enemigo, usando posición por defecto");
+            return transform.position + Vector3.down * 1f;
         }
     }
 
