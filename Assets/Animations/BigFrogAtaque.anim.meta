@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animations/BigFrogAtaque.anim.meta
 guid: b8e0625e4d1c6b24a960f6852a2f8bec
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000
+========
+guid: 8ec28b2b66ca0784b8a76b9d617bcffa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+>>>>>>>> 617be0e4d215e625d8744b7eb8ddd1efcd746974:Assets/Animations/BigFrog.controller.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
