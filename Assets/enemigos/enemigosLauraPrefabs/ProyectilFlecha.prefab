@@ -109,7 +109,7 @@ BoxCollider2D:
     m_Bits: 384
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 576
+    m_Bits: 8768
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -151,7 +151,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 0.0001
+  m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 0
@@ -161,7 +161,7 @@ Rigidbody2D:
     m_Bits: 384
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 576
+    m_Bits: 8768
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
@@ -178,6 +178,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7dc56b80612652048bc3d1ffc0738d7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  velocidad: 6
+  velocidad: 7
   tiempoDeVidaMax: 3
   "da\xF1oCausado": 1

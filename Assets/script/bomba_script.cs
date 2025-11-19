@@ -23,6 +23,9 @@ public class bomba_script : MonoBehaviour
     [SerializeField] private int danoBomba = 10;
     [SerializeField] private LayerMask layersAfectados;
 
+    [Header("Destrucción Tilemap")]
+    [SerializeField] private DestruccionTilemap[] destructoresTilemaps;
+
     [Header("Animator")]
     private Animator animator;
     
@@ -30,6 +33,7 @@ public class bomba_script : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        destructoresTilemaps = FindObjectsOfType<DestruccionTilemap>();
         Invoke("Explotar", tiempoTotal);
         Invoke("ComenzarParpadeo", tiempoTotal - inicioParpadeo);
     }
@@ -78,13 +82,23 @@ public class bomba_script : MonoBehaviour
         if (haExplotado) return;
         haExplotado = true;
 
-        //AplicarDanioEnArea();
+        AplicarDanioEnArea();
 
+        if (destructoresTilemaps != null && destructoresTilemaps.Length > 0)
+        {
+            foreach (DestruccionTilemap destructor in destructoresTilemaps)
+            {
+                if (destructor != null)
+                {
+                    destructor.CrearHuecoExplosion(transform.position, radioExplosion);
+                }
+            }
+        }
         GameObject explosion = Instantiate(explosionPrefab, transform.position, Quaternion.identity);
         Destroy(explosion, explosionDuration);
         Destroy(gameObject);
     }
-    /*
+    
     private void AplicarDanioEnArea()
     {   
         Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, radioExplosion, layersAfectados);
@@ -96,19 +110,15 @@ public class bomba_script : MonoBehaviour
             
             if (collider.CompareTag("enemy"))
             {
-                Enemigo enemigo = collider.GetComponent<Enemigo>();
-                if (enemigo != null)
+                MonoBehaviour[] scripts = collider.GetComponents<MonoBehaviour>();
+                foreach (MonoBehaviour script in scripts)
                 {
-                    enemigo.RecibirDanio(danoBomba);
-                    Debug.Log($"💥 Daño a enemigo: {collider.name}");
-                }
-                else
-                {
-                    // Si no tiene script Enemigo, intentar con Health component genérico
-                    Health health = collider.GetComponent<Health>();
-                    if (health != null)
+                    // Usar reflexión para encontrar método RecibirDanio
+                    var metodo = script.GetType().GetMethod("RecibirDanio");
+                    if (metodo != null)
                     {
-                        health.TakeDamage(danoBomba);
+                        metodo.Invoke(script, new object[] { danoBomba });
+                        break;
                     }
                 }
             }
@@ -117,24 +127,20 @@ public class bomba_script : MonoBehaviour
                 Personaje_movimiento jugador = collider.GetComponent<Personaje_movimiento>();
                 if (jugador != null)
                 {
-                    jugador.RecibirDaño(1, transform.position); // 1 de daño al jugador
-                    Debug.Log("💥 Daño al jugador");
+                    jugador.RecibirDaño(5, transform.position); 
                 }
             }
-            else if (collider.CompareTag("Destructible"))
+            else if (collider.CompareTag("cajaTrampa"))
             {
-                // Para objetos destructibles como cajas, etc.
-                Destructible objeto = collider.GetComponent<Destructible>();
-                if (objeto != null)
-                {
-                    objeto.Destruir();
-                    Debug.Log($"💥 Destruyendo objeto: {collider.name}");
-                }
+                DestruirTrampa(collider.gameObject);
             }
         }
         
-        Debug.Log($"💥 Explosión afectó a {colliders.Length} objetos");
-    }*/
+    }
+     private void DestruirTrampa(GameObject trampa)
+    {
+        Destroy(trampa);
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("ground"))
@@ -142,5 +148,9 @@ public class bomba_script : MonoBehaviour
             hasLanded = true;
         }
     }
-    
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, radioExplosion);
+    }
 }

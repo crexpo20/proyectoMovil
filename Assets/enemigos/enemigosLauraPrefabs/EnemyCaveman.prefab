@@ -87,7 +87,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 8036348888806111448, guid: 3c31a9d86a10ebb45a7c80b2c9ad167d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -121,7 +121,7 @@ Rigidbody2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 3648
+    m_Bits: 29248
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -142,7 +142,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 3648
+    m_Bits: 29248
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -240,7 +240,7 @@ PolygonCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 3648
+    m_Bits: 29248
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -295,11 +295,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4dd7e4d0caef7742b3cb27807067f11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MuertePorPisada
+  vidaMaxima: 1
+  vidaActual: 0
   fuerzaRebote: 7
   capaJugador:
     serializedVersion: 2
     m_Bits: 256
   umbralPisada: 0.7
+  "da\xF1oPisada": 1
+  capaLatigo:
+    serializedVersion: 2
+    m_Bits: 0
+  "da\xF1oLatigo": 1
   puntoSuperior: {fileID: 7119330310602354801}
   radioDeteccion: 0.3
 --- !u!70 &1116538413825054380
@@ -318,7 +325,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 3648
+    m_Bits: 29248
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2

@@ -50,7 +50,7 @@ public class ProyectilFlecha : MonoBehaviour
             Destroy(gameObject); 
         }
         // 3. Colisión con cualquier otra cosa (enemigos, paredes, etc.)
-        else if (collision.gameObject.CompareTag("Wall") || collision.gameObject.layer == LayerMask.NameToLayer("Environment"))
+        else if (collision.gameObject.CompareTag("Ground") || collision.gameObject.layer == LayerMask.NameToLayer("Environment"))
         {
              // Desaparece al chocar con el entorno
             Destroy(gameObject); 
