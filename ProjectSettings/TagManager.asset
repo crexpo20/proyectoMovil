@@ -15,6 +15,7 @@ TagManager:
   - flecha
   - cajaTrampa
   - trampa
+  - bomba
   layers:
   - Default
   - TransparentFX
@@ -31,7 +32,7 @@ TagManager:
   - flecha
   - cajaContenido
   - trampa
-  - 
+  - bomba
   - 
   - 
   - 

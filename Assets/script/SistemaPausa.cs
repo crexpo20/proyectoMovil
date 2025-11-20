@@ -81,8 +81,13 @@ public class SistemaPausa : MonoBehaviour
     private void ReiniciarNivel()
     {
         Time.timeScale = 1f;
-        juegoPausado = false;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+        #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+        #else
+            // En el build (Android/PC)
+            Application.Quit();
+        #endif
     }
 
     private void IrMenuPrincipal()
