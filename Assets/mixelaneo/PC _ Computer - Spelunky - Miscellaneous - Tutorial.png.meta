@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 006cb934ec240aa4d9de85b6a6dfe916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1584156617889874841
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_0
+  - first:
+      213: -1697472183865411972
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_1
+  - first:
+      213: -6940379024342368911
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_2
+  - first:
+      213: 552356965718043495
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_3
+  - first:
+      213: 8381360625677257321
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_4
+  - first:
+      213: -8516452994530372034
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_5
+  - first:
+      213: 8595987901765176142
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_6
+  - first:
+      213: 3953499321771034168
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_7
+  - first:
+      213: -2408859283167780244
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_8
+  - first:
+      213: -8184032903633497936
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_9
+  - first:
+      213: 6048471523850783744
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_10
+  - first:
+      213: 7369932808561159850
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_11
+  - first:
+      213: -6342566716166026635
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_12
+  - first:
+      213: -7320802779522878164
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_13
+  - first:
+      213: -8425077286997456588
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_14
+  - first:
+      213: 4257349730063144653
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_15
+  - first:
+      213: 5156856266795961436
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_16
+  - first:
+      213: 7872299796695586357
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_17
+  - first:
+      213: -8499115324012682165
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_18
+  - first:
+      213: -821408165244839197
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_19
+  - first:
+      213: -2516364917551767267
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_20
+  - first:
+      213: -2081689988174053730
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_21
+  - first:
+      213: 8357635519353965426
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_22
+  - first:
+      213: 5468903051331297348
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_23
+  - first:
+      213: -147173938649205064
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_24
+  - first:
+      213: -1424818172770431574
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_25
+  - first:
+      213: -3101504953909561668
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_26
+  - first:
+      213: -9019967247575605449
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_27
+  - first:
+      213: -7275473720043638809
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_28
+  - first:
+      213: 9195002606384856641
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_29
+  - first:
+      213: -5162557218138210289
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_30
+  - first:
+      213: 465242761560605026
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_31
+  - first:
+      213: 189418861682998707
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_32
+  - first:
+      213: -3142997186339213022
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_33
+  - first:
+      213: -7509040612311373473
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_34
+  - first:
+      213: 3751386772742098971
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_35
+  - first:
+      213: -8636278307691095353
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_36
+  - first:
+      213: 8248880710190075917
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_37
+  - first:
+      213: -7178118966116481645
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_38
+  - first:
+      213: -7261340597927807411
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_39
+  - first:
+      213: 1435091014105662348
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_40
+  - first:
+      213: -3985100042899842880
+    second: PC _ Computer - Spelunky - Miscellaneous - Tutorial_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1550
+        width: 422
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99309edfc0e0cf510800000000000000
+      internalID: 1584156617889874841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1535
+        width: 424
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c767898da0e5178e0800000000000000
+      internalID: -1697472183865411972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_2
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1699
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d308f8c02deaf90800000000000000
+      internalID: -6940379024342368911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_3
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1763
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b26dadbbd5aa700800000000000000
+      internalID: 552356965718043495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_4
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1613
+        width: 350
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a40fb2513905470800000000000000
+      internalID: 8381360625677257321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_5
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1538
+        width: 434
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3694b2af1b7fc980800000000000000
+      internalID: -8516452994530372034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_6
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1773
+        width: 486
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc44204751b4770800000000000000
+      internalID: 8595987901765176142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_7
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 1774
+        width: 486
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83609e5cfa6add630800000000000000
+      internalID: 3953499321771034168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_8
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1599
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e1e0ae33029ed0800000000000000
+      internalID: -2408859283167780244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_9
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1516
+        width: 486
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b011dc5f697c6e80800000000000000
+      internalID: -8184032903633497936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_10
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1516
+        width: 486
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c01350ecc70f350800000000000000
+      internalID: 6048471523850783744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1033
+        width: 447
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaee8c087d2474660800000000000000
+      internalID: 7369932808561159850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_12
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1044
+        width: 457
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a45be0d2daaf7a0800000000000000
+      internalID: -6342566716166026635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_13
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1532
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25b8d7c8a8476a90800000000000000
+      internalID: -7320802779522878164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1050
+        width: 404
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4390e4f68dc141b80800000000000000
+      internalID: -8425077286997456588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_15
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1260
+        width: 486
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6d409e505251b30800000000000000
+      internalID: 4257349730063144653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_16
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 1261
+        width: 486
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cce14d375d09740800000000000000
+      internalID: 5156856266795961436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 521
+        width: 405
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369b63b4f6004d60800000000000000
+      internalID: 7872299796695586357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 521
+        width: 389
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44252f94a31d0a80800000000000000
+      internalID: -8499115324012682165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_19
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1005
+        width: 251
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ead9fe20a5c994f0800000000000000
+      internalID: -821408165244839197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_20
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1006
+        width: 251
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1162149073141dd0800000000000000
+      internalID: -2516364917551767267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_21
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1006
+        width: 251
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef56a2cf95c13e0800000000000000
+      internalID: -2081689988174053730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_22
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1006
+        width: 251
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc74569394cf370800000000000000
+      internalID: 8357635519353965426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 536
+        width: 456
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440e6a5895275eb40800000000000000
+      internalID: 5468903051331297348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_24
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 962
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b67e92251225fdf0800000000000000
+      internalID: -147173938649205064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_25
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 514
+        width: 451
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad4f7ebb670a3ce0800000000000000
+      internalID: -1424818172770431574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_26
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 937
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63b194dad35f4d0800000000000000
+      internalID: -3101504953909561668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_27
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 937
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f19920493a2d280800000000000000
+      internalID: -9019967247575605449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_28
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 939
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efeb10e233580b90800000000000000
+      internalID: -7275473720043638809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_29
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 939
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e3c5e37263b9f70800000000000000
+      internalID: 9195002606384856641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_30
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 938
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004e300099ea58b0800000000000000
+      internalID: -5162557218138210289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_31
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 933
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2614421a3dfd47600800000000000000
+      internalID: 465242761560605026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_32
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 872
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdbf5c7373f0a200800000000000000
+      internalID: 189418861682998707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_33
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 872
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f23a16b4d164d0800000000000000
+      internalID: -3142997186339213022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_34
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 916
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e23309578ac790800000000000000
+      internalID: -7509040612311373473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_35
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 887
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105464e46a9f0430800000000000000
+      internalID: 3751386772742098971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_36
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 907
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca19a8d2a6c52880800000000000000
+      internalID: -8636278307691095353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_37
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 725
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00937d2d49e97270800000000000000
+      internalID: 8248880710190075917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 526
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950225e4d2326c90800000000000000
+      internalID: -7178118966116481645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 438
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46f36bc2398a3b90800000000000000
+      internalID: -7261340597927807411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 25
+        width: 427
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c838f148ca77ae310800000000000000
+      internalID: 1435091014105662348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Spelunky - Miscellaneous - Tutorial_41
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 44
+        width: 229
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89f8cff9412b8c0800000000000000
+      internalID: -3985100042899842880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_0: 1584156617889874841
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_1: -1697472183865411972
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_10: 6048471523850783744
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_11: 7369932808561159850
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_12: -6342566716166026635
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_13: -7320802779522878164
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_14: -8425077286997456588
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_15: 4257349730063144653
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_16: 5156856266795961436
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_17: 7872299796695586357
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_18: -8499115324012682165
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_19: -821408165244839197
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_2: -6940379024342368911
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_20: -2516364917551767267
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_21: -2081689988174053730
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_22: 8357635519353965426
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_23: 5468903051331297348
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_24: -147173938649205064
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_25: -1424818172770431574
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_26: -3101504953909561668
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_27: -9019967247575605449
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_28: -7275473720043638809
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_29: 9195002606384856641
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_3: 552356965718043495
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_30: -5162557218138210289
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_31: 465242761560605026
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_32: 189418861682998707
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_33: -3142997186339213022
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_34: -7509040612311373473
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_35: 3751386772742098971
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_36: -8636278307691095353
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_37: 8248880710190075917
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_38: -7178118966116481645
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_39: -7261340597927807411
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_4: 8381360625677257321
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_40: 1435091014105662348
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_41: -3985100042899842880
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_5: -8516452994530372034
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_6: 8595987901765176142
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_7: 3953499321771034168
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_8: -2408859283167780244
+      PC _ Computer - Spelunky - Miscellaneous - Tutorial_9: -8184032903633497936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8535012846731289767}
   - component: {fileID: 3301594840260415755}
   - component: {fileID: 2172788872085784651}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: bomba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,6 +229,7 @@ MonoBehaviour:
   layersAfectados:
     serializedVersion: 2
     m_Bits: 2496
+  destructoresTilemaps: []
 --- !u!95 &2172788872085784651
 Animator:
   serializedVersion: 7
