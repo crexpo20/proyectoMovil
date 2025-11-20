@@ -323,7 +323,7 @@ MonoBehaviour:
   "da\xF1oPisada": 1
   capaLatigo:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
   "da\xF1oLatigo": 1
   puntoSuperior: {fileID: 8626533856159461731}
   radioDeteccion: 0.36
