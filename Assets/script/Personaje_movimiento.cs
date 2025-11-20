@@ -73,6 +73,9 @@ public class Personaje_movimiento : MonoBehaviour
     private bool lanzarAtaque = false;
     private SpriteRenderer spriteRenderer;
 
+    public bool canDoubleJump = false;
+    private bool hasDoubleJumped = false;
+
 
     void Start()
     {
@@ -374,12 +377,32 @@ public class Personaje_movimiento : MonoBehaviour
         {
             rb.AddForce(Vector2.up * jumpForce);
             quiereSaltar = false;
+            hasDoubleJumped = false;
         }
-        else quiereSaltar = false;
+        else if (canDoubleJump && !hasDoubleJumped) 
+        {
+            rb.AddForce(Vector2.up *100f);
+            quiereSaltar = false;
+          
+            hasDoubleJumped = true;
+        }
+        else
+        {
+            quiereSaltar = false;
+
+        }
+
 
         if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
         else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
     }
+    public void UnlockDoubleJump()
+    {
+        canDoubleJump = true;
+    }
+
+   
+   
 
     // === NUEVO MÉTODO: Obtiene input horizontal del joystick o teclado ===
     private float ObtenerInputHorizontal()
