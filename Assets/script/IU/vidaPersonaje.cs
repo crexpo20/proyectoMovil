@@ -35,11 +35,11 @@ public class vidaPersonaje : MonoBehaviour
     /// DEPRECADO - Ya no se usa, ahora usamos Game Over
     /// Mantenerlo por compatibilidad pero no se llama
     /// </summary>
-    void reiniciarecena() 
+   /* void reiniciarecena() 
     {
         int curretSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(curretSceneIndex);    
-    }
+    }*/
     
     /// <summary>
     /// Llamado cuando el personaje recibe daño
