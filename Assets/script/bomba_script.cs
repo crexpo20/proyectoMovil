@@ -114,7 +114,7 @@ public class bomba_script : MonoBehaviour
                 foreach (MonoBehaviour script in scripts)
                 {
                     // Usar reflexión para encontrar método RecibirDanio
-                    var metodo = script.GetType().GetMethod("RecibirDanio");
+                    var metodo = script.GetType().GetMethod("RecibirDaño");
                     if (metodo != null)
                     {
                         metodo.Invoke(script, new object[] { danoBomba });

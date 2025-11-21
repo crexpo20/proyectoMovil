@@ -14,9 +14,9 @@ GameObject:
   - component: {fileID: 7949591810140547204}
   - component: {fileID: 4911122571212937957}
   - component: {fileID: 3159812671388547349}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: cofre
-  m_TagString: Untagged
+  m_TagString: item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,7 +110,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 4928
+    m_Bits: 56128
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -152,14 +152,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4e8d44c40778804eaded7054e1710c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::cajaloot
-  itemsLoot: []
+  itemsLoot:
+  - {fileID: 6433308718168341656, guid: d99f3eb2d6e5de64ebcda82ec56cda59, type: 3}
+  - {fileID: 579670671547953827, guid: ed039e13405be9045bf323fb85f497ed, type: 3}
+  - {fileID: 2095539117258697851, guid: 0d31820ffc589af4a896013de26e6453, type: 3}
+  - {fileID: 8086363976637806696, guid: fe69e84f8b233bd4dbb5d4ab0de3ccf7, type: 3}
   enemigosPosibles: []
-  minItems: 1
+  minItems: 2
   maxItems: 3
-  radioDispersion: 0.8
-  chanceLoot: 60
-  chanceEnemigo: 25
-  chanceVacio: 15
+  radioDispersion: 0.2
+  chanceLoot: 100
+  chanceEnemigo: 0
+  chanceVacio: 0
   sueloLayer:
     serializedVersion: 2
     m_Bits: 0
@@ -207,7 +211,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 320
+    m_Bits: 56128
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2

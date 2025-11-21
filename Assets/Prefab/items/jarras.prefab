@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 2741575854612352959}
   - component: {fileID: 9088189820477758710}
   - component: {fileID: 720576226807873569}
-  m_Layer: 0
+  - component: {fileID: 4854644304321661508}
+  m_Layer: 9
   m_Name: jarras
-  m_TagString: Untagged
+  m_TagString: item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109,7 +110,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 54080
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -127,7 +128,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.0068690777, y: -0.0069198012}
+  m_Offset: {x: -0.016454816, y: 0.0037609935}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -137,7 +138,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.4296279, y: 1.2089483}
+  m_Size: {x: 1.2727222, y: 0.9141481}
   m_EdgeRadius: 0
 --- !u!50 &9088189820477758710
 Rigidbody2D:
@@ -182,7 +183,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 54080
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -203,3 +204,30 @@ CapsuleCollider2D:
   m_Offset: {x: -0.06868643, y: -0.07834194}
   m_Size: {x: 0.6477732, y: 0.6526277}
   m_Direction: 0
+--- !u!114 &4854644304321661508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7852039504745968615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4e8d44c40778804eaded7054e1710c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::cajaloot
+  itemsLoot:
+  - {fileID: 8086363976637806696, guid: fe69e84f8b233bd4dbb5d4ab0de3ccf7, type: 3}
+  enemigosPosibles:
+  - {fileID: 1361231140591354595, guid: 5577efc826956ab4e9bf59fc23896b46, type: 3}
+  - {fileID: 3733638278449293189, guid: ac94d38a9e598d84ab37dd2c23eb642c, type: 3}
+  minItems: 0
+  maxItems: 1
+  radioDispersion: 0.2
+  chanceLoot: 50
+  chanceEnemigo: 25
+  chanceVacio: 15
+  sueloLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  distanciaBusquedaSuelo: 1

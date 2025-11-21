@@ -225,7 +225,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SapoPatrullaje
   fuerzaSalto: 5
   fuerzaHorizontal: 2.5
-  tiempoEntreSaltos: 5
+  tiempoEntreSaltos: 3
   groundCheckOrigin: {fileID: 8516781411493919019}
   wallCheckOrigin: {fileID: 7754823812852657727}
   groundCheckDistance: 0.5
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::provocaDanio
   Vidajuador: {fileID: 0}
-  puededa: 0
+  puededa: 1
   cold: 5
 --- !u!95 &7327004644152373595
 Animator:
@@ -284,7 +284,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MuertePorPisada
   vidaMaxima: 1
   vidaActual: 0
-  fuerzaRebote: 4
+  fuerzaRebote: 7
   capaJugador:
     serializedVersion: 2
     m_Bits: 384
@@ -292,7 +292,7 @@ MonoBehaviour:
   "da\xF1oPisada": 1
   capaLatigo:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
   "da\xF1oLatigo": 1
   puntoSuperior: {fileID: 1115039868963538165}
   radioDeteccion: 0.34
@@ -445,7 +445,7 @@ Transform:
   m_GameObject: {fileID: 5260228427552441462}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.007, y: 0.441, z: 0}
+  m_LocalPosition: {x: -0, y: -0.02, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
