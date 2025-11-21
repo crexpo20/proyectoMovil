@@ -333,7 +333,7 @@ MonoBehaviour:
   wallCheckDistance: 0.3
   groundLayer:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 2176
   fuerzaRetroceso: 3
   duracionRetroceso: 0.3
 --- !u!1 &6868041656407617939

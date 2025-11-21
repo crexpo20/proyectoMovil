@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1e63ea877c2770342933cc46fa4b3f96
+guid: a819d033ae8b57547944511cd1c920ce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6523776647837865918
-    second: cajaFlecha_0
+      213: -3045766227147039765
+    second: jungleback_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cajaFlecha_0
+      name: jungleback_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 218
-        height: 390
+        x: 0
+        y: 0
+        width: 1200
+        height: 673
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb75d58fb4c198a50800000000000000
-      internalID: 6523776647837865918
+      spriteID: bebd40ae0c34bb5d0800000000000000
+      internalID: -3045766227147039765
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7f27a0464da659f45ba4161013472ddb
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      cajaFlecha_0: 6523776647837865918
+      jungleback_0: -3045766227147039765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
