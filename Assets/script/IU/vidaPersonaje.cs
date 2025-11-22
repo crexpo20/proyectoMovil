@@ -150,7 +150,7 @@ public class vidaPersonaje : MonoBehaviour
     /// <summary>
     /// Método público para curar al personaje (para power-ups futuros)
     /// </summary>
-    public void Curar(int cantidad)
+    /*public void Curar(int cantidad)
     {
         if (estaMuerto)
             return;
@@ -166,15 +166,16 @@ public class vidaPersonaje : MonoBehaviour
         actualizarinterface();
         
         Debug.Log("¡Curado! Vida actual: " + vidamaxima);
-    }
+    }*/
     
     /// <summary>
     /// Método para reiniciar la vida (útil al comenzar nivel)
     /// </summary>
-    public void ReiniciarVida()
+    /*public void ReiniciarVida()
     {
         vidamaxima = 3; // O el valor máximo inicial
         estaMuerto = false;
         actualizarinterface();
-    }
+    }*/
+    
 }
