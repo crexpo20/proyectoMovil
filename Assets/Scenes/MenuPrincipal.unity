@@ -364,7 +364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GestorMenuPrincipal
   nombreEscenaTutorial: Tutorial
-  nombreEscenaJuego: hielo_1
+  nombreEscenaJuego: Cueva_1
   nombreEscenaOpciones: 
 --- !u!4 &816482983
 Transform:

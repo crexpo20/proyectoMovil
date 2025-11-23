@@ -133,14 +133,14 @@ MonoBehaviour:
   textoCuerdas: {fileID: 6286368046784330417}
   textoOro: {fileID: 3750395369898724315}
   joystick: {fileID: 2858552778534155011}
-  botonAtaque: {fileID: 3483223058063509159}
-  botonBomba: {fileID: 4229166116902423178}
-  botonCuerda: {fileID: 9213145278068092132}
-  botonSaltar: {fileID: 4686610170590352007}
+  botonSaltar: {fileID: 4433638941583658277}
+  botonAtaque: {fileID: 4920051215966910461}
+  botonBomba: {fileID: 1023627027698015147}
+  botonCuerda: {fileID: 5024504945793172004}
   botonPausaUI: {fileID: 8236995536487496521}
   panelPausa: {fileID: 865332736938379029}
   botonReanudar: {fileID: 1798621040023653767}
-  botonReiniciar: {fileID: 0}
+  botonReiniciar: {fileID: 4841928465148055213}
   botonMenuPrincipal: {fileID: 3244506007472938587}
 --- !u!1001 &267939828051965651
 PrefabInstance:
@@ -718,24 +718,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8605481535994468520, guid: 817052e450a210f4bb08f2c6c2dadefb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4551395587095299305}
   m_SourcePrefab: {fileID: 100100000, guid: 817052e450a210f4bb08f2c6c2dadefb, type: 3}
 --- !u!224 &637202517906758434 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 4179801338714063278, guid: 817052e450a210f4bb08f2c6c2dadefb, type: 3}
   m_PrefabInstance: {fileID: 3663237927024990860}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &9213145278068092132 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5552311263566034536, guid: 817052e450a210f4bb08f2c6c2dadefb, type: 3}
+--- !u!1 &5024504945793172004 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8605481535994468520, guid: 817052e450a210f4bb08f2c6c2dadefb, type: 3}
   m_PrefabInstance: {fileID: 3663237927024990860}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+--- !u!114 &4551395587095299305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5024504945793172004}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Script: {fileID: 11500000, guid: 78c2bac1d7728fc48a4af3b1df8488d0, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_EditorClassIdentifier: Assembly-CSharp::BotonCuerda
+  personaje: {fileID: 0}
 --- !u!1001 &4400816902091467077
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1042,6 +1052,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &4841928465148055213 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 223463647413254090, guid: 6cd516557912d3b4bb313b6f1f78d281, type: 3}
+  m_PrefabInstance: {fileID: 4622975021286373735}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
 --- !u!224 &7422476660448649306 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2822055453174552893, guid: 6cd516557912d3b4bb313b6f1f78d281, type: 3}
@@ -1142,19 +1163,29 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7864792908120688407, guid: 8a39f7a2084d2da4e81b751445ea047a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9148325214483592579}
   m_SourcePrefab: {fileID: 100100000, guid: 8a39f7a2084d2da4e81b751445ea047a, type: 3}
---- !u!114 &4229166116902423178 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6458434603168306742, guid: 8a39f7a2084d2da4e81b751445ea047a, type: 3}
+--- !u!1 &1023627027698015147 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7864792908120688407, guid: 8a39f7a2084d2da4e81b751445ea047a, type: 3}
   m_PrefabInstance: {fileID: 7138764101830204604}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+--- !u!114 &9148325214483592579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023627027698015147}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Script: {fileID: 11500000, guid: 3b076787d92dfee4a8bbd29ee599c909, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_EditorClassIdentifier: Assembly-CSharp::BotonBomba
+  personaje: {fileID: 0}
 --- !u!224 &8334978000576432094 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1205335722386234210, guid: 8a39f7a2084d2da4e81b751445ea047a, type: 3}
@@ -1498,22 +1529,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: AttackButton
       objectReference: {fileID: 0}
+    - target: {fileID: 6492759271769477490, guid: ec1509cf4c752334c9b8ffd34a3baaf9, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ec1509cf4c752334c9b8ffd34a3baaf9, type: 3}
---- !u!114 &3483223058063509159 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6492759271769477490, guid: ec1509cf4c752334c9b8ffd34a3baaf9, type: 3}
+--- !u!1 &4920051215966910461 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3317893166917312552, guid: ec1509cf4c752334c9b8ffd34a3baaf9, type: 3}
   m_PrefabInstance: {fileID: 7659513296070039509}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
 --- !u!224 &9170770296203537990 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1515760599760943507, guid: ec1509cf4c752334c9b8ffd34a3baaf9, type: 3}
@@ -1589,11 +1618,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 793901808854867140, guid: c2e082753892f204fbf0756293d42da8, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150
+      value: 220
       objectReference: {fileID: 0}
     - target: {fileID: 793901808854867140, guid: c2e082753892f204fbf0756293d42da8, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 150
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 793901808854867140, guid: c2e082753892f204fbf0756293d42da8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1610,6 +1639,10 @@ PrefabInstance:
     - target: {fileID: 4460376608186255955, guid: c2e082753892f204fbf0756293d42da8, type: 3}
       propertyPath: m_Name
       value: Fixed Joystick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836029100887063330, guid: c2e082753892f204fbf0756293d42da8, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1727,19 +1760,29 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4948794013609471435, guid: d83c4546c7aa42b4fb38f015b7ed2891, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3720579789300935293}
   m_SourcePrefab: {fileID: 100100000, guid: d83c4546c7aa42b4fb38f015b7ed2891, type: 3}
---- !u!114 &4686610170590352007 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4044507143878881897, guid: d83c4546c7aa42b4fb38f015b7ed2891, type: 3}
+--- !u!1 &4433638941583658277 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4948794013609471435, guid: d83c4546c7aa42b4fb38f015b7ed2891, type: 3}
   m_PrefabInstance: {fileID: 8731027012168933614}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+--- !u!114 &3720579789300935293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4433638941583658277}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Script: {fileID: 11500000, guid: a4e19f8a8b960924f83f3d0945907f1f, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_EditorClassIdentifier: Assembly-CSharp::BotonSaltoInstantaneo
+  personaje: {fileID: 0}
 --- !u!224 &7539101859237985491 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1263985362245950525, guid: d83c4546c7aa42b4fb38f015b7ed2891, type: 3}

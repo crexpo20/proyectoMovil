@@ -9,20 +9,26 @@ EditorBuildSettings:
     path: Assets/Scenes/Inicio.unity
     guid: 027116c90acca73479c31ad3f0b6bb9c
   - enabled: 1
-    path: Assets/Scenes/MenuPrincipal.unity
-    guid: 65138f62176a53b418074e9c01f867fc
-  - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 65138f62176a53b418074e9c01f867fc
+  - enabled: 1
     path: Assets/Scenes/Cueva_1.unity
     guid: b1d145e3f19b22b4f8b2bb80348a1027
+  - enabled: 1
+    path: Assets/Scenes/jungla_1.unity
+    guid: dafcc27708ee7824590298401b885082
   - enabled: 1
     path: Assets/Scenes/hielo_V1.unity
     guid: 03a2c76b341234f48b1418f2beb8613b
   - enabled: 1
     path: Assets/Scenes/hielo_V2.unity
     guid: a9eff3d65a74a9947a4ca67120774612
+  - enabled: 1
+    path: Assets/Scenes/infierno_1.unity
+    guid: 5d77d1a56e836594b8a2025f7be2cd25
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

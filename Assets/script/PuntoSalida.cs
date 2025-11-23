@@ -2,7 +2,9 @@ using UnityEngine;
 
 public class PuntoSalida : MonoBehaviour
 {
+    
     [Header("Configuración Salida")]
+    
     public string nombreSiguienteEscena;
     public bool esUltimoNivel = false;
 
@@ -10,7 +12,6 @@ public class PuntoSalida : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log($"Player tocó la salida. Siguiente escena: {nombreSiguienteEscena}");
             GestionarSalida();
         }
     }
@@ -19,7 +20,6 @@ public class PuntoSalida : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Debug.Log($"Player chocó con la salida. Siguiente escena: {nombreSiguienteEscena}");
             GestionarSalida();
         }
     }
@@ -28,18 +28,15 @@ public class PuntoSalida : MonoBehaviour
     {
         if (GestorNiveles.Instance == null)
         {
-            Debug.LogError("No se encontró GestorNiveles en la escena");
             return;
         }
 
         if (esUltimoNivel)
         {
-            Debug.Log("Es el último nivel, cargando escena final");
             GestorNiveles.Instance.CargarEscenaFinal();
         }
         else
         {
-            Debug.Log($"Cargando siguiente nivel: {nombreSiguienteEscena}");
             GestorNiveles.Instance.CargarSiguienteNivel(nombreSiguienteEscena);
         }
     }

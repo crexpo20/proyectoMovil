@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 using TMPro;
 using System.Collections;
 
@@ -16,10 +17,10 @@ public class CanvasManager : MonoBehaviour
     
     [Header("Referencias UI - Controles")]
     public FixedJoystick joystick;
-    public Button botonAtaque;
-    public Button botonBomba;
-    public Button botonCuerda;
-    public Button botonSaltar;
+    public GameObject botonSaltar;
+    public GameObject botonAtaque;
+    public GameObject botonBomba;
+    public GameObject botonCuerda;
     public Button botonPausaUI;
     
     [Header("Referencias UI - Paneles")]
@@ -35,19 +36,15 @@ public class CanvasManager : MonoBehaviour
 
     private void Awake()
     {
-        // Singleton para el Canvas persistente
         if (Instance == null)
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
             SceneManager.sceneLoaded += OnEscenaCargada;
-            
-            Debug.Log("✅ CanvasManager unificado inicializado");
         }
         else
         {
             Destroy(gameObject);
-            return;
         }
     }
 
@@ -56,10 +53,8 @@ public class CanvasManager : MonoBehaviour
         ConfigurarBotones();
         OcultarPausa();
         
-        // Buscar personaje al inicio
         BuscarPersonaje();
         
-        // Suscribirse a eventos de items
         Personaje_movimiento.UsoBomba += OnUsoBomba;
         Personaje_movimiento.UsoCuerda += OnUsoCuerda;
         moneda.Ororeco += OnOroRecolectado;
@@ -69,10 +64,8 @@ public class CanvasManager : MonoBehaviour
 
     private void Update()
     {
-        // Actualizar UI continuamente
         ActualizarUI();
         
-        // Detectar tecla ESC para pausa
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             TogglePausa();
@@ -81,27 +74,31 @@ public class CanvasManager : MonoBehaviour
 
     private void OnEscenaCargada(Scene escena, LoadSceneMode modo)
     {
-        Debug.Log($"🔄 CanvasManager en nueva escena: {escena.name}");
-        
-        ConfigurarBotones();
-
-        // Re-conectar con el personaje en la nueva escena
-        StartCoroutine(ReconectarConPersonaje());
+        Invoke("ReconectarPersonaje", 0.1f);
     }
 
-    private IEnumerator ReconectarConPersonaje()
+    private void ReconectarPersonaje()
     {
-        // Esperar que la escena esté completamente cargada
-        yield return new WaitForEndOfFrame();
-        yield return new WaitForSeconds(0.1f);
-        
-        BuscarPersonaje();
-        
-        // Forzar reconexión de controles
-        if (personaje != null)
-        {
-            ReconectarControles();
-        }
+        personaje = FindObjectOfType<Personaje_movimiento>();
+        if (personaje == null) return;
+
+        personaje.joystick = joystick;
+
+        var botonSaltoScript = botonSaltar.GetComponent<BotonSaltoInstantaneo>();
+        if (botonSaltoScript != null) 
+            botonSaltoScript.personaje = personaje;
+
+        var botonAtaqueScript = botonAtaque.GetComponent<BotonAtaque>();
+        if (botonAtaqueScript != null)
+            botonAtaqueScript.personaje = personaje;
+
+        var botonBombaScript = botonBomba.GetComponent<BotonBomba>();
+        if (botonBombaScript != null)
+            botonBombaScript.personaje = personaje;
+
+        var botonCuerdaScript = botonCuerda.GetComponent<BotonCuerda>();
+        if (botonCuerdaScript != null)
+            botonCuerdaScript.personaje = personaje;
     }
 
     private void BuscarPersonaje()
@@ -109,12 +106,10 @@ public class CanvasManager : MonoBehaviour
         personaje = FindObjectOfType<Personaje_movimiento>();
         if (personaje != null)
         {
-            Debug.Log("✅ CanvasManager encontró al personaje");
             ReconectarControles();
         }
         else
         {
-            Debug.Log("🔍 CanvasManager buscando personaje...");
             InvokeRepeating("BuscarPersonajeContinuo", 0.5f, 0.5f);
         }
     }
@@ -124,7 +119,6 @@ public class CanvasManager : MonoBehaviour
         personaje = FindObjectOfType<Personaje_movimiento>();
         if (personaje != null)
         {
-            Debug.Log("✅ CanvasManager encontró al personaje (búsqueda continua)");
             ReconectarControles();
             CancelInvoke("BuscarPersonajeContinuo");
         }
@@ -132,151 +126,58 @@ public class CanvasManager : MonoBehaviour
 
     private void ReconectarControles()
     {
-        if (personaje != null)
-        {
-            // ✅ IMPORTANTE: Reasignar el joystick
-            if (joystick != null)
-            {
-                personaje.joystick = joystick;
-                Debug.Log("🕹️ Joystick reconectado al personaje");
-            }
-            
-            // ✅ Reasignar botones usando reflexión
-            ReasignarBotones();
-            ConfigurarBotones();
-            ActualizarUI();
-        }
-    }
-
-    private void ReasignarBotones()
-    {
         if (personaje == null) return;
 
-        var personajeType = personaje.GetType();
-        
-        // Reasignar botón de salto
-        var botonSaltoField = personajeType.GetField("botonSalto", 
-            System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-        if (botonSaltoField != null && botonSaltar != null)
+        if (joystick != null)
         {
-            botonSaltoField.SetValue(personaje, botonSaltar);
-            Debug.Log("🔄 Botón saltar reconectado");
+            personaje.joystick = joystick;
         }
-        
-        // Reasignar botón de bomba
-        var botonBombaField = personajeType.GetField("botonBomba", 
-            System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-        if (botonBombaField != null && botonBomba != null)
-        {
-            botonBombaField.SetValue(personaje, botonBomba);
-            Debug.Log("🔄 Botón bomba reconectado");
-        }
-        
-        // Reasignar botón de cuerda
-        var botonCuerdaField = personajeType.GetField("botonCuerda", 
-            System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-        if (botonCuerdaField != null && botonCuerda != null)
-        {
-            botonCuerdaField.SetValue(personaje, botonCuerda);
-            Debug.Log("🔄 Botón cuerda reconectado");
-        }
-        
-        // Reasignar botón de ataque
-        var botonAtaqueField = personajeType.GetField("botonAtaque", 
-            System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-        if (botonAtaqueField != null && botonAtaque != null)
-        {
-            botonAtaqueField.SetValue(personaje, botonAtaque);
-            Debug.Log("🔄 Botón ataque reconectado");
-        }
+
+        var botonSaltoScript = botonSaltar.GetComponent<BotonSaltoInstantaneo>();
+        if (botonSaltoScript != null)
+            botonSaltoScript.personaje = personaje;
+
+        var botonAtaqueScript = botonAtaque.GetComponent<BotonAtaque>();
+        if (botonAtaqueScript != null)
+            botonAtaqueScript.personaje = personaje;
+
+        var botonBombaScript = botonBomba.GetComponent<BotonBomba>();
+        if (botonBombaScript != null)
+            botonBombaScript.personaje = personaje;
+
+        var botonCuerdaScript = botonCuerda.GetComponent<BotonCuerda>();
+        if (botonCuerdaScript != null)
+            botonCuerdaScript.personaje = personaje;
     }
 
     private void ConfigurarBotones()
     {
-        // Limpiar listeners previos
-        botonAtaque?.onClick.RemoveAllListeners();
-        botonBomba?.onClick.RemoveAllListeners();
-        botonCuerda?.onClick.RemoveAllListeners();
-        botonSaltar?.onClick.RemoveAllListeners();
-        botonPausaUI?.onClick.RemoveAllListeners();
-        botonReanudar?.onClick.RemoveAllListeners();
-        botonReiniciar?.onClick.RemoveAllListeners();
-        botonMenuPrincipal?.onClick.RemoveAllListeners();
-
-        // Configurar botones de acciones
-        botonAtaque?.onClick.AddListener(() => PresionarAtaque());
-        botonBomba?.onClick.AddListener(() => PresionarBomba());
-        botonCuerda?.onClick.AddListener(() => PresionarCuerda());
-        botonSaltar?.onClick.AddListener(() => PresionarSalto());
-        botonPausaUI?.onClick.AddListener(() => TogglePausa());
-
-        // Configurar menú pausa
-        botonReanudar?.onClick.AddListener(() => TogglePausa());
-        botonReiniciar?.onClick.AddListener(() => ReiniciarNivel());
-        botonMenuPrincipal?.onClick.AddListener(() => IrMenuPrincipal());
-    }
-
-    #region CONTROL DEL PERSONAJE (Métodos públicos para presionar botones)
-    private void PresionarSalto()
-    {
-        if (personaje != null && !juegoPausado)
+        // Configurar botón de pausa UI
+        if (botonPausaUI != null)
         {
-            var personajeType = personaje.GetType();
-            var quiereSaltarField = personajeType.GetField("quiereSaltar", 
-                System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-            
-            if (quiereSaltarField != null)
-            {
-                quiereSaltarField.SetValue(personaje, true);
-            }
+            botonPausaUI.onClick.RemoveAllListeners();
+            botonPausaUI.onClick.AddListener(TogglePausa);
+        }
+        
+        // Configurar botones del panel de pausa
+        if (botonReanudar != null)
+        {
+            botonReanudar.onClick.RemoveAllListeners();
+            botonReanudar.onClick.AddListener(TogglePausa);
+        }
+        
+        if (botonReiniciar != null)
+        {
+            botonReiniciar.onClick.RemoveAllListeners();
+            botonReiniciar.onClick.AddListener(ReiniciarNivel);
+        }
+        
+        if (botonMenuPrincipal != null)
+        {
+            botonMenuPrincipal.onClick.RemoveAllListeners();
+            botonMenuPrincipal.onClick.AddListener(IrMenuPrincipal);
         }
     }
-
-    private void PresionarAtaque()
-    {
-        if (personaje != null && !juegoPausado)
-        {
-            var personajeType = personaje.GetType();
-            var lanzarAtaqueField = personajeType.GetField("lanzarAtaque", 
-                System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-            
-            if (lanzarAtaqueField != null)
-            {
-                lanzarAtaqueField.SetValue(personaje, true);
-            }
-        }
-    }
-
-    private void PresionarBomba()
-    {
-        if (personaje != null && !juegoPausado)
-        {
-            var personajeType = personaje.GetType();
-            var lanzarBombaField = personajeType.GetField("lanzarBomba", 
-                System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-            
-            if (lanzarBombaField != null)
-            {
-                lanzarBombaField.SetValue(personaje, true);
-            }
-        }
-    }
-
-    private void PresionarCuerda()
-    {
-        if (personaje != null && !juegoPausado)
-        {
-            var personajeType = personaje.GetType();
-            var lanzarCuerdasField = personajeType.GetField("lanzarCuerdas", 
-                System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-            
-            if (lanzarCuerdasField != null)
-            {
-                lanzarCuerdasField.SetValue(personaje, true);
-            }
-        }
-    }
-    #endregion
 
     #region SISTEMA DE PAUSA UNIFICADO
     public void TogglePausa()
@@ -294,7 +195,6 @@ public class CanvasManager : MonoBehaviour
             Time.timeScale = 1f;
         }
         
-        Debug.Log($"⏸️ Juego {(juegoPausado ? "pausado" : "reanudado")}");
     }
 
     private void MostrarPausa()
@@ -302,8 +202,6 @@ public class CanvasManager : MonoBehaviour
         if (panelPausa != null)
             panelPausa.SetActive(true);
         
-        if (botonPausaUI != null)
-            botonPausaUI.gameObject.SetActive(false);
     }
 
     private void OcultarPausa()
@@ -311,15 +209,17 @@ public class CanvasManager : MonoBehaviour
         if (panelPausa != null)
             panelPausa.SetActive(false);
         
-        if (botonPausaUI != null)
-            botonPausaUI.gameObject.SetActive(true);
     }
-
     private void ReiniciarNivel()
     {
         Time.timeScale = 1f;
-        juegoPausado = false;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
+        #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+        #else
+            // En el build (Android/PC)
+            Application.Quit();
+        #endif
     }
 
     private void IrMenuPrincipal()
@@ -328,11 +228,12 @@ public class CanvasManager : MonoBehaviour
         juegoPausado = false;
         
         // Destruir sistemas persistentes para reinicio limpio
-        if (ControladorJugador.Instance != null)
-            Destroy(ControladorJugador.Instance.gameObject);
+        if (Instance != null)
+            Destroy(Instance.gameObject);
         
-        Destroy(gameObject);
         SceneManager.LoadScene("MenuPrincipal");
+        
+        Debug.Log("Cargando menú principal...");
     }
     #endregion
 
@@ -371,7 +272,6 @@ public class CanvasManager : MonoBehaviour
     {
         oro += cantidad;
         ActualizarUI();
-        Debug.Log($"💰 Oro recolectado: +{cantidad} (Total: {oro})");
     }
 
     private void OnBombaRecolectada(int cantidad)
@@ -380,7 +280,6 @@ public class CanvasManager : MonoBehaviour
         {
             personaje.AddBombs(cantidad);
             ActualizarUI();
-            Debug.Log($"💣 Bomba recolectada: +{cantidad}");
         }
     }
 
@@ -390,7 +289,6 @@ public class CanvasManager : MonoBehaviour
         {
             personaje.AddCuerdas(cantidad);
             ActualizarUI();
-            Debug.Log($"🪢 Cuerda recolectada: +{cantidad}");
         }
     }
     #endregion

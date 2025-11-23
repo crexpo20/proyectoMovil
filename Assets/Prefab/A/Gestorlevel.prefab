@@ -44,9 +44,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dea16224104b6c34fa7b4d6553f9c0d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GestorNiveles
+  nivelesAleatorios: []
   nombresNiveles:
-  - hielo_1
-  - hielo_2
+  - Cueva_1
+  - jungla_1
+  - hielo_V1
+  - infierno_1
   escenaFinal: MenuPrincipal
-  debugMode: 1
-  esPrefab: 1
+  debugMode: 0

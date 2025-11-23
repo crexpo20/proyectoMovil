@@ -5,6 +5,10 @@ using System.Collections;
 public class GestorNiveles : MonoBehaviour
 {
     public static GestorNiveles Instance;
+
+    [Header("Niveles Aleatorios")]
+    public string[] nivelesAleatorios;
+
     
     [Header("Configuración de Niveles")]
     public string[] nombresNiveles;
@@ -67,6 +71,19 @@ public class GestorNiveles : MonoBehaviour
         Destroy(gameObject);
         SceneManager.LoadScene(escenaFinal);
     }
+    public void CargarNivelAleatorio()
+{
+    if (nivelesAleatorios == null || nivelesAleatorios.Length == 0)
+    {
+        return;
+    }
+
+    int indice = Random.Range(0, nivelesAleatorios.Length);
+    string nivelElegido = nivelesAleatorios[indice];
+
+
+    SceneManager.LoadScene(nivelElegido);
+}
 
     private string ObtenerSiguienteNivel()
     {

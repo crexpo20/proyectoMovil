@@ -44,33 +44,23 @@ public class Personaje_movimiento : MonoBehaviour
     [Header("Controles Táctiles")]
     [Tooltip("Arrastra aquí el Fixed Joystick")]
     public FixedJoystick joystick;
-    [Tooltip("Arrastra aquí el botón de salto")]
-    public Button botonSalto;
-    [Tooltip("Arrastra aquí el botón de atque")]
-    public Button botonAtaque;
-    [Tooltip("Arrastra aquí el botón de bomba")]
-    public Button botonBomba;
-    [Tooltip("Arrastra aquí el botón de cuerda")]
-    public Button botonCuerda;
 
     [Tooltip("Permitir controles de teclado (para testing en PC)")]
     public bool permitirTeclado = true;
     
+    [Header("Componentes")]
     private Rigidbody2D rb;
     private CapsuleCollider2D boxCollider;
     private Animator Animator;
-    private Animator subida;
     private float moveInput;
+    [Header("Estado")]   
     private bool Grounded;
     private bool ladders;
     private bool isInvulnerable = false;
     private bool isKnockback = false;
-    private bool quiereSaltar = false;
-    private bool lanzarBomba = false;
-    private bool lanzarCuerdas = false;
     private bool atacando = false;
     private bool puedeAtacar = true;
-    private bool lanzarAtaque = false;
+
     private SpriteRenderer spriteRenderer;
 
     public bool canDoubleJump = false;
@@ -83,24 +73,20 @@ public class Personaje_movimiento : MonoBehaviour
         Animator = GetComponent<Animator>();
         boxCollider = GetComponent<CapsuleCollider2D>();
         spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-
-        if (botonSalto != null) botonSalto.onClick.AddListener(OnBotonSaltoPresionado);
-
-        if (botonBomba != null) botonBomba.onClick.AddListener(OnBotonBombaPresionado);
-
-        if (botonCuerda != null) botonCuerda.onClick.AddListener(OnBotonCuerdaPresionado);
-        
-        if (botonAtaque != null) botonAtaque.onClick.AddListener(OnBotonAtaquePresionado);
     }
 
     void Update()
     {
         movimiento_vertical();
         Climb();
-        ColocarBomba();
-        ColocarCuerda();
-        IniciarAtaque();
         ActualizarCooldown();
+        if (permitirTeclado)
+        {
+            if (Input.GetKeyDown(KeyCode.Space)) SaltarInstantaneo();
+            if (Input.GetKeyDown(KeyCode.Z)) AtaqueInstantaneo();
+            if (Input.GetKeyDown(KeyCode.C)) LanzarBombaInstantaneo();
+            if (Input.GetKeyDown(KeyCode.X)) LanzarCuerdaInstantaneo();
+        }
     }
     //------------Metodos para escena---------
     void reiniciarecena() {
@@ -108,23 +94,6 @@ public class Personaje_movimiento : MonoBehaviour
         SceneManager.LoadScene(curretSceneIndex);    
     }
 
-    // ----------Metododos para  botones----------
-    void OnBotonSaltoPresionado()
-    {
-        quiereSaltar = true;
-    }
-    void OnBotonBombaPresionado()
-    {
-        lanzarBomba = true;
-    }
-    void OnBotonCuerdaPresionado()
-    {
-        lanzarCuerdas = true;
-    }
-    void OnBotonAtaquePresionado()
-    {
-        lanzarAtaque = true;
-    }
     //---------Metodos para cuerdas------------
     public void AddCuerdas(int Crecolectado)
     {
@@ -133,12 +102,10 @@ public class Personaje_movimiento : MonoBehaviour
     }
     private void ColocarCuerda()
     {
-        if ((permitirTeclado && Input.GetKeyDown(KeyCode.X)) || lanzarCuerdas)
+        if ((permitirTeclado && Input.GetKeyDown(KeyCode.X)))
         {
             if (cuerdas > 0)
             {
-                LanzarCuerda();
-                lanzarCuerdas = false;
                 cuerdas--;
                 UsoCuerda?.Invoke(-1);
             }
@@ -184,12 +151,11 @@ public class Personaje_movimiento : MonoBehaviour
     }
     private void ColocarBomba()
     {
-        if (permitirTeclado && Input.GetKeyDown(KeyCode.C) || lanzarBomba)
+        if (permitirTeclado && Input.GetKeyDown(KeyCode.C) )
         {
             if (bombas > 0)
             {
                 bomb();
-                lanzarBomba = false;
                 bombas--;
                 UsoBomba?.Invoke(-1);
             }
@@ -218,13 +184,11 @@ public class Personaje_movimiento : MonoBehaviour
     //----------Metodos para Ataque y daño ---------
     private void IniciarAtaque()
     {
-        if ((permitirTeclado && Input.GetKeyDown(KeyCode.Z)) || lanzarAtaque)
+        if ((permitirTeclado && Input.GetKeyDown(KeyCode.Z)) )
         {
             if (puedeAtacar && !atacando)
             {
                 Atacar();
-
-                lanzarAtaque = false;
             }
         }
     }
@@ -372,30 +336,24 @@ public class Personaje_movimiento : MonoBehaviour
         Grounded = Physics2D.Raycast(transform.position, Vector3.down, 0.64f);
 
         
-        bool inputSalto = (permitirTeclado && Input.GetKeyDown(KeyCode.Space)) || quiereSaltar;
+        bool inputSalto = (permitirTeclado && Input.GetKeyDown(KeyCode.Space));
         if (inputSalto && Grounded && !isKnockback)
         {
             rb.AddForce(Vector2.up * jumpForce);
-            quiereSaltar = false;
             hasDoubleJumped = false;
         }
         else if (canDoubleJump && !hasDoubleJumped) 
         {
             rb.AddForce(Vector2.up *100f);
-            quiereSaltar = false;
           
             hasDoubleJumped = true;
-        }
-        else
-        {
-            quiereSaltar = false;
-
         }
 
 
         if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
         else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
     }
+
     public void UnlockDoubleJump()
     {
         canDoubleJump = true;
@@ -478,13 +436,52 @@ public class Personaje_movimiento : MonoBehaviour
             Animator.SetBool("isClimbing", false);
         }
     }
-    
+    //--------metodos extra -------------
+    public void SaltarInstantaneo()
+    {
+        if (Grounded && !isKnockback)
+        {
+            rb.AddForce(Vector2.up * jumpForce);
+            hasDoubleJumped = false;
+        }
+        else if (canDoubleJump && !hasDoubleJumped)
+        {
+            rb.AddForce(Vector2.up * jumpForce * 0.9f);
+            hasDoubleJumped = true;
+        }
+    }
+
+    public void AtaqueInstantaneo()
+    {
+        if (puedeAtacar && !atacando)
+        {
+            Atacar();
+        }
+    }
+
+    public void LanzarBombaInstantaneo()
+    {
+        if (bombas > 0)
+        {
+            bomb();
+            bombas--;
+            UsoBomba?.Invoke(-1);
+        }
+    }
+
+    public void LanzarCuerdaInstantaneo()
+    {
+        if (cuerdas > 0)
+        {
+            LanzarCuerda();
+            cuerdas--;
+            UsoCuerda?.Invoke(-1);
+        }
+    }
+
     // === NUEVO: Limpiar listener del botón al destruir ===
     void OnDestroy()
     {
-        if (botonSalto != null)
-        {
-            botonSalto.onClick.RemoveListener(OnBotonSaltoPresionado);
-        }
+
     }
 }
