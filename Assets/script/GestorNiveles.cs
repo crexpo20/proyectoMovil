@@ -48,13 +48,13 @@ public class GestorNiveles : MonoBehaviour
         }
         else
         {
-            CargarEscenaFinal();
+            CargarFindelJuego();
         }
     }
 
     public void CargarEscenaFinal()
     {
-        
+        CanvasManager.Instance.MostrarGameOver("Has muerto",GestorNiveles.Instance.nivelActual,CanvasManager.Instance.oro,0f);
         // Destruir ambos para un reinicio limpio
         if (ControladorJugador.Instance != null)
         {
@@ -62,7 +62,17 @@ public class GestorNiveles : MonoBehaviour
         }
             
         Destroy(gameObject);
-        SceneManager.LoadScene(escenaFinal);
+    }
+    public void CargarFindelJuego()
+    {
+        CanvasManager.Instance.MostrarVictoria("Felicidades",GestorNiveles.Instance.nivelActual,CanvasManager.Instance.oro,0f);
+        // Destruir ambos para un reinicio limpio
+        if (ControladorJugador.Instance != null)
+        {
+            Destroy(ControladorJugador.Instance.gameObject);
+        }
+            
+        Destroy(gameObject);
     }
     public void CargarNivelAleatorio()
 {
