@@ -33,7 +33,7 @@ public class PuntoSalida : MonoBehaviour
 
         if (esUltimoNivel)
         {
-            GestorNiveles.Instance.CargarEscenaFinal();
+            GestorNiveles.Instance.CargarFindelJuego();
         }
         else
         {

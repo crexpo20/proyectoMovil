@@ -38,6 +38,16 @@ public class CanvasManager : MonoBehaviour
     public TMPro.TMP_Text textoTiempo;
     public Button botonFJMenu;
     public Button botonFJFin;
+
+    [Header("Panel Game Over")]
+    public GameObject panelGameWin;
+    public TMPro.TMP_Text textoMotivoGanado;
+    public TMPro.TMP_Text textoFraseGanado;
+    public TMPro.TMP_Text textoNivelGanado;
+    public TMPro.TMP_Text textoDineroGanado;
+    public TMPro.TMP_Text textoTiempoGanado;
+    public Button botonWJMenu;
+    public Button botonWJFin;
     
 
     // Datos del juego
@@ -82,6 +92,33 @@ public class CanvasManager : MonoBehaviour
             TogglePausa();
         }
     }
+    //------------ui juego ganado -----------
+    public void MostrarVictoria(string motivo, string nivel, int dinero, float tiempo)
+    {
+        Time.timeScale = 0f;
+
+        panelGameWin.SetActive(true);
+
+        textoMotivoGanado.text = motivo;
+        textoNivelGanado.text = "Nivel:    " + nivel;
+        textoDineroGanado.text = "Dinero:    " + dinero;
+        textoTiempoGanado.text = "Tiempo:    " + tiempo.ToString("F1") + "s";
+
+        // Frase aleatoria opcional
+        textoFrase.text = ObtenerFraseGanado();
+    }
+
+    private string ObtenerFraseGanado()
+    {
+        string[] frases = {
+            "Felicidades lo lograse",
+            "Los ganadores nunca se rinden y los que se rinden nunca ganan",
+            "No puedes tener miedo a fracasar. Es la única forma en la que triunfas"
+        };
+
+        return frases[Random.Range(0, frases.Length)];
+    }
+    //------------fin de ui juego ganado-----
     //------------ui findel juego -----------
     public void MostrarGameOver(string motivo, string nivel, int dinero, float tiempo)
     {
@@ -90,7 +127,7 @@ public class CanvasManager : MonoBehaviour
         panelGameOver.SetActive(true);
 
         textoMotivo.text = motivo;
-        textoNivel.text = "Nivel: " + nivel;
+        textoNivel.text = "Nivel:    " + nivel;
         textoDinero.text = "Dinero:    " + dinero;
         textoTiempo.text = "Tiempo:    " + tiempo.ToString("F1") + "s";
 
@@ -276,13 +313,28 @@ public class CanvasManager : MonoBehaviour
         Time.timeScale = 1f;
         juegoPausado = false;
         
-        // Destruir sistemas persistentes para reinicio limpio
-        if (Instance != null)
-            Destroy(Instance.gameObject);
+        // Ocultar ambos paneles
+        if (panelGameOver != null)
+            panelGameOver.SetActive(false);
+        if (panelGameWin != null)
+            panelGameWin.SetActive(false);
         
+        // DESTRUIR TODOS LOS OBJETOS PERSISTENTES EN ORDEN
+        if (ControladorJugador.Instance != null)
+        {
+            Destroy(ControladorJugador.Instance.gameObject);
+        }
+        
+        if (GestorNiveles.Instance != null)
+        {
+            Destroy(GestorNiveles.Instance.gameObject);
+        }
+        
+        // IMPORTANTE: También destruir este CanvasManager
+        Destroy(gameObject);
+        
+        // Cargar el menú principal
         SceneManager.LoadScene("MenuPrincipal");
-        
-
     }
     #endregion
 
