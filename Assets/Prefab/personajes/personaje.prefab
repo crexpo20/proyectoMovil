@@ -208,16 +208,12 @@ MonoBehaviour:
   latigoPrefab: {fileID: 1809658828189758496, guid: 176a2743468a69748924cd1714576019, type: 3}
   cooldownAtaque: 0.5
   danioLatigo: 1
-  vidamaxima: 3
+  vidamaxima: 5
   knockbackforce: 8
   knockbackDuration: 0.25
   invulnerabilityDuration: 1
   flashFrequency: 10
   joystick: {fileID: 0}
-  botonSalto: {fileID: 0}
-  botonAtaque: {fileID: 0}
-  botonBomba: {fileID: 0}
-  botonCuerda: {fileID: 0}
   permitirTeclado: 1
   canDoubleJump: 0
 --- !u!114 &2941842876809699288

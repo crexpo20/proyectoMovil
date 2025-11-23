@@ -29,8 +29,19 @@ public class CanvasManager : MonoBehaviour
     public Button botonReiniciar;
     public Button botonMenuPrincipal;
 
+    [Header("Panel Game Over")]
+    public GameObject panelGameOver;
+    public TMPro.TMP_Text textoMotivo;
+    public TMPro.TMP_Text textoFrase;
+    public TMPro.TMP_Text textoNivel;
+    public TMPro.TMP_Text textoDinero;
+    public TMPro.TMP_Text textoTiempo;
+    public Button botonFJMenu;
+    public Button botonFJFin;
+    
+
     // Datos del juego
-    private int oro = 0;
+    public int oro = 0;
     private bool juegoPausado = false;
     private Personaje_movimiento personaje;
 
@@ -71,6 +82,34 @@ public class CanvasManager : MonoBehaviour
             TogglePausa();
         }
     }
+    //------------ui findel juego -----------
+    public void MostrarGameOver(string motivo, string nivel, int dinero, float tiempo)
+    {
+        Time.timeScale = 0f;
+
+        panelGameOver.SetActive(true);
+
+        textoMotivo.text = motivo;
+        textoNivel.text = "Nivel: " + nivel;
+        textoDinero.text = "Dinero:    " + dinero;
+        textoTiempo.text = "Tiempo:    " + tiempo.ToString("F1") + "s";
+
+        // Frase aleatoria opcional
+        textoFrase.text = ObtenerFraseMuerte();
+    }
+
+    private string ObtenerFraseMuerte()
+    {
+        string[] frases = {
+            "¡Ups! ¿Intentamos de nuevo?",
+            "No te rindas, lo hiciste bien.",
+            "Cada derrota enseña algo nuevo.",
+            "La próxima será la buena."
+        };
+
+        return frases[Random.Range(0, frases.Length)];
+    }
+    //-----------fin ui fin del juego --------
 
     private void OnEscenaCargada(Scene escena, LoadSceneMode modo)
     {
@@ -177,6 +216,16 @@ public class CanvasManager : MonoBehaviour
             botonMenuPrincipal.onClick.RemoveAllListeners();
             botonMenuPrincipal.onClick.AddListener(IrMenuPrincipal);
         }
+        if (botonFJMenu != null)
+        {
+            botonFJMenu.onClick.RemoveAllListeners();
+            botonFJMenu.onClick.AddListener(IrMenuPrincipal);
+        }
+        if (botonFJFin != null)
+        {
+            botonFJFin.onClick.RemoveAllListeners();
+            botonFJFin.onClick.AddListener(ReiniciarNivel);
+        }
     }
 
     #region SISTEMA DE PAUSA UNIFICADO
@@ -233,7 +282,7 @@ public class CanvasManager : MonoBehaviour
         
         SceneManager.LoadScene("MenuPrincipal");
         
-        Debug.Log("Cargando menú principal...");
+
     }
     #endregion
 

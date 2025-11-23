@@ -267,8 +267,10 @@ public class Personaje_movimiento : MonoBehaviour
         {
             if (Animator != null) Animator.SetTrigger("die");
             enabled = false;
-            StartCoroutine(DelayAndReload(1.0f));
-            return;
+            CanvasManager.Instance.MostrarGameOver("Has muerto",GestorNiveles.Instance.nivelActual,CanvasManager.Instance.oro,0f);
+            // Bloquear controles
+            enabled = false;
+            rb.linearVelocity = Vector2.zero;
         }
 
         Vector2 direccion = ((Vector2)transform.position - fuentePos).normalized;
@@ -276,14 +278,8 @@ public class Personaje_movimiento : MonoBehaviour
 
         StartCoroutine(ProcesoKnockbackYInvulnerable(direccion));
 
-        //if (Animator != null) Animator.SetTrigger("hit");
     }
 
-    private IEnumerator DelayAndReload(float delay)
-    {
-        yield return new WaitForSeconds(delay);
-        reiniciarecena();
-    }
 
     private IEnumerator ProcesoKnockbackYInvulnerable(Vector2 direccion)
     {
