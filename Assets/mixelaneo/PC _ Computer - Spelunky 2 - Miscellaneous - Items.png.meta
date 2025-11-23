@@ -893,7 +893,7 @@ TextureImporter:
         serializedVersion: 2
         x: 17
         y: 1944
-        width: 96
+        width: 97
         height: 73
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -914,9 +914,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 269
-        y: 1938
+        y: 1936
         width: 103
-        height: 88
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -935,10 +935,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_2
       rect:
         serializedVersion: 2
-        x: 406
-        y: 1942
-        width: 85
-        height: 77
+        x: 405
+        y: 1940
+        width: 87
+        height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -957,9 +957,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_3
       rect:
         serializedVersion: 2
-        x: 538
+        x: 537
         y: 1940
-        width: 76
+        width: 79
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -980,9 +980,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 662
-        y: 1938
-        width: 84
-        height: 88
+        y: 1936
+        width: 86
+        height: 90
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,10 +1001,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_5
       rect:
         serializedVersion: 2
-        x: 779
-        y: 1945
-        width: 100
-        height: 69
+        x: 776
+        y: 1944
+        width: 103
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1068,9 +1068,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1421
-        y: 1961
-        width: 59
-        height: 67
+        y: 1931
+        width: 104
+        height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1112,9 +1112,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1929
-        y: 1955
+        y: 1954
         width: 110
-        height: 58
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1133,10 +1133,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_11
       rect:
         serializedVersion: 2
-        x: 150
+        x: 149
         y: 1944
-        width: 85
-        height: 35
+        width: 87
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1156,9 +1156,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 938
-        y: 1955
-        width: 50
-        height: 51
+        y: 1957
+        width: 44
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1177,10 +1177,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_13
       rect:
         serializedVersion: 2
-        x: 1071
+        x: 1070
         y: 1955
-        width: 34
-        height: 52
+        width: 36
+        height: 53
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,9 +1243,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_16
       rect:
         serializedVersion: 2
-        x: 1331
+        x: 1332
         y: 1951
-        width: 46
+        width: 45
         height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1266,9 +1266,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1573
-        y: 1958
+        y: 1956
         width: 57
-        height: 50
+        height: 52
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1288,9 +1288,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1714
-        y: 1970
-        width: 31
-        height: 27
+        y: 1968
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1311,7 +1311,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1823
         y: 1968
-        width: 74
+        width: 77
         height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1377,7 +1377,7 @@ TextureImporter:
         serializedVersion: 2
         x: 41
         y: 1838
-        width: 45
+        width: 46
         height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1397,10 +1397,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_23
       rect:
         serializedVersion: 2
-        x: 145
+        x: 144
         y: 1839
-        width: 94
-        height: 32
+        width: 95
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,9 +1441,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_25
       rect:
         serializedVersion: 2
-        x: 417
+        x: 416
         y: 1820
-        width: 64
+        width: 65
         height: 73
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1465,7 +1465,7 @@ TextureImporter:
         serializedVersion: 2
         x: 535
         y: 1819
-        width: 82
+        width: 83
         height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1485,9 +1485,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_27
       rect:
         serializedVersion: 2
-        x: 674
+        x: 672
         y: 1819
-        width: 60
+        width: 62
         height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1509,8 +1509,8 @@ TextureImporter:
         serializedVersion: 2
         x: 784
         y: 1818
-        width: 91
-        height: 63
+        width: 92
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1532,7 +1532,7 @@ TextureImporter:
         x: 916
         y: 1816
         width: 86
-        height: 78
+        height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1574,9 +1574,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1163
-        y: 1805
-        width: 110
-        height: 81
+        y: 1804
+        width: 111
+        height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1596,9 +1596,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1291
-        y: 1805
+        y: 1804
         width: 110
-        height: 62
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1640,9 +1640,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1566
-        y: 1813
+        y: 1812
         width: 62
-        height: 85
+        height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1661,9 +1661,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_35
       rect:
         serializedVersion: 2
-        x: 1675
+        x: 1674
         y: 1817
-        width: 104
+        width: 105
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1684,9 +1684,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1813
-        y: 1810
+        y: 1808
         width: 84
-        height: 75
+        height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1705,10 +1705,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_37
       rect:
         serializedVersion: 2
-        x: 1945
-        y: 1809
-        width: 77
-        height: 93
+        x: 1944
+        y: 1808
+        width: 78
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,9 +1728,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 24
-        y: 1683
-        width: 81
-        height: 86
+        y: 1684
+        width: 80
+        height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,10 +1749,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_39
       rect:
         serializedVersion: 2
-        x: 143
-        y: 1686
-        width: 101
-        height: 83
+        x: 144
+        y: 1685
+        width: 100
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1815,10 +1815,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_42
       rect:
         serializedVersion: 2
-        x: 539
-        y: 1682
-        width: 76
-        height: 93
+        x: 538
+        y: 1680
+        width: 77
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1837,10 +1837,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_43
       rect:
         serializedVersion: 2
-        x: 655
-        y: 1685
-        width: 95
-        height: 90
+        x: 656
+        y: 1684
+        width: 94
+        height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1859,10 +1859,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_44
       rect:
         serializedVersion: 2
-        x: 783
+        x: 782
         y: 1684
-        width: 94
-        height: 89
+        width: 95
+        height: 87
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1882,9 +1882,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 909
-        y: 1685
-        width: 97
-        height: 88
+        y: 1684
+        width: 98
+        height: 87
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1904,9 +1904,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1044
-        y: 1682
+        y: 1680
         width: 87
-        height: 91
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1925,10 +1925,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_47
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 1684
-        width: 75
-        height: 92
+        x: 1177
+        y: 1685
+        width: 77
+        height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1947,10 +1947,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_48
       rect:
         serializedVersion: 2
-        x: 1298
-        y: 1686
-        width: 96
-        height: 84
+        x: 1296
+        y: 1684
+        width: 98
+        height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1991,9 +1991,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_50
       rect:
         serializedVersion: 2
-        x: 1543
+        x: 1542
         y: 1666
-        width: 114
+        width: 116
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2013,9 +2013,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_51
       rect:
         serializedVersion: 2
-        x: 1671
+        x: 1670
         y: 1666
-        width: 114
+        width: 116
         height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2038,7 +2038,7 @@ TextureImporter:
         x: 1798
         y: 1666
         width: 116
-        height: 124
+        height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2057,10 +2057,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_53
       rect:
         serializedVersion: 2
-        x: 1939
+        x: 1940
         y: 1680
-        width: 86
-        height: 95
+        width: 85
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2079,10 +2079,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_54
       rect:
         serializedVersion: 2
-        x: 11
-        y: 1576
-        width: 106
-        height: 44
+        x: 10
+        y: 1577
+        width: 108
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2125,7 +2125,7 @@ TextureImporter:
         serializedVersion: 2
         x: 272
         y: 1570
-        width: 95
+        width: 96
         height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2148,7 +2148,7 @@ TextureImporter:
         x: 400
         y: 1553
         width: 94
-        height: 88
+        height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2169,7 +2169,7 @@ TextureImporter:
         serializedVersion: 2
         x: 518
         y: 1563
-        width: 113
+        width: 114
         height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2191,7 +2191,7 @@ TextureImporter:
         serializedVersion: 2
         x: 646
         y: 1563
-        width: 113
+        width: 114
         height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2211,10 +2211,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_60
       rect:
         serializedVersion: 2
-        x: 807
-        y: 1559
-        width: 49
-        height: 82
+        x: 808
+        y: 1560
+        width: 48
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2233,9 +2233,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_61
       rect:
         serializedVersion: 2
-        x: 910
+        x: 909
         y: 1579
-        width: 100
+        width: 101
         height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2255,9 +2255,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_62
       rect:
         serializedVersion: 2
-        x: 1155
+        x: 1156
         y: 1538
-        width: 122
+        width: 120
         height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2299,10 +2299,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_64
       rect:
         serializedVersion: 2
-        x: 1413
-        y: 1582
-        width: 116
-        height: 35
+        x: 1412
+        y: 1580
+        width: 117
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2321,10 +2321,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_65
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 1582
-        width: 116
-        height: 35
+        x: 1540
+        y: 1580
+        width: 117
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2343,10 +2343,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_66
       rect:
         serializedVersion: 2
-        x: 1669
-        y: 1582
-        width: 116
-        height: 38
+        x: 1668
+        y: 1580
+        width: 117
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2367,8 +2367,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1821
         y: 1572
-        width: 64
-        height: 34
+        width: 65
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2388,9 +2388,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1946
-        y: 1573
-        width: 69
-        height: 58
+        y: 1572
+        width: 70
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2431,9 +2431,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_70
       rect:
         serializedVersion: 2
-        x: 143
+        x: 142
         y: 1435
-        width: 95
+        width: 96
         height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2453,9 +2453,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_71
       rect:
         serializedVersion: 2
-        x: 269
+        x: 268
         y: 1431
-        width: 101
+        width: 102
         height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2475,10 +2475,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_72
       rect:
         serializedVersion: 2
-        x: 397
-        y: 1431
-        width: 101
-        height: 82
+        x: 396
+        y: 1430
+        width: 102
+        height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,10 +2497,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_73
       rect:
         serializedVersion: 2
-        x: 529
-        y: 1455
+        x: 528
+        y: 1456
         width: 96
-        height: 31
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2519,10 +2519,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_74
       rect:
         serializedVersion: 2
-        x: 657
+        x: 656
         y: 1455
-        width: 94
-        height: 32
+        width: 95
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2541,10 +2541,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_75
       rect:
         serializedVersion: 2
-        x: 785
-        y: 1455
-        width: 97
-        height: 31
+        x: 784
+        y: 1456
+        width: 98
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2564,9 +2564,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 923
-        y: 1415
-        width: 75
-        height: 114
+        y: 1416
+        width: 77
+        height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2587,7 +2587,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1054
         y: 1416
-        width: 67
+        width: 66
         height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2607,10 +2607,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_78
       rect:
         serializedVersion: 2
-        x: 1157
-        y: 1454
-        width: 116
-        height: 35
+        x: 1156
+        y: 1452
+        width: 117
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2630,9 +2630,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1303
-        y: 1438
+        y: 1437
         width: 91
-        height: 76
+        height: 77
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2673,10 +2673,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_81
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 1461
-        width: 27
-        height: 26
+        x: 1588
+        y: 1460
+        width: 26
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2719,7 +2719,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1839
         y: 1410
-        width: 38
+        width: 37
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2827,9 +2827,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_88
       rect:
         serializedVersion: 2
-        x: 412
+        x: 413
         y: 1306
-        width: 69
+        width: 68
         height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2895,8 +2895,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1561
         y: 1303
-        width: 77
-        height: 83
+        width: 78
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2916,7 +2916,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1691
-        y: 1303
+        y: 1304
         width: 74
         height: 83
       alignment: 0
@@ -2937,10 +2937,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_93
       rect:
         serializedVersion: 2
-        x: 1807
-        y: 1303
+        x: 1806
+        y: 1304
         width: 98
-        height: 84
+        height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2959,10 +2959,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_94
       rect:
         serializedVersion: 2
-        x: 1927
+        x: 1926
         y: 1305
-        width: 114
-        height: 83
+        width: 116
+        height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2983,7 +2983,7 @@ TextureImporter:
         serializedVersion: 2
         x: 21
         y: 1180
-        width: 96
+        width: 99
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3003,10 +3003,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_96
       rect:
         serializedVersion: 2
-        x: 143
-        y: 1174
-        width: 101
-        height: 83
+        x: 144
+        y: 1173
+        width: 96
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3027,7 +3027,7 @@ TextureImporter:
         serializedVersion: 2
         x: 270
         y: 1173
-        width: 102
+        width: 99
         height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3048,9 +3048,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 404
-        y: 1170
+        y: 1168
         width: 87
-        height: 91
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3071,8 +3071,8 @@ TextureImporter:
         serializedVersion: 2
         x: 538
         y: 1170
-        width: 79
-        height: 60
+        width: 78
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3093,7 +3093,7 @@ TextureImporter:
         serializedVersion: 2
         x: 666
         y: 1175
-        width: 72
+        width: 73
         height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3114,9 +3114,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 773
-        y: 1175
+        y: 1188
         width: 112
-        height: 58
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3180,9 +3180,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1179
-        y: 1178
-        width: 75
-        height: 55
+        y: 1177
+        width: 76
+        height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3224,9 +3224,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1441
-        y: 1183
+        y: 1184
         width: 63
-        height: 64
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3269,7 +3269,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1716
         y: 1203
-        width: 25
+        width: 28
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3289,10 +3289,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_109
       rect:
         serializedVersion: 2
-        x: 1794
-        y: 1153
-        width: 124
-        height: 133
+        x: 1792
+        y: 1152
+        width: 128
+        height: 134
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3333,7 +3333,7 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_111
       rect:
         serializedVersion: 2
-        x: 3
+        x: 4
         y: 1070
         width: 124
         height: 34
@@ -3355,9 +3355,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_112
       rect:
         serializedVersion: 2
-        x: 131
+        x: 132
         y: 1070
-        width: 111
+        width: 112
         height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3377,10 +3377,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_113
       rect:
         serializedVersion: 2
-        x: 252
-        y: 1086
-        width: 4
-        height: 7
+        x: 253
+        y: 1070
+        width: 123
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3399,9 +3399,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_114
       rect:
         serializedVersion: 2
-        x: 383
+        x: 388
         y: 1070
-        width: 128
+        width: 124
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3421,10 +3421,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_115
       rect:
         serializedVersion: 2
-        x: 546
+        x: 545
         y: 1043
-        width: 63
-        height: 67
+        width: 64
+        height: 69
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3444,9 +3444,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 674
-        y: 1048
+        y: 1050
         width: 52
-        height: 67
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3466,9 +3466,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 788
-        y: 1058
+        y: 1060
         width: 67
-        height: 55
+        height: 53
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3487,10 +3487,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_118
       rect:
         serializedVersion: 2
-        x: 907
-        y: 1050
-        width: 76
-        height: 65
+        x: 908
+        y: 1057
+        width: 75
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3533,7 +3533,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1157
         y: 1066
-        width: 82
+        width: 80
         height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3555,7 +3555,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1292
         y: 1062
-        width: 74
+        width: 73
         height: 52
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3576,9 +3576,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1420
-        y: 1048
+        y: 1056
         width: 75
-        height: 66
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3598,9 +3598,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1544
-        y: 1070
+        y: 1060
         width: 79
-        height: 44
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3619,10 +3619,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_124
       rect:
         serializedVersion: 2
-        x: 1672
-        y: 1065
-        width: 77
-        height: 69
+        x: 1673
+        y: 1074
+        width: 76
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3642,9 +3642,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1800
-        y: 1064
+        y: 1073
         width: 77
-        height: 78
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3663,9 +3663,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_126
       rect:
         serializedVersion: 2
-        x: 1937
+        x: 1936
         y: 1062
-        width: 69
+        width: 70
         height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3685,10 +3685,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_127
       rect:
         serializedVersion: 2
-        x: 13
-        y: 915
-        width: 98
-        height: 92
+        x: 12
+        y: 916
+        width: 99
+        height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3709,7 +3709,7 @@ TextureImporter:
         serializedVersion: 2
         x: 140
         y: 910
-        width: 105
+        width: 106
         height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3731,8 +3731,8 @@ TextureImporter:
         serializedVersion: 2
         x: 268
         y: 910
-        width: 105
-        height: 108
+        width: 106
+        height: 109
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3753,7 +3753,7 @@ TextureImporter:
         serializedVersion: 2
         x: 396
         y: 910
-        width: 105
+        width: 106
         height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3817,9 +3817,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_133
       rect:
         serializedVersion: 2
-        x: 775
+        x: 776
         y: 899
-        width: 100
+        width: 99
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3929,7 +3929,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1439
         y: 944
-        width: 74
+        width: 77
         height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3951,7 +3951,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1567
         y: 944
-        width: 74
+        width: 77
         height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3973,7 +3973,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1695
         y: 944
-        width: 74
+        width: 77
         height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3995,7 +3995,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1810
         y: 944
-        width: 87
+        width: 90
         height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4125,10 +4125,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_147
       rect:
         serializedVersion: 2
-        x: 538
-        y: 789
-        width: 75
-        height: 88
+        x: 536
+        y: 788
+        width: 78
+        height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4147,10 +4147,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_148
       rect:
         serializedVersion: 2
-        x: 657
-        y: 790
-        width: 97
-        height: 85
+        x: 656
+        y: 789
+        width: 98
+        height: 87
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4169,9 +4169,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_149
       rect:
         serializedVersion: 2
-        x: 794
+        x: 792
         y: 788
-        width: 75
+        width: 78
         height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4191,9 +4191,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_150
       rect:
         serializedVersion: 2
-        x: 922
+        x: 920
         y: 788
-        width: 75
+        width: 78
         height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4214,9 +4214,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1038
-        y: 798
-        width: 100
-        height: 70
+        y: 796
+        width: 102
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4236,9 +4236,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1166
-        y: 798
-        width: 100
-        height: 70
+        y: 796
+        width: 102
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4258,9 +4258,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1294
-        y: 798
-        width: 100
-        height: 70
+        y: 796
+        width: 102
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4280,9 +4280,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1417
-        y: 803
+        y: 802
         width: 110
-        height: 58
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4302,9 +4302,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1545
-        y: 803
+        y: 802
         width: 110
-        height: 58
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4324,9 +4324,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1673
-        y: 803
+        y: 802
         width: 110
-        height: 58
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4346,9 +4346,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1801
-        y: 803
+        y: 802
         width: 110
-        height: 58
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4368,9 +4368,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1929
-        y: 803
+        y: 802
         width: 110
-        height: 58
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4390,9 +4390,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 660
+        y: 661
         width: 128
-        height: 84
+        height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4434,9 +4434,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 294
-        y: 641
+        y: 640
         width: 51
-        height: 125
+        height: 127
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4455,9 +4455,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_162
       rect:
         serializedVersion: 2
-        x: 383
+        x: 382
         y: 640
-        width: 130
+        width: 131
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4477,9 +4477,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_163
       rect:
         serializedVersion: 2
-        x: 514
+        x: 513
         y: 682
-        width: 124
+        width: 125
         height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4499,9 +4499,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_164
       rect:
         serializedVersion: 2
-        x: 679
+        x: 680
         y: 642
-        width: 48
+        width: 47
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4543,9 +4543,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_166
       rect:
         serializedVersion: 2
-        x: 947
+        x: 948
         y: 649
-        width: 36
+        width: 35
         height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4565,9 +4565,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_167
       rect:
         serializedVersion: 2
-        x: 1043
+        x: 1042
         y: 659
-        width: 67
+        width: 69
         height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4587,9 +4587,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_168
       rect:
         serializedVersion: 2
-        x: 1158
-        y: 685
-        width: 113
+        x: 1156
+        y: 684
+        width: 116
         height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4611,8 +4611,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1281
         y: 676
-        width: 124
-        height: 63
+        width: 125
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4634,7 +4634,7 @@ TextureImporter:
         x: 1419
         y: 644
         width: 108
-        height: 121
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4653,7 +4653,7 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_171
       rect:
         serializedVersion: 2
-        x: 1558
+        x: 1557
         y: 657
         width: 82
         height: 94
@@ -4676,9 +4676,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1691
-        y: 665
-        width: 68
-        height: 74
+        y: 664
+        width: 69
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4697,7 +4697,7 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_173
       rect:
         serializedVersion: 2
-        x: 1817
+        x: 1818
         y: 659
         width: 76
         height: 89
@@ -4719,10 +4719,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_174
       rect:
         serializedVersion: 2
-        x: 1943
-        y: 659
-        width: 80
-        height: 89
+        x: 1940
+        y: 658
+        width: 83
+        height: 90
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4742,9 +4742,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 129
-        y: 607
+        y: 606
         width: 125
-        height: 25
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4763,9 +4763,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_176
       rect:
         serializedVersion: 2
-        x: 919
+        x: 916
         y: 535
-        width: 87
+        width: 90
         height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4787,8 +4787,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1042
         y: 530
-        width: 95
-        height: 97
+        width: 96
+        height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4852,9 +4852,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 261
-        y: 517
-        width: 118
-        height: 64
+        y: 516
+        width: 119
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4874,9 +4874,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 389
-        y: 517
-        width: 118
-        height: 64
+        y: 516
+        width: 119
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4920,7 +4920,7 @@ TextureImporter:
         x: 646
         y: 512
         width: 116
-        height: 67
+        height: 68
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4940,9 +4940,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 767
-        y: 519
+        y: 518
         width: 129
-        height: 55
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4984,8 +4984,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1340
-        y: 575
-        width: 17
+        y: 576
+        width: 16
         height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5005,10 +5005,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_187
       rect:
         serializedVersion: 2
-        x: 1469
+        x: 1468
         y: 575
-        width: 21
-        height: 20
+        width: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5028,9 +5028,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1596
-        y: 575
-        width: 25
-        height: 23
+        y: 572
+        width: 24
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5049,10 +5049,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_189
       rect:
         serializedVersion: 2
-        x: 1725
+        x: 1724
         y: 575
-        width: 21
-        height: 20
+        width: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5072,8 +5072,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1852
-        y: 575
-        width: 17
+        y: 576
+        width: 16
         height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5137,10 +5137,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_193
       rect:
         serializedVersion: 2
-        x: 133
-        y: 387
-        width: 116
-        height: 119
+        x: 132
+        y: 384
+        width: 117
+        height: 124
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5183,7 +5183,7 @@ TextureImporter:
         serializedVersion: 2
         x: 384
         y: 423
-        width: 110
+        width: 111
         height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5204,9 +5204,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 423
+        y: 422
         width: 116
-        height: 78
+        height: 77
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5225,10 +5225,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_197
       rect:
         serializedVersion: 2
-        x: 631
-        y: 423
-        width: 123
-        height: 71
+        x: 640
+        y: 422
+        width: 116
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5249,7 +5249,7 @@ TextureImporter:
         serializedVersion: 2
         x: 768
         y: 423
-        width: 110
+        width: 111
         height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5272,7 +5272,7 @@ TextureImporter:
         x: 895
         y: 390
         width: 130
-        height: 51
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5314,9 +5314,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1186
-        y: 399
+        y: 400
         width: 71
-        height: 106
+        height: 105
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5335,9 +5335,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_202
       rect:
         serializedVersion: 2
-        x: 1335
+        x: 1334
         y: 387
-        width: 52
+        width: 53
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5357,9 +5357,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_203
       rect:
         serializedVersion: 2
-        x: 1433
+        x: 1432
         y: 402
-        width: 87
+        width: 88
         height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5379,9 +5379,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_204
       rect:
         serializedVersion: 2
-        x: 1679
+        x: 1676
         y: 389
-        width: 97
+        width: 100
         height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5401,9 +5401,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_205
       rect:
         serializedVersion: 2
-        x: 1807
+        x: 1804
         y: 389
-        width: 97
+        width: 100
         height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5447,7 +5447,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1
         y: 258
-        width: 127
+        width: 126
         height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5469,8 +5469,8 @@ TextureImporter:
         serializedVersion: 2
         x: 142
         y: 294
-        width: 103
-        height: 53
+        width: 102
+        height: 54
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5492,7 +5492,7 @@ TextureImporter:
         x: 263
         y: 293
         width: 114
-        height: 56
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5513,8 +5513,8 @@ TextureImporter:
         serializedVersion: 2
         x: 384
         y: 256
-        width: 129
-        height: 127
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5534,9 +5534,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 539
-        y: 274
+        y: 273
         width: 72
-        height: 93
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5557,8 +5557,8 @@ TextureImporter:
         serializedVersion: 2
         x: 664
         y: 274
-        width: 79
-        height: 93
+        width: 80
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5578,9 +5578,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 794
-        y: 267
+        y: 266
         width: 74
-        height: 106
+        height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5599,10 +5599,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_214
       rect:
         serializedVersion: 2
-        x: 929
+        x: 928
         y: 296
-        width: 61
-        height: 46
+        width: 62
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5643,10 +5643,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_216
       rect:
         serializedVersion: 2
-        x: 1054
-        y: 294
-        width: 70
-        height: 51
+        x: 1059
+        y: 295
+        width: 65
+        height: 53
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5666,9 +5666,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1189
-        y: 289
+        y: 292
         width: 56
-        height: 58
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5687,9 +5687,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_218
       rect:
         serializedVersion: 2
-        x: 1310
+        x: 1315
         y: 295
-        width: 70
+        width: 61
         height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5710,9 +5710,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1440
-        y: 298
+        y: 296
         width: 64
-        height: 44
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5753,9 +5753,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_221
       rect:
         serializedVersion: 2
-        x: 1671
+        x: 1670
         y: 262
-        width: 114
+        width: 115
         height: 115
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5797,9 +5797,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_223
       rect:
         serializedVersion: 2
-        x: 1938
+        x: 1937
         y: 275
-        width: 92
+        width: 94
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5887,8 +5887,8 @@ TextureImporter:
         serializedVersion: 2
         x: 52
         y: 180
-        width: 23
-        height: 23
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5930,9 +5930,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 293
-        y: 171
+        y: 170
         width: 52
-        height: 42
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5952,9 +5952,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 396
-        y: 142
-        width: 103
-        height: 102
+        y: 140
+        width: 104
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5973,9 +5973,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_231
       rect:
         serializedVersion: 2
-        x: 534
+        x: 533
         y: 149
-        width: 76
+        width: 77
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5998,7 +5998,7 @@ TextureImporter:
         x: 648
         y: 145
         width: 109
-        height: 98
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6041,7 +6041,7 @@ TextureImporter:
         serializedVersion: 2
         x: 908
         y: 132
-        width: 108
+        width: 105
         height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6063,7 +6063,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1035
         y: 131
-        width: 110
+        width: 109
         height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6085,7 +6085,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1159
         y: 132
-        width: 117
+        width: 113
         height: 123
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6106,9 +6106,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1291
-        y: 134
+        y: 132
         width: 110
-        height: 103
+        height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6127,10 +6127,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_238
       rect:
         serializedVersion: 2
-        x: 1423
-        y: 143
-        width: 99
-        height: 99
+        x: 1420
+        y: 140
+        width: 104
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6149,9 +6149,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_239
       rect:
         serializedVersion: 2
-        x: 1543
+        x: 1542
         y: 150
-        width: 114
+        width: 115
         height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6173,7 +6173,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1667
         y: 147
-        width: 122
+        width: 123
         height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6193,9 +6193,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_241
       rect:
         serializedVersion: 2
-        x: 1795
+        x: 1794
         y: 145
-        width: 122
+        width: 124
         height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6215,9 +6215,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_242
       rect:
         serializedVersion: 2
-        x: 1921
+        x: 1920
         y: 151
-        width: 127
+        width: 128
         height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6237,9 +6237,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_243
       rect:
         serializedVersion: 2
-        x: 3
+        x: 4
         y: 2
-        width: 122
+        width: 121
         height: 123
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6259,9 +6259,9 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_244
       rect:
         serializedVersion: 2
-        x: 131
+        x: 132
         y: 2
-        width: 122
+        width: 121
         height: 123
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6281,10 +6281,10 @@ TextureImporter:
       name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_245
       rect:
         serializedVersion: 2
-        x: 286
+        x: 285
         y: 22
-        width: 60
-        height: 83
+        width: 61
+        height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6326,9 +6326,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 515
-        y: 3
+        y: 2
         width: 124
-        height: 122
+        height: 123
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6348,9 +6348,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 652
-        y: 18
+        y: 17
         width: 105
-        height: 91
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6370,9 +6370,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 780
-        y: 18
+        y: 17
         width: 105
-        height: 91
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6392,9 +6392,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 908
-        y: 18
+        y: 17
         width: 105
-        height: 91
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6414,9 +6414,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1036
-        y: 18
+        y: 17
         width: 105
-        height: 91
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6436,9 +6436,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1164
-        y: 18
+        y: 17
         width: 105
-        height: 91
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6458,9 +6458,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1292
-        y: 18
+        y: 17
         width: 105
-        height: 91
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6480,9 +6480,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1414
-        y: 10
-        width: 119
-        height: 91
+        y: 8
+        width: 120
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6503,7 +6503,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1547
         y: 10
-        width: 106
+        width: 107
         height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6524,9 +6524,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1675
-        y: 11
-        width: 106
-        height: 112
+        y: 10
+        width: 107
+        height: 113
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6546,9 +6546,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1798
-        y: 10
+        y: 8
         width: 120
-        height: 91
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6569,7 +6569,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1931
         y: 10
-        width: 106
+        width: 107
         height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6581,94 +6581,6 @@ TextureImporter:
       bones: []
       spriteID: 88f4522fb6488f0489ed644fb1e90efa
       internalID: 2046457896
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_259
-      rect:
-        serializedVersion: 2
-        x: 1465
-        y: 1931
-        width: 60
-        height: 56
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 787a32a3e16b63742a0a22880d186078
-      internalID: -1861741545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_260
-      rect:
-        serializedVersion: 2
-        x: 1438
-        y: 1938
-        width: 22
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ff3728e07ce38e45855a841a669f845
-      internalID: 1977402749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_261
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 1070
-        width: 116
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf48c2d58672ba54a8f57abe64ae7a5a
-      internalID: 333948715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PC _ Computer - Spelunky 2 - Miscellaneous - Items_262
-      rect:
-        serializedVersion: 2
-        x: 1547
-        y: 1057
-        width: 4
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a23fcb0e63dfe349b03f8ccbf34e60b
-      internalID: -2067968579
       vertices: []
       indices: 
       edges: []
@@ -6689,7 +6601,7 @@ TextureImporter:
       - key: SpriteEditor.SliceOnImport
         value: False
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_0: 3906131679587560684
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_1: 8990516613977082368
@@ -6869,11 +6781,7 @@ TextureImporter:
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_256: 1729952241
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_257: -355326061
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_258: 2046457896
-      PC _ Computer - Spelunky 2 - Miscellaneous - Items_259: -1861741545
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_26: -9041237190930585179
-      PC _ Computer - Spelunky 2 - Miscellaneous - Items_260: 1977402749
-      PC _ Computer - Spelunky 2 - Miscellaneous - Items_261: 333948715
-      PC _ Computer - Spelunky 2 - Miscellaneous - Items_262: -2067968579
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_27: 1678434700140898194
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_28: 304867825816830752
       PC _ Computer - Spelunky 2 - Miscellaneous - Items_29: 8826970206289163832

@@ -15,7 +15,7 @@ public class Personaje_movimiento : MonoBehaviour
     [Header("Items")]
     public int bombas = 0;
     public int cuerdas = 0;
-    public float longitudCuerda = 4f; // 5 bloques
+    public float longitudCuerda = 4f;
     public LayerMask groundLayer;
     public float offsetDeteccion = 0.2f;
     public GameObject BombaPrefab;
@@ -23,6 +23,11 @@ public class Personaje_movimiento : MonoBehaviour
     public static System.Action<int> UsoBomba;
     public static System.Action<int> UsoCuerda;
 
+    [Header("Ataque personaje")]
+    public GameObject latigoPrefab;
+    public float cooldownAtaque = 0.5f;
+    public int danioLatigo = 1;
+    private float cooldownTimer = 0f;
 
 
     [Header("vida y danio UI")]
@@ -39,31 +44,27 @@ public class Personaje_movimiento : MonoBehaviour
     [Header("Controles Táctiles")]
     [Tooltip("Arrastra aquí el Fixed Joystick")]
     public FixedJoystick joystick;
-    [Tooltip("Arrastra aquí el botón de salto")]
-    public Button botonSalto;
-    [Tooltip("Arrastra aquí el botón de atque")]
-    public Button botonAtaque;
-    [Tooltip("Arrastra aquí el botón de bomba")]
-    public Button botonBomba;
-    [Tooltip("Arrastra aquí el botón de cuerda")]
-    public Button botonCuerda;
 
     [Tooltip("Permitir controles de teclado (para testing en PC)")]
     public bool permitirTeclado = true;
     
+    [Header("Componentes")]
     private Rigidbody2D rb;
     private CapsuleCollider2D boxCollider;
     private Animator Animator;
-    private Animator subida;
     private float moveInput;
+    [Header("Estado")]   
     private bool Grounded;
     private bool ladders;
     private bool isInvulnerable = false;
     private bool isKnockback = false;
-    private bool quiereSaltar = false;
-    private bool lanzarBomba = false;
-    private bool lanzarCuerdas = false;
+    private bool atacando = false;
+    private bool puedeAtacar = true;
+
     private SpriteRenderer spriteRenderer;
+
+    public bool canDoubleJump = false;
+    private bool hasDoubleJumped = false;
 
 
     void Start()
@@ -72,21 +73,20 @@ public class Personaje_movimiento : MonoBehaviour
         Animator = GetComponent<Animator>();
         boxCollider = GetComponent<CapsuleCollider2D>();
         spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-
-        if (botonSalto != null) botonSalto.onClick.AddListener(OnBotonSaltoPresionado);
-
-        if (botonBomba != null) botonBomba.onClick.AddListener(OnBotonBombaPresionado);
-
-        if (botonCuerda != null) botonCuerda.onClick.AddListener(OnBotonCuerdaPresionado);
-        
     }
 
     void Update()
     {
         movimiento_vertical();
         Climb();
-        ColocarBomba();
-        ColocarCuerda();
+        ActualizarCooldown();
+        if (permitirTeclado)
+        {
+            if (Input.GetKeyDown(KeyCode.Space)) SaltarInstantaneo();
+            if (Input.GetKeyDown(KeyCode.Z)) AtaqueInstantaneo();
+            if (Input.GetKeyDown(KeyCode.C)) LanzarBombaInstantaneo();
+            if (Input.GetKeyDown(KeyCode.X)) LanzarCuerdaInstantaneo();
+        }
     }
     //------------Metodos para escena---------
     void reiniciarecena() {
@@ -94,19 +94,6 @@ public class Personaje_movimiento : MonoBehaviour
         SceneManager.LoadScene(curretSceneIndex);    
     }
 
-    // ----------Metododos para  botones----------
-    void OnBotonSaltoPresionado()
-    {
-        quiereSaltar = true;
-    }
-    void OnBotonBombaPresionado()
-    {
-        lanzarBomba = true;
-    }
-    void OnBotonCuerdaPresionado()
-    {
-        lanzarCuerdas = true;
-    }
     //---------Metodos para cuerdas------------
     public void AddCuerdas(int Crecolectado)
     {
@@ -115,12 +102,10 @@ public class Personaje_movimiento : MonoBehaviour
     }
     private void ColocarCuerda()
     {
-        if ((permitirTeclado && Input.GetKeyDown(KeyCode.X)) || lanzarCuerdas)
+        if ((permitirTeclado && Input.GetKeyDown(KeyCode.X)))
         {
             if (cuerdas > 0)
             {
-                LanzarCuerda();
-                lanzarCuerdas = false;
                 cuerdas--;
                 UsoCuerda?.Invoke(-1);
             }
@@ -166,12 +151,11 @@ public class Personaje_movimiento : MonoBehaviour
     }
     private void ColocarBomba()
     {
-        if (permitirTeclado && Input.GetKeyDown(KeyCode.C) || lanzarBomba)
+        if (permitirTeclado && Input.GetKeyDown(KeyCode.C) )
         {
             if (bombas > 0)
             {
                 bomb();
-                lanzarBomba = false;
                 bombas--;
                 UsoBomba?.Invoke(-1);
             }
@@ -185,21 +169,90 @@ public class Personaje_movimiento : MonoBehaviour
     {
         bombas += cantidad;
     }
-     private void bomb()
+    private void bomb()
     {
         Vector3 direction;
         if (transform.localScale.x == 1) direction = Vector2.right;
         else direction = Vector2.left;
-        GameObject prebomb = Instantiate(BombaPrefab, transform.position + direction *0.1f, Quaternion.identity);
+        GameObject prebomb = Instantiate(BombaPrefab, transform.position + direction * 0.1f, Quaternion.identity);
         bomba_script bombaScript = prebomb.GetComponent<bomba_script>();
         if (bombaScript != null)
         {
             bombaScript.SetDireccion(direction);
         }
     }
+    //----------Metodos para Ataque y daño ---------
+    private void IniciarAtaque()
+    {
+        if ((permitirTeclado && Input.GetKeyDown(KeyCode.Z)) )
+        {
+            if (puedeAtacar && !atacando)
+            {
+                Atacar();
+            }
+        }
+    }
+    private void Atacar()
+    {
+        if (puedeAtacar && !atacando)
+        {
+            atacando = true;
+            puedeAtacar = false;
+            cooldownTimer = cooldownAtaque;
+            
+            // Reproducir animación de ataque
+            if (Animator != null)
+            {
+                Animator.SetTrigger("atacar");
+            }
+            
+            // Crear el látigo
+            AtacarConLatigo();
+            
+        }
+    }
+    private void AtacarConLatigo()
+    {
+        if (latigoPrefab == null)
+        {
+            Debug.LogError("latigoPrefab no asignado!");
+            return;
+        }
 
+        // Crear el látigo
+        GameObject latigo = Instantiate(latigoPrefab);
+        
+        // Configurar el látigo - BUSCAR "Latigo" no "LatigoScript"
+        Latigo latigoComponent = latigo.GetComponent<Latigo>();
+        if (latigoComponent != null)
+        {
+            Vector2 direccionAtaque = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
+            latigoComponent.Configurar(direccionAtaque, transform.position);
+        }
+        else
+        {
+            Destroy(latigo);
 
-    //----------Metodos para el daño ----------------
+        }
+    }
+    private void ActualizarCooldown()
+{
+    if (!puedeAtacar)
+    {
+        cooldownTimer -= Time.deltaTime;
+        if (cooldownTimer <= 0f)
+        {
+            puedeAtacar = true;
+            atacando = false;
+        }
+    }
+}
+
+    //----------Metodos para el daño recibido ----------------
+    public int GetVida()
+    {
+        return vidamaxima;
+    }
     public void hit()
     {
         RecibirDaño(1, transform.position + Vector3.left);
@@ -214,8 +267,10 @@ public class Personaje_movimiento : MonoBehaviour
         {
             if (Animator != null) Animator.SetTrigger("die");
             enabled = false;
-            StartCoroutine(DelayAndReload(1.0f));
-            return;
+            CanvasManager.Instance.MostrarGameOver("Has muerto",GestorNiveles.Instance.nivelActual,CanvasManager.Instance.oro,0f);
+            // Bloquear controles
+            enabled = false;
+            rb.linearVelocity = Vector2.zero;
         }
 
         Vector2 direccion = ((Vector2)transform.position - fuentePos).normalized;
@@ -223,14 +278,8 @@ public class Personaje_movimiento : MonoBehaviour
 
         StartCoroutine(ProcesoKnockbackYInvulnerable(direccion));
 
-        //if (Animator != null) Animator.SetTrigger("hit");
     }
 
-    private IEnumerator DelayAndReload(float delay)
-    {
-        yield return new WaitForSeconds(delay);
-        reiniciarecena();
-    }
 
     private IEnumerator ProcesoKnockbackYInvulnerable(Vector2 direccion)
     {
@@ -283,17 +332,31 @@ public class Personaje_movimiento : MonoBehaviour
         Grounded = Physics2D.Raycast(transform.position, Vector3.down, 0.64f);
 
         
-        bool inputSalto = (permitirTeclado && Input.GetKeyDown(KeyCode.Space)) || quiereSaltar;
+        bool inputSalto = (permitirTeclado && Input.GetKeyDown(KeyCode.Space));
         if (inputSalto && Grounded && !isKnockback)
         {
             rb.AddForce(Vector2.up * jumpForce);
-            quiereSaltar = false;
+            hasDoubleJumped = false;
         }
-        else quiereSaltar = false;
+        else if (canDoubleJump && !hasDoubleJumped) 
+        {
+            rb.AddForce(Vector2.up *100f);
+          
+            hasDoubleJumped = true;
+        }
+
 
         if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
         else if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
     }
+
+    public void UnlockDoubleJump()
+    {
+        canDoubleJump = true;
+    }
+
+   
+   
 
     // === NUEVO MÉTODO: Obtiene input horizontal del joystick o teclado ===
     private float ObtenerInputHorizontal()
@@ -369,13 +432,52 @@ public class Personaje_movimiento : MonoBehaviour
             Animator.SetBool("isClimbing", false);
         }
     }
-    
+    //--------metodos extra -------------
+    public void SaltarInstantaneo()
+    {
+        if (Grounded && !isKnockback)
+        {
+            rb.AddForce(Vector2.up * jumpForce);
+            hasDoubleJumped = false;
+        }
+        else if (canDoubleJump && !hasDoubleJumped)
+        {
+            rb.AddForce(Vector2.up * jumpForce * 0.9f);
+            hasDoubleJumped = true;
+        }
+    }
+
+    public void AtaqueInstantaneo()
+    {
+        if (puedeAtacar && !atacando)
+        {
+            Atacar();
+        }
+    }
+
+    public void LanzarBombaInstantaneo()
+    {
+        if (bombas > 0)
+        {
+            bomb();
+            bombas--;
+            UsoBomba?.Invoke(-1);
+        }
+    }
+
+    public void LanzarCuerdaInstantaneo()
+    {
+        if (cuerdas > 0)
+        {
+            LanzarCuerda();
+            cuerdas--;
+            UsoCuerda?.Invoke(-1);
+        }
+    }
+
     // === NUEVO: Limpiar listener del botón al destruir ===
     void OnDestroy()
     {
-        if (botonSalto != null)
-        {
-            botonSalto.onClick.RemoveListener(OnBotonSaltoPresionado);
-        }
+
     }
 }

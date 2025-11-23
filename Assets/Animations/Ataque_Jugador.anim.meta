@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animations/Ataque_Jugador.anim.meta
+guid: f5745cb0d82dc0848b52614d5d3930e4
+========
+guid: b8e0625e4d1c6b24a960f6852a2f8bec
+>>>>>>>> 617be0e4d215e625d8744b7eb8ddd1efcd746974:Assets/Animations/BigFrogAtaque.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

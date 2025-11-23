@@ -148,6 +148,7 @@ GameObject:
   - component: {fileID: 7134559934154599453}
   - component: {fileID: 8489709509919455961}
   - component: {fileID: 6492759271769477490}
+  - component: {fileID: 2875862271509735501}
   m_Layer: 5
   m_Name: AttackButton
   m_TagString: Untagged
@@ -257,3 +258,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &2875862271509735501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3317893166917312552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b8e44c2c26de1940915cfbc8009ce59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BotonAtaque

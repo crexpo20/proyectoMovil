@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8535012846731289767}
   - component: {fileID: 3301594840260415755}
   - component: {fileID: 2172788872085784651}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: bomba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -220,10 +220,16 @@ MonoBehaviour:
   rb: {fileID: 0}
   Direccion: {x: 0, y: 0}
   hasLanded: 0
-  lanzado: 0
   explosionPrefab: {fileID: 3195190626697524971, guid: 6d89152b1ff775a42978a1bf2b931a7d, type: 3}
   explosionDuration: 1
-  bombTimer: 3
+  tiempoTotal: 3
+  inicioParpadeo: 1
+  radioExplosion: 2
+  danoBomba: 10
+  layersAfectados:
+    serializedVersion: 2
+    m_Bits: 2496
+  destructoresTilemaps: []
 --- !u!95 &2172788872085784651
 Animator:
   serializedVersion: 7
